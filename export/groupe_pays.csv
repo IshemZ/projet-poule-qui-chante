@@ -1,0 +1,2427 @@
+﻿Code Groupe de pays,Groupe de pays,Code groupe M49,Code Pays,Pays,Code M49,Code ISO2,Code ISO3
+5100,Afrique,002,107,Côte d'Ivoire,384,CI,CIV
+5100,Afrique,002,114,Kenya,404,KE,KEN
+5100,Afrique,002,122,Lesotho,426,LS,LSO
+5100,Afrique,002,123,Libéria,430,LR,LBR
+5100,Afrique,002,124,Libye,434,LY,LBY
+5100,Afrique,002,129,Madagascar,450,MG,MDG
+5100,Afrique,002,130,Malawi,454,MW,MWI
+5100,Afrique,002,133,Mali,466,ML,MLI
+5100,Afrique,002,136,Mauritanie,478,MR,MRT
+5100,Afrique,002,137,Maurice,480,MU,MUS
+5100,Afrique,002,143,Maroc,504,MA,MAR
+5100,Afrique,002,144,Mozambique,508,MZ,MOZ
+5100,Afrique,002,147,Namibie,516,,NAM
+5100,Afrique,002,158,Niger,562,NE,NER
+5100,Afrique,002,159,Nigéria,566,NG,NGA
+5100,Afrique,002,175,Guinée-Bissau,624,GW,GNB
+5100,Afrique,002,178,Érythrée,232,ER,ERI
+5100,Afrique,002,181,Zimbabwe,716,ZW,ZWE
+5100,Afrique,002,182,Réunion,638,RE,REU
+5100,Afrique,002,184,Rwanda,646,RW,RWA
+5100,Afrique,002,187,"Ascension, Sainte-Hélène et Tristan da Cunha",654,SH,SHN
+5100,Afrique,002,193,Sao Tomé-et-Principe,678,ST,STP
+5100,Afrique,002,195,Sénégal,686,SN,SEN
+5100,Afrique,002,196,Seychelles,690,SC,SYC
+5100,Afrique,002,197,Sierra Leone,694,SL,SLE
+5100,Afrique,002,20,Botswana,072,BW,BWA
+5100,Afrique,002,201,Somalie,706,SO,SOM
+5100,Afrique,002,202,Afrique du Sud,710,ZA,ZAF
+5100,Afrique,002,205,Sahara occidental,732,EH,ESH
+5100,Afrique,002,206,Soudan (ex),736,F206,F206
+5100,Afrique,002,209,Eswatini,748,SZ,SWZ
+5100,Afrique,002,215,République-Unie de Tanzanie,834,TZ,TZA
+5100,Afrique,002,217,Togo,768,TG,TGO
+5100,Afrique,002,222,Tunisie,788,TN,TUN
+5100,Afrique,002,226,Ouganda,800,UG,UGA
+5100,Afrique,002,233,Burkina Faso,854,BF,BFA
+5100,Afrique,002,238,Éthiopie,231,ET,ETH
+5100,Afrique,002,24,Archipel des Chagos,086,IO,IOT
+5100,Afrique,002,250,République démocratique du Congo,180,CD,COD
+5100,Afrique,002,251,Zambie,894,ZM,ZMB
+5100,Afrique,002,270,Mayotte,175,YT,MYT
+5100,Afrique,002,276,Soudan,729,SD,SDN
+5100,Afrique,002,277,Soudan du Sud,728,SS,SSD
+5100,Afrique,002,29,Burundi,108,BI,BDI
+5100,Afrique,002,32,Cameroun,120,CM,CMR
+5100,Afrique,002,35,Cabo Verde,132,CV,CPV
+5100,Afrique,002,37,République centrafricaine,140,CF,CAF
+5100,Afrique,002,39,Tchad,148,TD,TCD
+5100,Afrique,002,4,Algérie,012,DZ,DZA
+5100,Afrique,002,45,Comores,174,KM,COM
+5100,Afrique,002,46,Congo,178,CG,COG
+5100,Afrique,002,528,"Afrique du Sud, non spécifié",713,F528,F528
+5100,Afrique,002,53,Bénin,204,BJ,BEN
+5100,Afrique,002,59,Égypte,818,EG,EGY
+5100,Afrique,002,601,"Afrique, non spécifié",577,F601,F601
+5100,Afrique,002,605,"Afrique de l'Est, non spécifié",219,F605,F605
+5100,Afrique,002,61,Guinée équatoriale,226,GQ,GNQ
+5100,Afrique,002,612,"Afrique Centrale, non spécifié",017.04,F612,F612
+5100,Afrique,002,615,"Afrique du Nord, non spécifié",290,F615,F615
+5100,Afrique,002,616,"Afrique de l'Ouest, non spécifié",875,F616,F616
+5100,Afrique,002,62,Éthiopie RDP,230,F62,F62
+5100,Afrique,002,7,Angola,024,AO,AGO
+5100,Afrique,002,71,Terres australes françaises,260,TF,ATF
+5100,Afrique,002,72,Djibouti,262,DJ,DJI
+5100,Afrique,002,74,Gabon,266,GA,GAB
+5100,Afrique,002,75,Gambie,270,GM,GMB
+5100,Afrique,002,81,Ghana,288,GH,GHA
+5100,Afrique,002,90,Guinée,324,GN,GIN
+5104,Afrique australe,018,122,Lesotho,426,LS,LSO
+5104,Afrique australe,018,147,Namibie,516,,NAM
+5104,Afrique australe,018,20,Botswana,072,BW,BWA
+5104,Afrique australe,018,202,Afrique du Sud,710,ZA,ZAF
+5104,Afrique australe,018,209,Eswatini,748,SZ,SWZ
+5104,Afrique australe,018,528,"Afrique du Sud, non spécifié",713,F528,F528
+5102,Afrique centrale,017,193,Sao Tomé-et-Principe,678,ST,STP
+5102,Afrique centrale,017,250,République démocratique du Congo,180,CD,COD
+5102,Afrique centrale,017,32,Cameroun,120,CM,CMR
+5102,Afrique centrale,017,37,République centrafricaine,140,CF,CAF
+5102,Afrique centrale,017,39,Tchad,148,TD,TCD
+5102,Afrique centrale,017,46,Congo,178,CG,COG
+5102,Afrique centrale,017,61,Guinée équatoriale,226,GQ,GNQ
+5102,Afrique centrale,017,612,"Afrique Centrale, non spécifié",017.04,F612,F612
+5102,Afrique centrale,017,7,Angola,024,AO,AGO
+5102,Afrique centrale,017,74,Gabon,266,GA,GAB
+429,Afrique du Nord (Soudan Excl),746,124,Libye,434,LY,LBY
+429,Afrique du Nord (Soudan Excl),746,143,Maroc,504,MA,MAR
+429,Afrique du Nord (Soudan Excl),746,205,Sahara occidental,732,EH,ESH
+429,Afrique du Nord (Soudan Excl),746,222,Tunisie,788,TN,TUN
+429,Afrique du Nord (Soudan Excl),746,4,Algérie,012,DZ,DZA
+429,Afrique du Nord (Soudan Excl),746,59,Égypte,818,EG,EGY
+5105,Afrique occidentale,011,107,Côte d'Ivoire,384,CI,CIV
+5105,Afrique occidentale,011,123,Libéria,430,LR,LBR
+5105,Afrique occidentale,011,133,Mali,466,ML,MLI
+5105,Afrique occidentale,011,136,Mauritanie,478,MR,MRT
+5105,Afrique occidentale,011,158,Niger,562,NE,NER
+5105,Afrique occidentale,011,159,Nigéria,566,NG,NGA
+5105,Afrique occidentale,011,175,Guinée-Bissau,624,GW,GNB
+5105,Afrique occidentale,011,187,"Ascension, Sainte-Hélène et Tristan da Cunha",654,SH,SHN
+5105,Afrique occidentale,011,195,Sénégal,686,SN,SEN
+5105,Afrique occidentale,011,197,Sierra Leone,694,SL,SLE
+5105,Afrique occidentale,011,217,Togo,768,TG,TGO
+5105,Afrique occidentale,011,233,Burkina Faso,854,BF,BFA
+5105,Afrique occidentale,011,35,Cabo Verde,132,CV,CPV
+5105,Afrique occidentale,011,53,Bénin,204,BJ,BEN
+5105,Afrique occidentale,011,616,"Afrique de l'Ouest, non spécifié",875,F616,F616
+5105,Afrique occidentale,011,75,Gambie,270,GM,GMB
+5105,Afrique occidentale,011,81,Ghana,288,GH,GHA
+5105,Afrique occidentale,011,90,Guinée,324,GN,GIN
+5101,Afrique orientale,014,114,Kenya,404,KE,KEN
+5101,Afrique orientale,014,129,Madagascar,450,MG,MDG
+5101,Afrique orientale,014,130,Malawi,454,MW,MWI
+5101,Afrique orientale,014,137,Maurice,480,MU,MUS
+5101,Afrique orientale,014,144,Mozambique,508,MZ,MOZ
+5101,Afrique orientale,014,178,Érythrée,232,ER,ERI
+5101,Afrique orientale,014,181,Zimbabwe,716,ZW,ZWE
+5101,Afrique orientale,014,182,Réunion,638,RE,REU
+5101,Afrique orientale,014,184,Rwanda,646,RW,RWA
+5101,Afrique orientale,014,196,Seychelles,690,SC,SYC
+5101,Afrique orientale,014,201,Somalie,706,SO,SOM
+5101,Afrique orientale,014,215,République-Unie de Tanzanie,834,TZ,TZA
+5101,Afrique orientale,014,226,Ouganda,800,UG,UGA
+5101,Afrique orientale,014,238,Éthiopie,231,ET,ETH
+5101,Afrique orientale,014,24,Archipel des Chagos,086,IO,IOT
+5101,Afrique orientale,014,251,Zambie,894,ZM,ZMB
+5101,Afrique orientale,014,270,Mayotte,175,YT,MYT
+5101,Afrique orientale,014,277,Soudan du Sud,728,SS,SSD
+5101,Afrique orientale,014,29,Burundi,108,BI,BDI
+5101,Afrique orientale,014,45,Comores,174,KM,COM
+5101,Afrique orientale,014,605,"Afrique de l'Est, non spécifié",219,F605,F605
+5101,Afrique orientale,014,62,Éthiopie RDP,230,F62,F62
+5101,Afrique orientale,014,71,Terres australes françaises,260,TF,ATF
+5101,Afrique orientale,014,72,Djibouti,262,DJ,DJI
+5103,Afrique septentrionale,015,124,Libye,434,LY,LBY
+5103,Afrique septentrionale,015,143,Maroc,504,MA,MAR
+5103,Afrique septentrionale,015,205,Sahara occidental,732,EH,ESH
+5103,Afrique septentrionale,015,206,Soudan (ex),736,F206,F206
+5103,Afrique septentrionale,015,222,Tunisie,788,TN,TUN
+5103,Afrique septentrionale,015,276,Soudan,729,SD,SDN
+5103,Afrique septentrionale,015,4,Algérie,012,DZ,DZA
+5103,Afrique septentrionale,015,59,Égypte,818,EG,EGY
+5103,Afrique septentrionale,015,615,"Afrique du Nord, non spécifié",290,F615,F615
+420,Afrique subsaharienne,202,107,Côte d'Ivoire,384,CI,CIV
+420,Afrique subsaharienne,202,114,Kenya,404,KE,KEN
+420,Afrique subsaharienne,202,122,Lesotho,426,LS,LSO
+420,Afrique subsaharienne,202,123,Libéria,430,LR,LBR
+420,Afrique subsaharienne,202,129,Madagascar,450,MG,MDG
+420,Afrique subsaharienne,202,130,Malawi,454,MW,MWI
+420,Afrique subsaharienne,202,133,Mali,466,ML,MLI
+420,Afrique subsaharienne,202,136,Mauritanie,478,MR,MRT
+420,Afrique subsaharienne,202,137,Maurice,480,MU,MUS
+420,Afrique subsaharienne,202,144,Mozambique,508,MZ,MOZ
+420,Afrique subsaharienne,202,147,Namibie,516,,NAM
+420,Afrique subsaharienne,202,158,Niger,562,NE,NER
+420,Afrique subsaharienne,202,159,Nigéria,566,NG,NGA
+420,Afrique subsaharienne,202,175,Guinée-Bissau,624,GW,GNB
+420,Afrique subsaharienne,202,178,Érythrée,232,ER,ERI
+420,Afrique subsaharienne,202,181,Zimbabwe,716,ZW,ZWE
+420,Afrique subsaharienne,202,182,Réunion,638,RE,REU
+420,Afrique subsaharienne,202,184,Rwanda,646,RW,RWA
+420,Afrique subsaharienne,202,187,"Ascension, Sainte-Hélène et Tristan da Cunha",654,SH,SHN
+420,Afrique subsaharienne,202,193,Sao Tomé-et-Principe,678,ST,STP
+420,Afrique subsaharienne,202,195,Sénégal,686,SN,SEN
+420,Afrique subsaharienne,202,196,Seychelles,690,SC,SYC
+420,Afrique subsaharienne,202,197,Sierra Leone,694,SL,SLE
+420,Afrique subsaharienne,202,20,Botswana,072,BW,BWA
+420,Afrique subsaharienne,202,201,Somalie,706,SO,SOM
+420,Afrique subsaharienne,202,202,Afrique du Sud,710,ZA,ZAF
+420,Afrique subsaharienne,202,209,Eswatini,748,SZ,SWZ
+420,Afrique subsaharienne,202,215,République-Unie de Tanzanie,834,TZ,TZA
+420,Afrique subsaharienne,202,217,Togo,768,TG,TGO
+420,Afrique subsaharienne,202,226,Ouganda,800,UG,UGA
+420,Afrique subsaharienne,202,233,Burkina Faso,854,BF,BFA
+420,Afrique subsaharienne,202,238,Éthiopie,231,ET,ETH
+420,Afrique subsaharienne,202,24,Archipel des Chagos,086,IO,IOT
+420,Afrique subsaharienne,202,250,République démocratique du Congo,180,CD,COD
+420,Afrique subsaharienne,202,251,Zambie,894,ZM,ZMB
+420,Afrique subsaharienne,202,270,Mayotte,175,YT,MYT
+420,Afrique subsaharienne,202,277,Soudan du Sud,728,SS,SSD
+420,Afrique subsaharienne,202,29,Burundi,108,BI,BDI
+420,Afrique subsaharienne,202,32,Cameroun,120,CM,CMR
+420,Afrique subsaharienne,202,35,Cabo Verde,132,CV,CPV
+420,Afrique subsaharienne,202,37,République centrafricaine,140,CF,CAF
+420,Afrique subsaharienne,202,39,Tchad,148,TD,TCD
+420,Afrique subsaharienne,202,45,Comores,174,KM,COM
+420,Afrique subsaharienne,202,46,Congo,178,CG,COG
+420,Afrique subsaharienne,202,53,Bénin,204,BJ,BEN
+420,Afrique subsaharienne,202,61,Guinée équatoriale,226,GQ,GNQ
+420,Afrique subsaharienne,202,62,Éthiopie RDP,230,F62,F62
+420,Afrique subsaharienne,202,7,Angola,024,AO,AGO
+420,Afrique subsaharienne,202,71,Terres australes françaises,260,TF,ATF
+420,Afrique subsaharienne,202,72,Djibouti,262,DJ,DJI
+420,Afrique subsaharienne,202,74,Gabon,266,GA,GAB
+420,Afrique subsaharienne,202,75,Gambie,270,GM,GMB
+420,Afrique subsaharienne,202,81,Ghana,288,GH,GHA
+420,Afrique subsaharienne,202,90,Guinée,324,GN,GIN
+5810,Afrique subsaharienne (y compris Soudan),738,107,Côte d'Ivoire,384,CI,CIV
+5810,Afrique subsaharienne (y compris Soudan),738,114,Kenya,404,KE,KEN
+5810,Afrique subsaharienne (y compris Soudan),738,122,Lesotho,426,LS,LSO
+5810,Afrique subsaharienne (y compris Soudan),738,123,Libéria,430,LR,LBR
+5810,Afrique subsaharienne (y compris Soudan),738,129,Madagascar,450,MG,MDG
+5810,Afrique subsaharienne (y compris Soudan),738,130,Malawi,454,MW,MWI
+5810,Afrique subsaharienne (y compris Soudan),738,133,Mali,466,ML,MLI
+5810,Afrique subsaharienne (y compris Soudan),738,136,Mauritanie,478,MR,MRT
+5810,Afrique subsaharienne (y compris Soudan),738,137,Maurice,480,MU,MUS
+5810,Afrique subsaharienne (y compris Soudan),738,144,Mozambique,508,MZ,MOZ
+5810,Afrique subsaharienne (y compris Soudan),738,147,Namibie,516,,NAM
+5810,Afrique subsaharienne (y compris Soudan),738,158,Niger,562,NE,NER
+5810,Afrique subsaharienne (y compris Soudan),738,159,Nigéria,566,NG,NGA
+5810,Afrique subsaharienne (y compris Soudan),738,175,Guinée-Bissau,624,GW,GNB
+5810,Afrique subsaharienne (y compris Soudan),738,178,Érythrée,232,ER,ERI
+5810,Afrique subsaharienne (y compris Soudan),738,181,Zimbabwe,716,ZW,ZWE
+5810,Afrique subsaharienne (y compris Soudan),738,184,Rwanda,646,RW,RWA
+5810,Afrique subsaharienne (y compris Soudan),738,193,Sao Tomé-et-Principe,678,ST,STP
+5810,Afrique subsaharienne (y compris Soudan),738,195,Sénégal,686,SN,SEN
+5810,Afrique subsaharienne (y compris Soudan),738,196,Seychelles,690,SC,SYC
+5810,Afrique subsaharienne (y compris Soudan),738,197,Sierra Leone,694,SL,SLE
+5810,Afrique subsaharienne (y compris Soudan),738,20,Botswana,072,BW,BWA
+5810,Afrique subsaharienne (y compris Soudan),738,201,Somalie,706,SO,SOM
+5810,Afrique subsaharienne (y compris Soudan),738,202,Afrique du Sud,710,ZA,ZAF
+5810,Afrique subsaharienne (y compris Soudan),738,209,Eswatini,748,SZ,SWZ
+5810,Afrique subsaharienne (y compris Soudan),738,215,République-Unie de Tanzanie,834,TZ,TZA
+5810,Afrique subsaharienne (y compris Soudan),738,217,Togo,768,TG,TGO
+5810,Afrique subsaharienne (y compris Soudan),738,226,Ouganda,800,UG,UGA
+5810,Afrique subsaharienne (y compris Soudan),738,233,Burkina Faso,854,BF,BFA
+5810,Afrique subsaharienne (y compris Soudan),738,238,Éthiopie,231,ET,ETH
+5810,Afrique subsaharienne (y compris Soudan),738,250,République démocratique du Congo,180,CD,COD
+5810,Afrique subsaharienne (y compris Soudan),738,251,Zambie,894,ZM,ZMB
+5810,Afrique subsaharienne (y compris Soudan),738,276,Soudan,729,SD,SDN
+5810,Afrique subsaharienne (y compris Soudan),738,277,Soudan du Sud,728,SS,SSD
+5810,Afrique subsaharienne (y compris Soudan),738,29,Burundi,108,BI,BDI
+5810,Afrique subsaharienne (y compris Soudan),738,32,Cameroun,120,CM,CMR
+5810,Afrique subsaharienne (y compris Soudan),738,35,Cabo Verde,132,CV,CPV
+5810,Afrique subsaharienne (y compris Soudan),738,37,République centrafricaine,140,CF,CAF
+5810,Afrique subsaharienne (y compris Soudan),738,39,Tchad,148,TD,TCD
+5810,Afrique subsaharienne (y compris Soudan),738,45,Comores,174,KM,COM
+5810,Afrique subsaharienne (y compris Soudan),738,46,Congo,178,CG,COG
+5810,Afrique subsaharienne (y compris Soudan),738,53,Bénin,204,BJ,BEN
+5810,Afrique subsaharienne (y compris Soudan),738,61,Guinée équatoriale,226,GQ,GNQ
+5810,Afrique subsaharienne (y compris Soudan),738,7,Angola,024,AO,AGO
+5810,Afrique subsaharienne (y compris Soudan),738,72,Djibouti,262,DJ,DJI
+5810,Afrique subsaharienne (y compris Soudan),738,74,Gabon,266,GA,GAB
+5810,Afrique subsaharienne (y compris Soudan),738,75,Gambie,270,GM,GMB
+5810,Afrique subsaharienne (y compris Soudan),738,81,Ghana,288,GH,GHA
+5810,Afrique subsaharienne (y compris Soudan),738,90,Guinée,324,GN,GIN
+5204,Amérique centrale,013,138,Mexique,484,MX,MEX
+5204,Amérique centrale,013,157,Nicaragua,558,NI,NIC
+5204,Amérique centrale,013,166,Panama,591,PA,PAN
+5204,Amérique centrale,013,23,Belize,084,BZ,BLZ
+5204,Amérique centrale,013,48,Costa Rica,188,CR,CRI
+5204,Amérique centrale,013,530,"Amérique Centrale , non spécifié",141,F530,F530
+5204,Amérique centrale,013,60,El Salvador,222,SV,SLV
+5204,Amérique centrale,013,89,Guatemala,320,GT,GTM
+5204,Amérique centrale,013,95,Honduras,340,HN,HND
+5208,Amérique du Nord et Europe,513,104,Irlande,372,IE,IRL
+5208,Amérique du Nord et Europe,513,106,Italie,380,IT,ITA
+5208,Amérique du Nord et Europe,513,11,Autriche,040,AT,AUT
+5208,Amérique du Nord et Europe,513,119,Lettonie,428,LV,LVA
+5208,Amérique du Nord et Europe,513,125,Liechtenstein,438,LI,LIE
+5208,Amérique du Nord et Europe,513,126,Lituanie,440,LT,LTU
+5208,Amérique du Nord et Europe,513,134,Malte,470,MT,MLT
+5208,Amérique du Nord et Europe,513,140,Monaco,492,MC,MCO
+5208,Amérique du Nord et Europe,513,146,République de Moldova,498,MD,MDA
+5208,Amérique du Nord et Europe,513,150,Pays-Bas (Royaume des),528,NL,NLD
+5208,Amérique du Nord et Europe,513,154,Macédoine du Nord,807,MK,MKD
+5208,Amérique du Nord et Europe,513,162,Norvège,578,NO,NOR
+5208,Amérique du Nord et Europe,513,167,Tchéquie,203,CZ,CZE
+5208,Amérique du Nord et Europe,513,17,Bermudes,060,BM,BMU
+5208,Amérique du Nord et Europe,513,173,Pologne,616,PL,POL
+5208,Amérique du Nord et Europe,513,174,Portugal,620,PT,PRT
+5208,Amérique du Nord et Europe,513,183,Roumanie,642,RO,ROU
+5208,Amérique du Nord et Europe,513,185,Fédération de Russie,643,RU,RUS
+5208,Amérique du Nord et Europe,513,190,Saint-Pierre-et-Miquelon,666,PM,SPM
+5208,Amérique du Nord et Europe,513,192,Saint-Marin,674,SM,SMR
+5208,Amérique du Nord et Europe,513,198,Slovénie,705,SI,SVN
+5208,Amérique du Nord et Europe,513,199,Slovaquie,703,SK,SVK
+5208,Amérique du Nord et Europe,513,203,Espagne,724,ES,ESP
+5208,Amérique du Nord et Europe,513,210,Suède,752,SE,SWE
+5208,Amérique du Nord et Europe,513,211,Suisse,756,CH,CHE
+5208,Amérique du Nord et Europe,513,229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,826,GB,GBR
+5208,Amérique du Nord et Europe,513,230,Ukraine,804,UA,UKR
+5208,Amérique du Nord et Europe,513,231,États-Unis d'Amérique,840,US,USA
+5208,Amérique du Nord et Europe,513,255,Belgique,056,BE,BEL
+5208,Amérique du Nord et Europe,513,256,Luxembourg,442,LU,LUX
+5208,Amérique du Nord et Europe,513,259,Îles Anglo-Normandes,830,F259,CHA
+5208,Amérique du Nord et Europe,513,260,Îles Svalbard-et-Jan Mayen,744,SJ,SJM
+5208,Amérique du Nord et Europe,513,264,Île de Man,833,IM,IMN
+5208,Amérique du Nord et Europe,513,27,Bulgarie,100,BG,BGR
+5208,Amérique du Nord et Europe,513,272,Serbie,688,RS,SRB
+5208,Amérique du Nord et Europe,513,273,Monténégro,499,ME,MNE
+5208,Amérique du Nord et Europe,513,274,Guernesey,831,F274,GGY
+5208,Amérique du Nord et Europe,513,283,Jersey,832,F283,JEY
+5208,Amérique du Nord et Europe,513,284,Îles d'Åland,248,F284,ALA
+5208,Amérique du Nord et Europe,513,285,Sercq,680,F285,F285
+5208,Amérique du Nord et Europe,513,3,Albanie,008,AL,ALB
+5208,Amérique du Nord et Europe,513,33,Canada,124,CA,CAN
+5208,Amérique du Nord et Europe,513,54,Danemark,208,DK,DNK
+5208,Amérique du Nord et Europe,513,57,Bélarus,112,BY,BLR
+5208,Amérique du Nord et Europe,513,6,Andorre,020,AD,AND
+5208,Amérique du Nord et Europe,513,63,Estonie,233,EE,EST
+5208,Amérique du Nord et Europe,513,64,Îles Féroé,234,FO,FRO
+5208,Amérique du Nord et Europe,513,67,Finlande,246,FI,FIN
+5208,Amérique du Nord et Europe,513,68,France,250,FR,FRA
+5208,Amérique du Nord et Europe,513,79,Allemagne,276,DE,DEU
+5208,Amérique du Nord et Europe,513,80,Bosnie-Herzégovine,070,BA,BIH
+5208,Amérique du Nord et Europe,513,82,Gibraltar,292,GI,GIB
+5208,Amérique du Nord et Europe,513,84,Grèce,300,GR,GRC
+5208,Amérique du Nord et Europe,513,85,Groenland,304,GL,GRL
+5208,Amérique du Nord et Europe,513,94,Saint-Siège,336,VA,VAT
+5208,Amérique du Nord et Europe,513,97,Hongrie,348,HU,HUN
+5208,Amérique du Nord et Europe,513,98,Croatie,191,HR,HRV
+5208,Amérique du Nord et Europe,513,99,Islande,352,IS,ISL
+5207,Amérique du Sud,005,169,Paraguay,600,PY,PRY
+5207,Amérique du Sud,005,170,Pérou,604,PE,PER
+5207,Amérique du Sud,005,19,Bolivie (État plurinational de),068,BO,BOL
+5207,Amérique du Sud,005,207,Suriname,740,SR,SUR
+5207,Amérique du Sud,005,21,Brésil,076,BR,BRA
+5207,Amérique du Sud,005,234,Uruguay,858,UY,URY
+5207,Amérique du Sud,005,236,Venezuela (République bolivarienne du),862,VE,VEN
+5207,Amérique du Sud,005,271,Géorgie du Sud-et-Îles Sandwich du Sud,239,GS,SGS
+5207,Amérique du Sud,005,31,Île Bouvet,074,BV,BVT
+5207,Amérique du Sud,005,40,Chili,152,CL,CHL
+5207,Amérique du Sud,005,44,Colombie,170,CO,COL
+5207,Amérique du Sud,005,58,Équateur,218,EC,ECU
+5207,Amérique du Sud,005,614,"Amérique du Sud, non spécifié",283,F614,F614
+5207,Amérique du Sud,005,65,Îles Falkland (Malvinas),238,FK,FLK
+5207,Amérique du Sud,005,69,Guyane française,254,GF,GUF
+5207,Amérique du Sud,005,9,Argentine,032,AR,ARG
+5207,Amérique du Sud,005,91,Guyana,328,GY,GUY
+348,Amérique Latine,420,138,Mexique,484,MX,MEX
+348,Amérique Latine,420,157,Nicaragua,558,NI,NIC
+348,Amérique Latine,420,166,Panama,591,PA,PAN
+348,Amérique Latine,420,169,Paraguay,600,PY,PRY
+348,Amérique Latine,420,170,Pérou,604,PE,PER
+348,Amérique Latine,420,19,Bolivie (État plurinational de),068,BO,BOL
+348,Amérique Latine,420,207,Suriname,740,SR,SUR
+348,Amérique Latine,420,21,Brésil,076,BR,BRA
+348,Amérique Latine,420,23,Belize,084,BZ,BLZ
+348,Amérique Latine,420,234,Uruguay,858,UY,URY
+348,Amérique Latine,420,236,Venezuela (République bolivarienne du),862,VE,VEN
+348,Amérique Latine,420,40,Chili,152,CL,CHL
+348,Amérique Latine,420,44,Colombie,170,CO,COL
+348,Amérique Latine,420,48,Costa Rica,188,CR,CRI
+348,Amérique Latine,420,58,Équateur,218,EC,ECU
+348,Amérique Latine,420,60,El Salvador,222,SV,SLV
+348,Amérique Latine,420,65,Îles Falkland (Malvinas),238,FK,FLK
+348,Amérique Latine,420,69,Guyane française,254,GF,GUF
+348,Amérique Latine,420,89,Guatemala,320,GT,GTM
+348,Amérique Latine,420,9,Argentine,032,AR,ARG
+348,Amérique Latine,420,91,Guyana,328,GY,GUY
+348,Amérique Latine,420,95,Honduras,340,HN,HND
+5205,Amérique latine et Caraïbes,419,109,Jamaïque,388,JM,JAM
+5205,Amérique latine et Caraïbes,419,12,Bahamas,044,BS,BHS
+5205,Amérique latine et Caraïbes,419,135,Martinique,474,MQ,MTQ
+5205,Amérique latine et Caraïbes,419,138,Mexique,484,MX,MEX
+5205,Amérique latine et Caraïbes,419,14,Barbade,052,BB,BRB
+5205,Amérique latine et Caraïbes,419,142,Montserrat,500,MS,MSR
+5205,Amérique latine et Caraïbes,419,151,Antilles néerlandaises (ex),530,AN,ANT
+5205,Amérique latine et Caraïbes,419,157,Nicaragua,558,NI,NIC
+5205,Amérique latine et Caraïbes,419,166,Panama,591,PA,PAN
+5205,Amérique latine et Caraïbes,419,169,Paraguay,600,PY,PRY
+5205,Amérique latine et Caraïbes,419,170,Pérou,604,PE,PER
+5205,Amérique latine et Caraïbes,419,177,Porto Rico,630,PR,PRI
+5205,Amérique latine et Caraïbes,419,188,Saint-Kitts-et-Nevis,659,KN,KNA
+5205,Amérique latine et Caraïbes,419,189,Sainte-Lucie,662,LC,LCA
+5205,Amérique latine et Caraïbes,419,19,Bolivie (État plurinational de),068,BO,BOL
+5205,Amérique latine et Caraïbes,419,191,Saint-Vincent-et-les Grenadines,670,VC,VCT
+5205,Amérique latine et Caraïbes,419,207,Suriname,740,SR,SUR
+5205,Amérique latine et Caraïbes,419,21,Brésil,076,BR,BRA
+5205,Amérique latine et Caraïbes,419,22,Aruba,533,AW,ABW
+5205,Amérique latine et Caraïbes,419,220,Trinité-et-Tobago,780,TT,TTO
+5205,Amérique latine et Caraïbes,419,224,Îles Turques-et-Caïques,796,TC,TCA
+5205,Amérique latine et Caraïbes,419,23,Belize,084,BZ,BLZ
+5205,Amérique latine et Caraïbes,419,234,Uruguay,858,UY,URY
+5205,Amérique latine et Caraïbes,419,236,Venezuela (République bolivarienne du),862,VE,VEN
+5205,Amérique latine et Caraïbes,419,239,Îles Vierges britanniques,092,VG,VGB
+5205,Amérique latine et Caraïbes,419,240,Îles Vierges américaines,850,VI,VIR
+5205,Amérique latine et Caraïbes,419,258,Anguilla,660,AI,AIA
+5205,Amérique latine et Caraïbes,419,271,Géorgie du Sud-et-Îles Sandwich du Sud,239,GS,SGS
+5205,Amérique latine et Caraïbes,419,278,"Bonaire, Saint-Eustache et Saba",535,F278,BES
+5205,Amérique latine et Caraïbes,419,279,Curaçao,531,F279,CUW
+5205,Amérique latine et Caraïbes,419,280,Sint Maarten (partie néerlandaise),534,F280,SXM
+5205,Amérique latine et Caraïbes,419,281,Saint-Martin (partie française),663,F281,MAF
+5205,Amérique latine et Caraïbes,419,282,Saint-Barthélemy,652,F282,BLM
+5205,Amérique latine et Caraïbes,419,31,Île Bouvet,074,BV,BVT
+5205,Amérique latine et Caraïbes,419,36,Îles Caïmanes,136,KY,CYM
+5205,Amérique latine et Caraïbes,419,40,Chili,152,CL,CHL
+5205,Amérique latine et Caraïbes,419,44,Colombie,170,CO,COL
+5205,Amérique latine et Caraïbes,419,48,Costa Rica,188,CR,CRI
+5205,Amérique latine et Caraïbes,419,49,Cuba,192,CU,CUB
+5205,Amérique latine et Caraïbes,419,55,Dominique,212,DM,DMA
+5205,Amérique latine et Caraïbes,419,56,République dominicaine,214,DO,DOM
+5205,Amérique latine et Caraïbes,419,58,Équateur,218,EC,ECU
+5205,Amérique latine et Caraïbes,419,60,El Salvador,222,SV,SLV
+5205,Amérique latine et Caraïbes,419,65,Îles Falkland (Malvinas),238,FK,FLK
+5205,Amérique latine et Caraïbes,419,69,Guyane française,254,GF,GUF
+5205,Amérique latine et Caraïbes,419,8,Antigua-et-Barbuda,028,AG,ATG
+5205,Amérique latine et Caraïbes,419,86,Grenade,308,GD,GRD
+5205,Amérique latine et Caraïbes,419,87,Guadeloupe,312,GP,GLP
+5205,Amérique latine et Caraïbes,419,89,Guatemala,320,GT,GTM
+5205,Amérique latine et Caraïbes,419,9,Argentine,032,AR,ARG
+5205,Amérique latine et Caraïbes,419,91,Guyana,328,GY,GUY
+5205,Amérique latine et Caraïbes,419,93,Haïti,332,HT,HTI
+5205,Amérique latine et Caraïbes,419,95,Honduras,340,HN,HND
+336,Amérique Nord et Centrale,637,109,Jamaïque,388,JM,JAM
+336,Amérique Nord et Centrale,637,135,Martinique,474,MQ,MTQ
+336,Amérique Nord et Centrale,637,157,Nicaragua,558,NI,NIC
+336,Amérique Nord et Centrale,637,166,Panama,591,PA,PAN
+336,Amérique Nord et Centrale,637,177,Porto Rico,630,PR,PRI
+336,Amérique Nord et Centrale,637,188,Saint-Kitts-et-Nevis,659,KN,KNA
+336,Amérique Nord et Centrale,637,189,Sainte-Lucie,662,LC,LCA
+336,Amérique Nord et Centrale,637,191,Saint-Vincent-et-les Grenadines,670,VC,VCT
+336,Amérique Nord et Centrale,637,220,Trinité-et-Tobago,780,TT,TTO
+336,Amérique Nord et Centrale,637,231,États-Unis d'Amérique,840,US,USA
+336,Amérique Nord et Centrale,637,240,Îles Vierges américaines,850,VI,VIR
+336,Amérique Nord et Centrale,637,33,Canada,124,CA,CAN
+336,Amérique Nord et Centrale,637,87,Guadeloupe,312,GP,GLP
+336,Amérique Nord et Centrale,637,89,Guatemala,320,GT,GTM
+5203,Amérique septentrionale,021,17,Bermudes,060,BM,BMU
+5203,Amérique septentrionale,021,190,Saint-Pierre-et-Miquelon,666,PM,SPM
+5203,Amérique septentrionale,021,231,États-Unis d'Amérique,840,US,USA
+5203,Amérique septentrionale,021,33,Canada,124,CA,CAN
+5203,Amérique septentrionale,021,622,"Amérique Nordique, non spécifié(population)",021.01,F622,F622
+5203,Amérique septentrionale,021,85,Groenland,304,GL,GRL
+5200,Amériques,019,109,Jamaïque,388,JM,JAM
+5200,Amériques,019,12,Bahamas,044,BS,BHS
+5200,Amériques,019,135,Martinique,474,MQ,MTQ
+5200,Amériques,019,138,Mexique,484,MX,MEX
+5200,Amériques,019,14,Barbade,052,BB,BRB
+5200,Amériques,019,142,Montserrat,500,MS,MSR
+5200,Amériques,019,151,Antilles néerlandaises (ex),530,AN,ANT
+5200,Amériques,019,157,Nicaragua,558,NI,NIC
+5200,Amériques,019,166,Panama,591,PA,PAN
+5200,Amériques,019,169,Paraguay,600,PY,PRY
+5200,Amériques,019,17,Bermudes,060,BM,BMU
+5200,Amériques,019,170,Pérou,604,PE,PER
+5200,Amériques,019,177,Porto Rico,630,PR,PRI
+5200,Amériques,019,188,Saint-Kitts-et-Nevis,659,KN,KNA
+5200,Amériques,019,189,Sainte-Lucie,662,LC,LCA
+5200,Amériques,019,19,Bolivie (État plurinational de),068,BO,BOL
+5200,Amériques,019,190,Saint-Pierre-et-Miquelon,666,PM,SPM
+5200,Amériques,019,191,Saint-Vincent-et-les Grenadines,670,VC,VCT
+5200,Amériques,019,207,Suriname,740,SR,SUR
+5200,Amériques,019,21,Brésil,076,BR,BRA
+5200,Amériques,019,22,Aruba,533,AW,ABW
+5200,Amériques,019,220,Trinité-et-Tobago,780,TT,TTO
+5200,Amériques,019,224,Îles Turques-et-Caïques,796,TC,TCA
+5200,Amériques,019,23,Belize,084,BZ,BLZ
+5200,Amériques,019,231,États-Unis d'Amérique,840,US,USA
+5200,Amériques,019,234,Uruguay,858,UY,URY
+5200,Amériques,019,236,Venezuela (République bolivarienne du),862,VE,VEN
+5200,Amériques,019,239,Îles Vierges britanniques,092,VG,VGB
+5200,Amériques,019,240,Îles Vierges américaines,850,VI,VIR
+5200,Amériques,019,258,Anguilla,660,AI,AIA
+5200,Amériques,019,271,Géorgie du Sud-et-Îles Sandwich du Sud,239,GS,SGS
+5200,Amériques,019,278,"Bonaire, Saint-Eustache et Saba",535,F278,BES
+5200,Amériques,019,279,Curaçao,531,F279,CUW
+5200,Amériques,019,280,Sint Maarten (partie néerlandaise),534,F280,SXM
+5200,Amériques,019,281,Saint-Martin (partie française),663,F281,MAF
+5200,Amériques,019,282,Saint-Barthélemy,652,F282,BLM
+5200,Amériques,019,31,Île Bouvet,074,BV,BVT
+5200,Amériques,019,33,Canada,124,CA,CAN
+5200,Amériques,019,36,Îles Caïmanes,136,KY,CYM
+5200,Amériques,019,40,Chili,152,CL,CHL
+5200,Amériques,019,44,Colombie,170,CO,COL
+5200,Amériques,019,48,Costa Rica,188,CR,CRI
+5200,Amériques,019,49,Cuba,192,CU,CUB
+5200,Amériques,019,530,"Amérique Centrale , non spécifié",141,F530,F530
+5200,Amériques,019,531,"Caraïbes, non spécifié",130,F531,F531
+5200,Amériques,019,55,Dominique,212,DM,DMA
+5200,Amériques,019,56,République dominicaine,214,DO,DOM
+5200,Amériques,019,58,Équateur,218,EC,ECU
+5200,Amériques,019,60,El Salvador,222,SV,SLV
+5200,Amériques,019,609,"Caraïbes, non spécifié(population)",029.01,F609,F609
+5200,Amériques,019,614,"Amérique du Sud, non spécifié",283,F614,F614
+5200,Amériques,019,622,"Amérique Nordique, non spécifié(population)",021.01,F622,F622
+5200,Amériques,019,65,Îles Falkland (Malvinas),238,FK,FLK
+5200,Amériques,019,680,"Amériques, non spécifié",293,F680,F680
+5200,Amériques,019,69,Guyane française,254,GF,GUF
+5200,Amériques,019,8,Antigua-et-Barbuda,028,AG,ATG
+5200,Amériques,019,85,Groenland,304,GL,GRL
+5200,Amériques,019,86,Grenade,308,GD,GRD
+5200,Amériques,019,87,Guadeloupe,312,GP,GLP
+5200,Amériques,019,89,Guatemala,320,GT,GTM
+5200,Amériques,019,9,Argentine,032,AR,ARG
+5200,Amériques,019,91,Guyana,328,GY,GUY
+5200,Amériques,019,93,Haïti,332,HT,HTI
+5200,Amériques,019,95,Honduras,340,HN,HND
+5300,Asie,142,1,Arménie,051,AM,ARM
+5300,Asie,142,100,Inde,356,IN,IND
+5300,Asie,142,101,Indonésie,360,ID,IDN
+5300,Asie,142,102,Iran (République islamique d'),364,IR,IRN
+5300,Asie,142,103,Iraq,368,IQ,IRQ
+5300,Asie,142,105,Israël,376,IL,ISR
+5300,Asie,142,108,Kazakhstan,398,KZ,KAZ
+5300,Asie,142,110,Japon,392,JP,JPN
+5300,Asie,142,112,Jordanie,400,JO,JOR
+5300,Asie,142,113,Kirghizistan,417,KG,KGZ
+5300,Asie,142,115,Cambodge,116,KH,KHM
+5300,Asie,142,116,République populaire démocratique de Corée,408,KP,PRK
+5300,Asie,142,117,République de Corée,410,KR,KOR
+5300,Asie,142,118,Koweït,414,KW,KWT
+5300,Asie,142,120,République démocratique populaire lao,418,LA,LAO
+5300,Asie,142,121,Liban,422,LB,LBN
+5300,Asie,142,128,Chine - RAS de Macao,446,MO,MAC
+5300,Asie,142,13,Bahreïn,048,BH,BHR
+5300,Asie,142,131,Malaisie,458,MY,MYS
+5300,Asie,142,132,Maldives,462,MV,MDV
+5300,Asie,142,141,Mongolie,496,MN,MNG
+5300,Asie,142,149,Népal,524,NP,NPL
+5300,Asie,142,16,Bangladesh,050,BD,BGD
+5300,Asie,142,165,Pakistan,586,PK,PAK
+5300,Asie,142,171,Philippines,608,PH,PHL
+5300,Asie,142,176,Timor-Leste,626,TL,TLS
+5300,Asie,142,179,Qatar,634,QA,QAT
+5300,Asie,142,18,Bhoutan,064,BT,BTN
+5300,Asie,142,194,Arabie saoudite,682,SA,SAU
+5300,Asie,142,2,Afghanistan,004,AF,AFG
+5300,Asie,142,200,Singapour,702,SG,SGP
+5300,Asie,142,208,Tadjikistan,762,TJ,TJK
+5300,Asie,142,212,République arabe syrienne,760,SY,SYR
+5300,Asie,142,213,Turkménistan,795,TM,TKM
+5300,Asie,142,214,"Chine, Taiwan Province de",158,TW,TWN
+5300,Asie,142,216,Thaïlande,764,TH,THA
+5300,Asie,142,221,Oman,512,OM,OMN
+5300,Asie,142,223,Türkiye,792,TR,TUR
+5300,Asie,142,225,Émirats arabes unis,784,AE,ARE
+5300,Asie,142,235,Ouzbékistan,860,UZ,UZB
+5300,Asie,142,237,Viet Nam,704,VN,VNM
+5300,Asie,142,246,Yémen Rép A,886,F246,F246
+5300,Asie,142,247,Yemen Dém,720,F247,F247
+5300,Asie,142,249,Yémen,887,YE,YEM
+5300,Asie,142,26,Brunéi Darussalam,096,BN,BRN
+5300,Asie,142,28,Myanmar,104,MM,MMR
+5300,Asie,142,299,Palestine,275,F299,PSE
+5300,Asie,142,351,Chine,159,F351,F351
+5300,Asie,142,357,Chine (exc. Hong-Kong et Macao),157,F357,F357
+5300,Asie,142,38,Sri Lanka,144,LK,LKA
+5300,Asie,142,41,"Chine, continentale",156,CN,CHN
+5300,Asie,142,50,Chypre,196,CY,CYP
+5300,Asie,142,52,Azerbaïdjan,031,AZ,AZE
+5300,Asie,142,602,"Asie, non spécifié",490,F602,F602
+5300,Asie,142,606,"Asie de l'Est, non spécifié",220,F606,F606
+5300,Asie,142,607,"Asie du Sud, non spécifié",714,F607,F607
+5300,Asie,142,608,"Asie de l'Ouest, non spécifié",879,F608,F608
+5300,Asie,142,610,"Asie Centrale, non spécifié",291,F610,F610
+5300,Asie,142,73,Géorgie,268,GE,GEO
+5300,Asie,142,76,Palestine,274,F76,76
+5300,Asie,142,96,Chine - RAS de Hong-Kong,344,HK,HKG
+5301,Asie centrale,143,108,Kazakhstan,398,KZ,KAZ
+5301,Asie centrale,143,113,Kirghizistan,417,KG,KGZ
+5301,Asie centrale,143,208,Tadjikistan,762,TJ,TJK
+5301,Asie centrale,143,213,Turkménistan,795,TM,TKM
+5301,Asie centrale,143,235,Ouzbékistan,860,UZ,UZB
+5301,Asie centrale,143,610,"Asie Centrale, non spécifié",291,F610,F610
+5306,Asie centrale et Asie du Sud,062,100,Inde,356,IN,IND
+5306,Asie centrale et Asie du Sud,062,102,Iran (République islamique d'),364,IR,IRN
+5306,Asie centrale et Asie du Sud,062,108,Kazakhstan,398,KZ,KAZ
+5306,Asie centrale et Asie du Sud,062,113,Kirghizistan,417,KG,KGZ
+5306,Asie centrale et Asie du Sud,062,132,Maldives,462,MV,MDV
+5306,Asie centrale et Asie du Sud,062,149,Népal,524,NP,NPL
+5306,Asie centrale et Asie du Sud,062,16,Bangladesh,050,BD,BGD
+5306,Asie centrale et Asie du Sud,062,165,Pakistan,586,PK,PAK
+5306,Asie centrale et Asie du Sud,062,18,Bhoutan,064,BT,BTN
+5306,Asie centrale et Asie du Sud,062,2,Afghanistan,004,AF,AFG
+5306,Asie centrale et Asie du Sud,062,208,Tadjikistan,762,TJ,TJK
+5306,Asie centrale et Asie du Sud,062,213,Turkménistan,795,TM,TKM
+5306,Asie centrale et Asie du Sud,062,235,Ouzbékistan,860,UZ,UZB
+5306,Asie centrale et Asie du Sud,062,38,Sri Lanka,144,LK,LKA
+5855,Asie du Sud (Inde Excl),127,102,Iran (République islamique d'),364,IR,IRN
+5855,Asie du Sud (Inde Excl),127,132,Maldives,462,MV,MDV
+5855,Asie du Sud (Inde Excl),127,149,Népal,524,NP,NPL
+5855,Asie du Sud (Inde Excl),127,16,Bangladesh,050,BD,BGD
+5855,Asie du Sud (Inde Excl),127,165,Pakistan,586,PK,PAK
+5855,Asie du Sud (Inde Excl),127,18,Bhoutan,064,BT,BTN
+5855,Asie du Sud (Inde Excl),127,2,Afghanistan,004,AF,AFG
+5855,Asie du Sud (Inde Excl),127,38,Sri Lanka,144,LK,LKA
+5304,Asie du Sud-Est,035,101,Indonésie,360,ID,IDN
+5304,Asie du Sud-Est,035,115,Cambodge,116,KH,KHM
+5304,Asie du Sud-Est,035,120,République démocratique populaire lao,418,LA,LAO
+5304,Asie du Sud-Est,035,131,Malaisie,458,MY,MYS
+5304,Asie du Sud-Est,035,171,Philippines,608,PH,PHL
+5304,Asie du Sud-Est,035,176,Timor-Leste,626,TL,TLS
+5304,Asie du Sud-Est,035,200,Singapour,702,SG,SGP
+5304,Asie du Sud-Est,035,216,Thaïlande,764,TH,THA
+5304,Asie du Sud-Est,035,237,Viet Nam,704,VN,VNM
+5304,Asie du Sud-Est,035,26,Brunéi Darussalam,096,BN,BRN
+5304,Asie du Sud-Est,035,28,Myanmar,104,MM,MMR
+5303,Asie méridionale,034,100,Inde,356,IN,IND
+5303,Asie méridionale,034,102,Iran (République islamique d'),364,IR,IRN
+5303,Asie méridionale,034,132,Maldives,462,MV,MDV
+5303,Asie méridionale,034,149,Népal,524,NP,NPL
+5303,Asie méridionale,034,16,Bangladesh,050,BD,BGD
+5303,Asie méridionale,034,165,Pakistan,586,PK,PAK
+5303,Asie méridionale,034,18,Bhoutan,064,BT,BTN
+5303,Asie méridionale,034,2,Afghanistan,004,AF,AFG
+5303,Asie méridionale,034,38,Sri Lanka,144,LK,LKA
+5303,Asie méridionale,034,607,"Asie du Sud, non spécifié",714,F607,F607
+5305,Asie occidentale,145,1,Arménie,051,AM,ARM
+5305,Asie occidentale,145,103,Iraq,368,IQ,IRQ
+5305,Asie occidentale,145,105,Israël,376,IL,ISR
+5305,Asie occidentale,145,112,Jordanie,400,JO,JOR
+5305,Asie occidentale,145,118,Koweït,414,KW,KWT
+5305,Asie occidentale,145,121,Liban,422,LB,LBN
+5305,Asie occidentale,145,13,Bahreïn,048,BH,BHR
+5305,Asie occidentale,145,179,Qatar,634,QA,QAT
+5305,Asie occidentale,145,194,Arabie saoudite,682,SA,SAU
+5305,Asie occidentale,145,212,République arabe syrienne,760,SY,SYR
+5305,Asie occidentale,145,221,Oman,512,OM,OMN
+5305,Asie occidentale,145,223,Türkiye,792,TR,TUR
+5305,Asie occidentale,145,225,Émirats arabes unis,784,AE,ARE
+5305,Asie occidentale,145,246,Yémen Rép A,886,F246,F246
+5305,Asie occidentale,145,247,Yemen Dém,720,F247,F247
+5305,Asie occidentale,145,249,Yémen,887,YE,YEM
+5305,Asie occidentale,145,299,Palestine,275,F299,PSE
+5305,Asie occidentale,145,50,Chypre,196,CY,CYP
+5305,Asie occidentale,145,52,Azerbaïdjan,031,AZ,AZE
+5305,Asie occidentale,145,608,"Asie de l'Ouest, non spécifié",879,F608,F608
+5305,Asie occidentale,145,73,Géorgie,268,GE,GEO
+5305,Asie occidentale,145,76,Palestine,274,F76,76
+5308,Asie occidentale et Afrique du Nord,747,1,Arménie,051,AM,ARM
+5308,Asie occidentale et Afrique du Nord,747,103,Iraq,368,IQ,IRQ
+5308,Asie occidentale et Afrique du Nord,747,105,Israël,376,IL,ISR
+5308,Asie occidentale et Afrique du Nord,747,112,Jordanie,400,JO,JOR
+5308,Asie occidentale et Afrique du Nord,747,118,Koweït,414,KW,KWT
+5308,Asie occidentale et Afrique du Nord,747,121,Liban,422,LB,LBN
+5308,Asie occidentale et Afrique du Nord,747,124,Libye,434,LY,LBY
+5308,Asie occidentale et Afrique du Nord,747,13,Bahreïn,048,BH,BHR
+5308,Asie occidentale et Afrique du Nord,747,143,Maroc,504,MA,MAR
+5308,Asie occidentale et Afrique du Nord,747,179,Qatar,634,QA,QAT
+5308,Asie occidentale et Afrique du Nord,747,194,Arabie saoudite,682,SA,SAU
+5308,Asie occidentale et Afrique du Nord,747,205,Sahara occidental,732,EH,ESH
+5308,Asie occidentale et Afrique du Nord,747,212,République arabe syrienne,760,SY,SYR
+5308,Asie occidentale et Afrique du Nord,747,221,Oman,512,OM,OMN
+5308,Asie occidentale et Afrique du Nord,747,222,Tunisie,788,TN,TUN
+5308,Asie occidentale et Afrique du Nord,747,223,Türkiye,792,TR,TUR
+5308,Asie occidentale et Afrique du Nord,747,225,Émirats arabes unis,784,AE,ARE
+5308,Asie occidentale et Afrique du Nord,747,249,Yémen,887,YE,YEM
+5308,Asie occidentale et Afrique du Nord,747,276,Soudan,729,SD,SDN
+5308,Asie occidentale et Afrique du Nord,747,299,Palestine,275,F299,PSE
+5308,Asie occidentale et Afrique du Nord,747,4,Algérie,012,DZ,DZA
+5308,Asie occidentale et Afrique du Nord,747,50,Chypre,196,CY,CYP
+5308,Asie occidentale et Afrique du Nord,747,52,Azerbaïdjan,031,AZ,AZE
+5308,Asie occidentale et Afrique du Nord,747,59,Égypte,818,EG,EGY
+5308,Asie occidentale et Afrique du Nord,747,73,Géorgie,268,GE,GEO
+5302,Asie orientale,030,110,Japon,392,JP,JPN
+5302,Asie orientale,030,116,République populaire démocratique de Corée,408,KP,PRK
+5302,Asie orientale,030,117,République de Corée,410,KR,KOR
+5302,Asie orientale,030,128,Chine - RAS de Macao,446,MO,MAC
+5302,Asie orientale,030,141,Mongolie,496,MN,MNG
+5302,Asie orientale,030,214,"Chine, Taiwan Province de",158,TW,TWN
+5302,Asie orientale,030,351,Chine,159,F351,F351
+5302,Asie orientale,030,357,Chine (exc. Hong-Kong et Macao),157,F357,F357
+5302,Asie orientale,030,41,"Chine, continentale",156,CN,CHN
+5302,Asie orientale,030,606,"Asie de l'Est, non spécifié",220,F606,F606
+5302,Asie orientale,030,96,Chine - RAS de Hong-Kong,344,HK,HKG
+5307,Asie orientale et Asie du Sud-Est,753,101,Indonésie,360,ID,IDN
+5307,Asie orientale et Asie du Sud-Est,753,110,Japon,392,JP,JPN
+5307,Asie orientale et Asie du Sud-Est,753,115,Cambodge,116,KH,KHM
+5307,Asie orientale et Asie du Sud-Est,753,116,République populaire démocratique de Corée,408,KP,PRK
+5307,Asie orientale et Asie du Sud-Est,753,117,République de Corée,410,KR,KOR
+5307,Asie orientale et Asie du Sud-Est,753,120,République démocratique populaire lao,418,LA,LAO
+5307,Asie orientale et Asie du Sud-Est,753,128,Chine - RAS de Macao,446,MO,MAC
+5307,Asie orientale et Asie du Sud-Est,753,131,Malaisie,458,MY,MYS
+5307,Asie orientale et Asie du Sud-Est,753,141,Mongolie,496,MN,MNG
+5307,Asie orientale et Asie du Sud-Est,753,171,Philippines,608,PH,PHL
+5307,Asie orientale et Asie du Sud-Est,753,176,Timor-Leste,626,TL,TLS
+5307,Asie orientale et Asie du Sud-Est,753,200,Singapour,702,SG,SGP
+5307,Asie orientale et Asie du Sud-Est,753,214,"Chine, Taiwan Province de",158,TW,TWN
+5307,Asie orientale et Asie du Sud-Est,753,216,Thaïlande,764,TH,THA
+5307,Asie orientale et Asie du Sud-Est,753,237,Viet Nam,704,VN,VNM
+5307,Asie orientale et Asie du Sud-Est,753,26,Brunéi Darussalam,096,BN,BRN
+5307,Asie orientale et Asie du Sud-Est,753,28,Myanmar,104,MM,MMR
+5307,Asie orientale et Asie du Sud-Est,753,351,Chine,159,F351,F351
+5307,Asie orientale et Asie du Sud-Est,753,41,"Chine, continentale",156,CN,CHN
+5307,Asie orientale et Asie du Sud-Est,753,96,Chine - RAS de Hong-Kong,344,HK,HKG
+5501,Australie et Nouvelle-Zélande,053,10,Australie,036,AU,AUS
+5501,Australie et Nouvelle-Zélande,053,156,Nouvelle-Zélande,554,NZ,NZL
+5501,Australie et Nouvelle-Zélande,053,161,Île Norfolk,574,NF,NFK
+5501,Australie et Nouvelle-Zélande,053,42,Île Christmas,162,CX,CXR
+5501,Australie et Nouvelle-Zélande,053,43,Îles des Cocos (Keeling),166,CC,CCK
+5501,Australie et Nouvelle-Zélande,053,92,Île Heard et Îles McDonald,334,HM,HMD
+5901,Bénéficiaires bilatéraux,,1,Arménie,051,AM,ARM
+5901,Bénéficiaires bilatéraux,,100,Inde,356,IN,IND
+5901,Bénéficiaires bilatéraux,,101,Indonésie,360,ID,IDN
+5901,Bénéficiaires bilatéraux,,102,Iran (République islamique d'),364,IR,IRN
+5901,Bénéficiaires bilatéraux,,103,Iraq,368,IQ,IRQ
+5901,Bénéficiaires bilatéraux,,105,Israël,376,IL,ISR
+5901,Bénéficiaires bilatéraux,,107,Côte d'Ivoire,384,CI,CIV
+5901,Bénéficiaires bilatéraux,,108,Kazakhstan,398,KZ,KAZ
+5901,Bénéficiaires bilatéraux,,109,Jamaïque,388,JM,JAM
+5901,Bénéficiaires bilatéraux,,112,Jordanie,400,JO,JOR
+5901,Bénéficiaires bilatéraux,,113,Kirghizistan,417,KG,KGZ
+5901,Bénéficiaires bilatéraux,,114,Kenya,404,KE,KEN
+5901,Bénéficiaires bilatéraux,,115,Cambodge,116,KH,KHM
+5901,Bénéficiaires bilatéraux,,116,République populaire démocratique de Corée,408,KP,PRK
+5901,Bénéficiaires bilatéraux,,117,République de Corée,410,KR,KOR
+5901,Bénéficiaires bilatéraux,,118,Koweït,414,KW,KWT
+5901,Bénéficiaires bilatéraux,,12,Bahamas,044,BS,BHS
+5901,Bénéficiaires bilatéraux,,120,République démocratique populaire lao,418,LA,LAO
+5901,Bénéficiaires bilatéraux,,121,Liban,422,LB,LBN
+5901,Bénéficiaires bilatéraux,,122,Lesotho,426,LS,LSO
+5901,Bénéficiaires bilatéraux,,123,Libéria,430,LR,LBR
+5901,Bénéficiaires bilatéraux,,124,Libye,434,LY,LBY
+5901,Bénéficiaires bilatéraux,,127,Îles Marshall,584,MH,MHL
+5901,Bénéficiaires bilatéraux,,128,Chine - RAS de Macao,446,MO,MAC
+5901,Bénéficiaires bilatéraux,,129,Madagascar,450,MG,MDG
+5901,Bénéficiaires bilatéraux,,13,Bahreïn,048,BH,BHR
+5901,Bénéficiaires bilatéraux,,130,Malawi,454,MW,MWI
+5901,Bénéficiaires bilatéraux,,131,Malaisie,458,MY,MYS
+5901,Bénéficiaires bilatéraux,,132,Maldives,462,MV,MDV
+5901,Bénéficiaires bilatéraux,,133,Mali,466,ML,MLI
+5901,Bénéficiaires bilatéraux,,134,Malte,470,MT,MLT
+5901,Bénéficiaires bilatéraux,,136,Mauritanie,478,MR,MRT
+5901,Bénéficiaires bilatéraux,,137,Maurice,480,MU,MUS
+5901,Bénéficiaires bilatéraux,,138,Mexique,484,MX,MEX
+5901,Bénéficiaires bilatéraux,,14,Barbade,052,BB,BRB
+5901,Bénéficiaires bilatéraux,,141,Mongolie,496,MN,MNG
+5901,Bénéficiaires bilatéraux,,142,Montserrat,500,MS,MSR
+5901,Bénéficiaires bilatéraux,,143,Maroc,504,MA,MAR
+5901,Bénéficiaires bilatéraux,,144,Mozambique,508,MZ,MOZ
+5901,Bénéficiaires bilatéraux,,145,Micronésie (États fédérés de),583,FM,FSM
+5901,Bénéficiaires bilatéraux,,146,République de Moldova,498,MD,MDA
+5901,Bénéficiaires bilatéraux,,147,Namibie,516,,NAM
+5901,Bénéficiaires bilatéraux,,148,Nauru,520,NR,NRU
+5901,Bénéficiaires bilatéraux,,149,Népal,524,NP,NPL
+5901,Bénéficiaires bilatéraux,,151,Antilles néerlandaises (ex),530,AN,ANT
+5901,Bénéficiaires bilatéraux,,153,Nouvelle-Calédonie,540,NC,NCL
+5901,Bénéficiaires bilatéraux,,154,Macédoine du Nord,807,MK,MKD
+5901,Bénéficiaires bilatéraux,,155,Vanuatu,548,VU,VUT
+5901,Bénéficiaires bilatéraux,,157,Nicaragua,558,NI,NIC
+5901,Bénéficiaires bilatéraux,,158,Niger,562,NE,NER
+5901,Bénéficiaires bilatéraux,,159,Nigéria,566,NG,NGA
+5901,Bénéficiaires bilatéraux,,16,Bangladesh,050,BD,BGD
+5901,Bénéficiaires bilatéraux,,160,Nioué,570,NU,NIU
+5901,Bénéficiaires bilatéraux,,163,Îles Mariannes du Nord,580,MP,MNP
+5901,Bénéficiaires bilatéraux,,165,Pakistan,586,PK,PAK
+5901,Bénéficiaires bilatéraux,,166,Panama,591,PA,PAN
+5901,Bénéficiaires bilatéraux,,168,Papouasie-Nouvelle-Guinée,598,PG,PNG
+5901,Bénéficiaires bilatéraux,,169,Paraguay,600,PY,PRY
+5901,Bénéficiaires bilatéraux,,17,Bermudes,060,BM,BMU
+5901,Bénéficiaires bilatéraux,,170,Pérou,604,PE,PER
+5901,Bénéficiaires bilatéraux,,171,Philippines,608,PH,PHL
+5901,Bénéficiaires bilatéraux,,175,Guinée-Bissau,624,GW,GNB
+5901,Bénéficiaires bilatéraux,,176,Timor-Leste,626,TL,TLS
+5901,Bénéficiaires bilatéraux,,178,Érythrée,232,ER,ERI
+5901,Bénéficiaires bilatéraux,,179,Qatar,634,QA,QAT
+5901,Bénéficiaires bilatéraux,,18,Bhoutan,064,BT,BTN
+5901,Bénéficiaires bilatéraux,,180,Palaos,585,PW,PLW
+5901,Bénéficiaires bilatéraux,,181,Zimbabwe,716,ZW,ZWE
+5901,Bénéficiaires bilatéraux,,184,Rwanda,646,RW,RWA
+5901,Bénéficiaires bilatéraux,,187,"Ascension, Sainte-Hélène et Tristan da Cunha",654,SH,SHN
+5901,Bénéficiaires bilatéraux,,188,Saint-Kitts-et-Nevis,659,KN,KNA
+5901,Bénéficiaires bilatéraux,,189,Sainte-Lucie,662,LC,LCA
+5901,Bénéficiaires bilatéraux,,19,Bolivie (État plurinational de),068,BO,BOL
+5901,Bénéficiaires bilatéraux,,191,Saint-Vincent-et-les Grenadines,670,VC,VCT
+5901,Bénéficiaires bilatéraux,,193,Sao Tomé-et-Principe,678,ST,STP
+5901,Bénéficiaires bilatéraux,,194,Arabie saoudite,682,SA,SAU
+5901,Bénéficiaires bilatéraux,,195,Sénégal,686,SN,SEN
+5901,Bénéficiaires bilatéraux,,196,Seychelles,690,SC,SYC
+5901,Bénéficiaires bilatéraux,,197,Sierra Leone,694,SL,SLE
+5901,Bénéficiaires bilatéraux,,198,Slovénie,705,SI,SVN
+5901,Bénéficiaires bilatéraux,,2,Afghanistan,004,AF,AFG
+5901,Bénéficiaires bilatéraux,,20,Botswana,072,BW,BWA
+5901,Bénéficiaires bilatéraux,,200,Singapour,702,SG,SGP
+5901,Bénéficiaires bilatéraux,,201,Somalie,706,SO,SOM
+5901,Bénéficiaires bilatéraux,,202,Afrique du Sud,710,ZA,ZAF
+5901,Bénéficiaires bilatéraux,,207,Suriname,740,SR,SUR
+5901,Bénéficiaires bilatéraux,,208,Tadjikistan,762,TJ,TJK
+5901,Bénéficiaires bilatéraux,,209,Eswatini,748,SZ,SWZ
+5901,Bénéficiaires bilatéraux,,21,Brésil,076,BR,BRA
+5901,Bénéficiaires bilatéraux,,212,République arabe syrienne,760,SY,SYR
+5901,Bénéficiaires bilatéraux,,213,Turkménistan,795,TM,TKM
+5901,Bénéficiaires bilatéraux,,215,République-Unie de Tanzanie,834,TZ,TZA
+5901,Bénéficiaires bilatéraux,,216,Thaïlande,764,TH,THA
+5901,Bénéficiaires bilatéraux,,217,Togo,768,TG,TGO
+5901,Bénéficiaires bilatéraux,,218,Tokélaou,772,TK,TKL
+5901,Bénéficiaires bilatéraux,,219,Tonga,776,TO,TON
+5901,Bénéficiaires bilatéraux,,22,Aruba,533,AW,ABW
+5901,Bénéficiaires bilatéraux,,220,Trinité-et-Tobago,780,TT,TTO
+5901,Bénéficiaires bilatéraux,,221,Oman,512,OM,OMN
+5901,Bénéficiaires bilatéraux,,222,Tunisie,788,TN,TUN
+5901,Bénéficiaires bilatéraux,,223,Türkiye,792,TR,TUR
+5901,Bénéficiaires bilatéraux,,224,Îles Turques-et-Caïques,796,TC,TCA
+5901,Bénéficiaires bilatéraux,,225,Émirats arabes unis,784,AE,ARE
+5901,Bénéficiaires bilatéraux,,226,Ouganda,800,UG,UGA
+5901,Bénéficiaires bilatéraux,,227,Tuvalu,798,TV,TUV
+5901,Bénéficiaires bilatéraux,,23,Belize,084,BZ,BLZ
+5901,Bénéficiaires bilatéraux,,230,Ukraine,804,UA,UKR
+5901,Bénéficiaires bilatéraux,,233,Burkina Faso,854,BF,BFA
+5901,Bénéficiaires bilatéraux,,234,Uruguay,858,UY,URY
+5901,Bénéficiaires bilatéraux,,235,Ouzbékistan,860,UZ,UZB
+5901,Bénéficiaires bilatéraux,,236,Venezuela (République bolivarienne du),862,VE,VEN
+5901,Bénéficiaires bilatéraux,,237,Viet Nam,704,VN,VNM
+5901,Bénéficiaires bilatéraux,,238,Éthiopie,231,ET,ETH
+5901,Bénéficiaires bilatéraux,,239,Îles Vierges britanniques,092,VG,VGB
+5901,Bénéficiaires bilatéraux,,243,Îles Wallis-et-Futuna,876,WF,WLF
+5901,Bénéficiaires bilatéraux,,244,Samoa,882,WS,WSM
+5901,Bénéficiaires bilatéraux,,248,RFS de Yougoslavie,890,F248,F248
+5901,Bénéficiaires bilatéraux,,249,Yémen,887,YE,YEM
+5901,Bénéficiaires bilatéraux,,25,Îles Salomon,090,SB,SLB
+5901,Bénéficiaires bilatéraux,,250,République démocratique du Congo,180,CD,COD
+5901,Bénéficiaires bilatéraux,,251,Zambie,894,ZM,ZMB
+5901,Bénéficiaires bilatéraux,,258,Anguilla,660,AI,AIA
+5901,Bénéficiaires bilatéraux,,26,Brunéi Darussalam,096,BN,BRN
+5901,Bénéficiaires bilatéraux,,270,Mayotte,175,YT,MYT
+5901,Bénéficiaires bilatéraux,,272,Serbie,688,RS,SRB
+5901,Bénéficiaires bilatéraux,,273,Monténégro,499,ME,MNE
+5901,Bénéficiaires bilatéraux,,275,Kosovo,412,F275,F275
+5901,Bénéficiaires bilatéraux,,276,Soudan,729,SD,SDN
+5901,Bénéficiaires bilatéraux,,277,Soudan du Sud,728,SS,SSD
+5901,Bénéficiaires bilatéraux,,28,Myanmar,104,MM,MMR
+5901,Bénéficiaires bilatéraux,,29,Burundi,108,BI,BDI
+5901,Bénéficiaires bilatéraux,,299,Palestine,275,F299,PSE
+5901,Bénéficiaires bilatéraux,,3,Albanie,008,AL,ALB
+5901,Bénéficiaires bilatéraux,,32,Cameroun,120,CM,CMR
+5901,Bénéficiaires bilatéraux,,35,Cabo Verde,132,CV,CPV
+5901,Bénéficiaires bilatéraux,,351,Chine,159,F351,F351
+5901,Bénéficiaires bilatéraux,,36,Îles Caïmanes,136,KY,CYM
+5901,Bénéficiaires bilatéraux,,37,République centrafricaine,140,CF,CAF
+5901,Bénéficiaires bilatéraux,,38,Sri Lanka,144,LK,LKA
+5901,Bénéficiaires bilatéraux,,39,Tchad,148,TD,TCD
+5901,Bénéficiaires bilatéraux,,4,Algérie,012,DZ,DZA
+5901,Bénéficiaires bilatéraux,,40,Chili,152,CL,CHL
+5901,Bénéficiaires bilatéraux,,41,"Chine, continentale",156,CN,CHN
+5901,Bénéficiaires bilatéraux,,44,Colombie,170,CO,COL
+5901,Bénéficiaires bilatéraux,,45,Comores,174,KM,COM
+5901,Bénéficiaires bilatéraux,,46,Congo,178,CG,COG
+5901,Bénéficiaires bilatéraux,,47,Îles Cook,184,CK,COK
+5901,Bénéficiaires bilatéraux,,48,Costa Rica,188,CR,CRI
+5901,Bénéficiaires bilatéraux,,49,Cuba,192,CU,CUB
+5901,Bénéficiaires bilatéraux,,50,Chypre,196,CY,CYP
+5901,Bénéficiaires bilatéraux,,52,Azerbaïdjan,031,AZ,AZE
+5901,Bénéficiaires bilatéraux,,53,Bénin,204,BJ,BEN
+5901,Bénéficiaires bilatéraux,,55,Dominique,212,DM,DMA
+5901,Bénéficiaires bilatéraux,,56,République dominicaine,214,DO,DOM
+5901,Bénéficiaires bilatéraux,,57,Bélarus,112,BY,BLR
+5901,Bénéficiaires bilatéraux,,58,Équateur,218,EC,ECU
+5901,Bénéficiaires bilatéraux,,59,Égypte,818,EG,EGY
+5901,Bénéficiaires bilatéraux,,60,El Salvador,222,SV,SLV
+5901,Bénéficiaires bilatéraux,,61,Guinée équatoriale,226,GQ,GNQ
+5901,Bénéficiaires bilatéraux,,65,Îles Falkland (Malvinas),238,FK,FLK
+5901,Bénéficiaires bilatéraux,,66,Fidji,242,FJ,FJI
+5901,Bénéficiaires bilatéraux,,7,Angola,024,AO,AGO
+5901,Bénéficiaires bilatéraux,,70,Polynésie française,258,PF,PYF
+5901,Bénéficiaires bilatéraux,,72,Djibouti,262,DJ,DJI
+5901,Bénéficiaires bilatéraux,,73,Géorgie,268,GE,GEO
+5901,Bénéficiaires bilatéraux,,74,Gabon,266,GA,GAB
+5901,Bénéficiaires bilatéraux,,75,Gambie,270,GM,GMB
+5901,Bénéficiaires bilatéraux,,8,Antigua-et-Barbuda,028,AG,ATG
+5901,Bénéficiaires bilatéraux,,80,Bosnie-Herzégovine,070,BA,BIH
+5901,Bénéficiaires bilatéraux,,81,Ghana,288,GH,GHA
+5901,Bénéficiaires bilatéraux,,82,Gibraltar,292,GI,GIB
+5901,Bénéficiaires bilatéraux,,83,Kiribati,296,KI,KIR
+5901,Bénéficiaires bilatéraux,,86,Grenade,308,GD,GRD
+5901,Bénéficiaires bilatéraux,,89,Guatemala,320,GT,GTM
+5901,Bénéficiaires bilatéraux,,9,Argentine,032,AR,ARG
+5901,Bénéficiaires bilatéraux,,90,Guinée,324,GN,GIN
+5901,Bénéficiaires bilatéraux,,91,Guyana,328,GY,GUY
+5901,Bénéficiaires bilatéraux,,93,Haïti,332,HT,HTI
+5901,Bénéficiaires bilatéraux,,95,Honduras,340,HN,HND
+5901,Bénéficiaires bilatéraux,,96,Chine - RAS de Hong-Kong,344,HK,HKG
+5901,Bénéficiaires bilatéraux,,98,Croatie,191,HR,HRV
+5206,Caraïbes,029,109,Jamaïque,388,JM,JAM
+5206,Caraïbes,029,12,Bahamas,044,BS,BHS
+5206,Caraïbes,029,135,Martinique,474,MQ,MTQ
+5206,Caraïbes,029,14,Barbade,052,BB,BRB
+5206,Caraïbes,029,142,Montserrat,500,MS,MSR
+5206,Caraïbes,029,151,Antilles néerlandaises (ex),530,AN,ANT
+5206,Caraïbes,029,177,Porto Rico,630,PR,PRI
+5206,Caraïbes,029,188,Saint-Kitts-et-Nevis,659,KN,KNA
+5206,Caraïbes,029,189,Sainte-Lucie,662,LC,LCA
+5206,Caraïbes,029,191,Saint-Vincent-et-les Grenadines,670,VC,VCT
+5206,Caraïbes,029,22,Aruba,533,AW,ABW
+5206,Caraïbes,029,220,Trinité-et-Tobago,780,TT,TTO
+5206,Caraïbes,029,224,Îles Turques-et-Caïques,796,TC,TCA
+5206,Caraïbes,029,239,Îles Vierges britanniques,092,VG,VGB
+5206,Caraïbes,029,240,Îles Vierges américaines,850,VI,VIR
+5206,Caraïbes,029,258,Anguilla,660,AI,AIA
+5206,Caraïbes,029,278,"Bonaire, Saint-Eustache et Saba",535,F278,BES
+5206,Caraïbes,029,279,Curaçao,531,F279,CUW
+5206,Caraïbes,029,280,Sint Maarten (partie néerlandaise),534,F280,SXM
+5206,Caraïbes,029,281,Saint-Martin (partie française),663,F281,MAF
+5206,Caraïbes,029,282,Saint-Barthélemy,652,F282,BLM
+5206,Caraïbes,029,36,Îles Caïmanes,136,KY,CYM
+5206,Caraïbes,029,49,Cuba,192,CU,CUB
+5206,Caraïbes,029,531,"Caraïbes, non spécifié",130,F531,F531
+5206,Caraïbes,029,55,Dominique,212,DM,DMA
+5206,Caraïbes,029,56,République dominicaine,214,DO,DOM
+5206,Caraïbes,029,609,"Caraïbes, non spécifié(population)",029.01,F609,F609
+5206,Caraïbes,029,8,Antigua-et-Barbuda,028,AG,ATG
+5206,Caraïbes,029,86,Grenade,308,GD,GRD
+5206,Caraïbes,029,87,Guadeloupe,312,GP,GLP
+5206,Caraïbes,029,93,Haïti,332,HT,HTI
+5857,Caucase et Asie Centrale,135,1,Arménie,051,AM,ARM
+5857,Caucase et Asie Centrale,135,108,Kazakhstan,398,KZ,KAZ
+5857,Caucase et Asie Centrale,135,113,Kirghizistan,417,KG,KGZ
+5857,Caucase et Asie Centrale,135,208,Tadjikistan,762,TJ,TJK
+5857,Caucase et Asie Centrale,135,213,Turkménistan,795,TM,TKM
+5857,Caucase et Asie Centrale,135,235,Ouzbékistan,860,UZ,UZB
+5857,Caucase et Asie Centrale,135,52,Azerbaïdjan,031,AZ,AZE
+5857,Caucase et Asie Centrale,135,73,Géorgie,268,GE,GEO
+690,Donateurs Bilatéraux,,10,Australie,036,AU,AUS
+690,Donateurs Bilatéraux,,104,Irlande,372,IE,IRL
+690,Donateurs Bilatéraux,,105,Israël,376,IL,ISR
+690,Donateurs Bilatéraux,,1051,Institutions de l'Union européenne (UE),918,F1051,F1051
+690,Donateurs Bilatéraux,,106,Italie,380,IT,ITA
+690,Donateurs Bilatéraux,,108,Kazakhstan,398,KZ,KAZ
+690,Donateurs Bilatéraux,,11,Autriche,040,AT,AUT
+690,Donateurs Bilatéraux,,110,Japon,392,JP,JPN
+690,Donateurs Bilatéraux,,117,République de Corée,410,KR,KOR
+690,Donateurs Bilatéraux,,118,Koweït,414,KW,KWT
+690,Donateurs Bilatéraux,,119,Lettonie,428,LV,LVA
+690,Donateurs Bilatéraux,,1202,German Postcode Lottery,,,
+690,Donateurs Bilatéraux,,125,Liechtenstein,438,LI,LIE
+690,Donateurs Bilatéraux,,126,Lituanie,440,LT,LTU
+690,Donateurs Bilatéraux,,134,Malte,470,MT,MLT
+690,Donateurs Bilatéraux,,150,Pays-Bas (Royaume des),528,NL,NLD
+690,Donateurs Bilatéraux,,156,Nouvelle-Zélande,554,NZ,NZL
+690,Donateurs Bilatéraux,,162,Norvège,578,NO,NOR
+690,Donateurs Bilatéraux,,167,Tchéquie,203,CZ,CZE
+690,Donateurs Bilatéraux,,173,Pologne,616,PL,POL
+690,Donateurs Bilatéraux,,174,Portugal,620,PT,PRT
+690,Donateurs Bilatéraux,,176,Timor-Leste,626,TL,TLS
+690,Donateurs Bilatéraux,,179,Qatar,634,QA,QAT
+690,Donateurs Bilatéraux,,183,Roumanie,642,RO,ROU
+690,Donateurs Bilatéraux,,185,Fédération de Russie,643,RU,RUS
+690,Donateurs Bilatéraux,,194,Arabie saoudite,682,SA,SAU
+690,Donateurs Bilatéraux,,198,Slovénie,705,SI,SVN
+690,Donateurs Bilatéraux,,199,Slovaquie,703,SK,SVK
+690,Donateurs Bilatéraux,,203,Espagne,724,ES,ESP
+690,Donateurs Bilatéraux,,210,Suède,752,SE,SWE
+690,Donateurs Bilatéraux,,211,Suisse,756,CH,CHE
+690,Donateurs Bilatéraux,,214,"Chine, Taiwan Province de",158,TW,TWN
+690,Donateurs Bilatéraux,,216,Thaïlande,764,TH,THA
+690,Donateurs Bilatéraux,,223,Türkiye,792,TR,TUR
+690,Donateurs Bilatéraux,,225,Émirats arabes unis,784,AE,ARE
+690,Donateurs Bilatéraux,,229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,826,GB,GBR
+690,Donateurs Bilatéraux,,231,États-Unis d'Amérique,840,US,USA
+690,Donateurs Bilatéraux,,255,Belgique,056,BE,BEL
+690,Donateurs Bilatéraux,,256,Luxembourg,442,LU,LUX
+690,Donateurs Bilatéraux,,27,Bulgarie,100,BG,BGR
+690,Donateurs Bilatéraux,,33,Canada,124,CA,CAN
+690,Donateurs Bilatéraux,,50,Chypre,196,CY,CYP
+690,Donateurs Bilatéraux,,52,Azerbaïdjan,031,AZ,AZE
+690,Donateurs Bilatéraux,,54,Danemark,208,DK,DNK
+690,Donateurs Bilatéraux,,63,Estonie,233,EE,EST
+690,Donateurs Bilatéraux,,67,Finlande,246,FI,FIN
+690,Donateurs Bilatéraux,,68,France,250,FR,FRA
+690,Donateurs Bilatéraux,,79,Allemagne,276,DE,DEU
+690,Donateurs Bilatéraux,,84,Grèce,300,GR,GRC
+690,Donateurs Bilatéraux,,97,Hongrie,348,HU,HUN
+690,Donateurs Bilatéraux,,98,Croatie,191,HR,HRV
+690,Donateurs Bilatéraux,,99,Islande,352,IS,ISL
+691,Donateurs Multilatéraux,,1001,Adaptation Fund,1012,F1001,F1001
+691,Donateurs Multilatéraux,,1003,Banque arabe pour le développement économique en Afrique (BADEA),953,F1003,F1003
+691,Donateurs Multilatéraux,,1006,Le Fonds africain de développement (FAD),914,F1006,F1006
+691,Donateurs Multilatéraux,,1012,Banque africaine de développement (BAfD),913,F1012,F1012
+691,Donateurs Multilatéraux,,1015,Fonds arabe pour le développement économique et social (FADES),921,F1015,F1015
+691,Donateurs Multilatéraux,,1021,Banque asiatique de développement (BAsD),915,F1021,F1021
+691,Donateurs Multilatéraux,,1023,Asian Infrastructure Investment Bank,1024,F1023,F1023
+691,Donateurs Multilatéraux,,1027,Central American Bank for Economic Integration (CABEI),,,
+691,Donateurs Multilatéraux,,1030,Caribbean Development Bank (CDB),,F1030,F1030
+691,Donateurs Multilatéraux,,1031,Council of Europe Development Bank (CEB),1013,F1031,F1031
+691,Donateurs Multilatéraux,,1032,Central Emergency Response Fund,1020,F1032,F1032
+691,Donateurs Multilatéraux,,1034,Climate Investment Funds (CIF),1011,F1034,F1034
+691,Donateurs Multilatéraux,,1048,Banque européenne pour la reconstruction et le développement (BERD),990,F1048,F1048
+691,Donateurs Multilatéraux,,1049,Development Bank of Latin America,1015,F1049,F1049
+691,Donateurs Multilatéraux,,1054,Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO),932,F1054,F1054
+691,Donateurs Multilatéraux,,1055,Alliance mondiale pour les vaccins et la vaccination (GAVI),1311,F1055,F1055
+691,Donateurs Multilatéraux,,1056,Fonds pour l’environnement mondial (FEM),811,F1056,F1056
+691,Donateurs Multilatéraux,,1058,Fonds mondial,1312,F1058,F1058
+691,Donateurs Multilatéraux,,1059,Institut Mondial de la Croissance Verte (GGGI),1313,F1059,F1059
+691,Donateurs Multilatéraux,,1060,Banque internationale pour la reconstruction et le développement (BIRD),,F1060,F1060
+691,Donateurs Multilatéraux,,1061,Green Climate Fund,1016,F1061,F1061
+691,Donateurs Multilatéraux,,1075,Association internationale de développement (AID),,F1075,F1075
+691,Donateurs Multilatéraux,,1078,Banque interaméricaine de développement (BID),909,F1078,F1078
+691,Donateurs Multilatéraux,,1079,BID Invest,1019,F1079,F1079
+691,Donateurs Multilatéraux,,1084,Fonds international de développement agricole (FIDA),988,F1084,F1084
+691,Donateurs Multilatéraux,,1100,Organisation internationale du Travail (OIT),940,F1100,F1100
+691,Donateurs Multilatéraux,,1110,Société financière internationale (IFC),,F1110,F1110
+691,Donateurs Multilatéraux,,1120,Banque islamique de développement (BID),976,F1120,F1120
+691,Donateurs Multilatéraux,,1132,Multilateral Investment Fund (IDB) (MIF),,,
+691,Donateurs Multilatéraux,,1133,Fonds Nordique de Développement (FND),,,
+691,Donateurs Multilatéraux,,1135,Fonds de l'OPEP pour le développement international (OFID),951,F1135,F1135
+691,Donateurs Multilatéraux,,1136,Organisation pour la sécurité et la coopération en Europe (OSCE),978,F1136,F1136
+691,Donateurs Multilatéraux,,1137,Programme commun des Nations Unies sur le VIH/sida (ONUSIDA),971,F1137,F1137
+691,Donateurs Multilatéraux,,1139,Fonds des Nations Unies pour la population (FNUAP),974,F1139,F1139
+691,Donateurs Multilatéraux,,1140,Haut-Commissariat des Nations Unies pour les réfugiés (HCR),967,F1140,F1140
+691,Donateurs Multilatéraux,,1141,Programme des Nations Unies pour le développement (PNUD),959,F1141,F1141
+691,Donateurs Multilatéraux,,1142,Fonds des Nations Unies pour l'enfance (UNICEF),963,F1142,F1142
+691,Donateurs Multilatéraux,,1143,Fonds des Nations Unies pour la consolidation de la paix,923,F1143,F1143
+691,Donateurs Multilatéraux,,1145,Office de secours et de travaux des Nations Unies pour les réfugiés de Palestine dans le Proche-Orient (UNRWA),964,F1145,F1145
+691,Donateurs Multilatéraux,,1146,Programme Alimentaire Mondial (PAM),966,F1146,F1146
+691,Donateurs Multilatéraux,,1148,Organisation mondiale de la santé (OMS),928,F1148,F1148
+691,Donateurs Multilatéraux,,1149,Programme des Nations Unies pour l'environnement (PNUE),,,
+691,Donateurs Multilatéraux,,1162,Multilateral Investment Guarantee Agency,,,
+691,Donateurs Multilatéraux,,1163,Fonds monétaire international (FMI),,,
+691,Donateurs Multilatéraux,,1164,Council of Europe,,,
+691,Donateurs Multilatéraux,,1165,International Atomic Energy Agency,,,
+691,Donateurs Multilatéraux,,1166,Special Arab Aid Fund for Africa,,,
+691,Donateurs Multilatéraux,,1167,IMF Trust Fund,,,
+691,Donateurs Multilatéraux,,1168,United Nations Transitional Authority (UNTA),,,
+691,Donateurs Multilatéraux,,1169,Islamic Monetary Fund,,,
+691,Donateurs Multilatéraux,,1170,Arab Fund for Technical Assistance to African and Arab Countries,,,
+691,Donateurs Multilatéraux,,1171,Black Sea Trade & Development Bank,,,
+691,Donateurs Multilatéraux,,1172,GODE,,,
+691,Donateurs Multilatéraux,,1173,Other Arab Agencies,,,
+691,Donateurs Multilatéraux,,1174,UN AGENCIES,,,
+691,Donateurs Multilatéraux,,1175,Global Partnership for Education,,,
+691,Donateurs Multilatéraux,,1176,Private Infrastructure Development Group,,,
+691,Donateurs Multilatéraux,,1177,Credit Guarantee and Investment Facility,,,
+691,Donateurs Multilatéraux,,1178,Global Energy Efficiency and Renewable Energy Fund,,,
+691,Donateurs Multilatéraux,,1179,Center of Excellence in Finance,,,
+691,Donateurs Multilatéraux,,1180,International Investment Bank,,,
+691,Donateurs Multilatéraux,,1181,United Nations Institute for Disarmament Research,,,
+691,Donateurs Multilatéraux,,1182,UBS Optimus Foundation,,,
+691,Donateurs Multilatéraux,,1183,LEGO Foundation,,,
+691,Donateurs Multilatéraux,,1184,Jacobs Foundation,,,
+691,Donateurs Multilatéraux,,1189,Eurasian Fund for  Stabilization and Development,,,
+691,Donateurs Multilatéraux,,1190,WTO - International  Trade Centre,,,
+691,Donateurs Multilatéraux,,1191,United Nations Industrial Development Organization,,,
+691,Donateurs Multilatéraux,,1192,United Nations Conference on Trade and Development,,,
+691,Donateurs Multilatéraux,,1193,United Nations Capital Development Fund,,,
+691,Donateurs Multilatéraux,,1194,New Development Bank,,,
+691,Donateurs Multilatéraux,,1195,North American Development Bank,,,
+691,Donateurs Multilatéraux,,1196,UN Women,,,
+691,Donateurs Multilatéraux,,1197,COVID-19 Response and Recovery Multi-Partner Trust Fund,,,
+691,Donateurs Multilatéraux,,1198,Joint Sustainable Development Goals Fund,,,
+691,Donateurs Multilatéraux,,1199,International Commission on Missing Persons,,,
+691,Donateurs Multilatéraux,,1200,WHO-Strategic Preparedness and Response Plan,,,
+691,Donateurs Multilatéraux,,1201,World Trade Organisation,,,
+691,Donateurs Multilatéraux,,441,Commission économique des Nations Unies pour l'Europe (CEE),734,F441,F441
+692,Donateurs Privés,,1017,Bloomberg Family Foundation,1640,F1017,F1017
+692,Donateurs Privés,,1019,Arcadia Fund,1637,F1019,F1019
+692,Donateurs Privés,,1020,Arcus Foundation,1625,F1020,F1020
+692,Donateurs Privés,,1025,Fondation Bill et Melinda Gates,1601,F1025,F1025
+692,Donateurs Privés,,1026,Bernard van Leer Foundation,1609,F1026,F1026
+692,Donateurs Privés,,1028,C&A Foundation,,,
+692,Donateurs Privés,,1029,Carnegie Corporation of New York,1620,F1029,F1029
+692,Donateurs Privés,,1035,Charity Projects Ltd (Comic Relief),1614,F1035,F1035
+692,Donateurs Privés,,1037,Children's Investment Fund Foundation,1615,F1037,F1037
+692,Donateurs Privés,,1038,BBVA Microfinance Foundation,1635,F1038,F1038
+692,Donateurs Privés,,1040,Conrad N. Hilton Foundation,1617,F1040,F1040
+692,Donateurs Privés,,1046,David & Lucile Packard Foundation,1618,F1046,F1046
+692,Donateurs Privés,,1047,Dutch Postcode Lottery,1602,F1047,F1047
+692,Donateurs Privés,,1053,Ford Foundation,1627,F1053,F1053
+692,Donateurs Privés,,1062,Gatsby Charitable Foundation,1616,F1062,F1062
+692,Donateurs Privés,,1064,Gordon and Betty Moore Foundation,1626,F1064,F1064
+692,Donateurs Privés,,1065,H&M Foundation,1612,F1065,F1065
+692,Donateurs Privés,,1067,Grameen Crédit Agricole Foundation,1607,F1067,F1067
+692,Donateurs Privés,,1068,Howard G. Buffett Foundation,1642,F1068,F1068
+692,Donateurs Privés,,1080,John D. & Catherine T. MacArthur Foundation,1619,F1080,F1080
+692,Donateurs Privés,,1101,IKEA Foundation,1608,F1101,F1101
+692,Donateurs Privés,,1121,Laudes Foundation,1613,F1121,F1121
+692,Donateurs Privés,,1122,La Caixa Banking Foundation,1639,F1122,F1122
+692,Donateurs Privés,,1124,MasterCard Foundation,1606,F1124,F1124
+692,Donateurs Privés,,1125,Margaret A. Cargill Foundation,1638,F1125,F1125
+692,Donateurs Privés,,1127,MAVA Foundation,1610,F1127,F1127
+692,Donateurs Privés,,1128,Michael & Susan Dell Foundation,1621,F1128,F1128
+692,Donateurs Privés,,1130,MetLife Foundation,1605,F1130,F1130
+692,Donateurs Privés,,1134,People's Postcode Lottery,1604,F1134,F1134
+692,Donateurs Privés,,1151,Swedish Postcode Lottery,1603,F1151,F1151
+692,Donateurs Privés,,1152,Oak Foundation,1611,F1152,F1152
+692,Donateurs Privés,,1153,"Omidyar Network Fund, Inc.",1622,F1153,F1153
+692,Donateurs Privés,,1154,Wellcome Trust,1628,F1154,F1154
+692,Donateurs Privés,,1155,William & Flora Hewlett Foundation,1624,F1155,F1155
+692,Donateurs Privés,,1156,World Diabetes Foundation,1630,F1156,F1156
+692,Donateurs Privés,,1157,World Tourism Organisation,1023,F1157,F1157
+692,Donateurs Privés,,1158,Rockefeller Foundation,1623,F1158,F1158
+692,Donateurs Privés,,1159,McKnight Foundation,1631,F1159,F1159
+692,Donateurs Privés,,1160,Citi Foundation,1632,F1160,F1160
+692,Donateurs Privés,,1161,Norwegian Postcode Lottery,1634,F1161,F1161
+692,Donateurs Privés,,1185,Susan T. Buffett Foundation,,,
+692,Donateurs Privés,,1186,Open Society Foundations,,,
+692,Donateurs Privés,,1187,Botnar Foundation,,,
+692,Donateurs Privés,,1188,Bezos Earth Fund,,,
+692,Donateurs Privés,,140,Monaco,492,MC,MCO
+5829,Eastern Asia (excluding Japan and China),223,116,République populaire démocratique de Corée,408,KP,PRK
+5829,Eastern Asia (excluding Japan and China),223,117,République de Corée,410,KR,KOR
+5829,Eastern Asia (excluding Japan and China),223,141,Mongolie,496,MN,MNG
+5829,Eastern Asia (excluding Japan and China),223,606,"Asie de l'Est, non spécifié",220,F606,F606
+5400,Europe,150,104,Irlande,372,IE,IRL
+5400,Europe,150,106,Italie,380,IT,ITA
+5400,Europe,150,11,Autriche,040,AT,AUT
+5400,Europe,150,119,Lettonie,428,LV,LVA
+5400,Europe,150,125,Liechtenstein,438,LI,LIE
+5400,Europe,150,126,Lituanie,440,LT,LTU
+5400,Europe,150,134,Malte,470,MT,MLT
+5400,Europe,150,140,Monaco,492,MC,MCO
+5400,Europe,150,146,République de Moldova,498,MD,MDA
+5400,Europe,150,15,Belgique-Luxembourg,058,F15,F15
+5400,Europe,150,150,Pays-Bas (Royaume des),528,NL,NLD
+5400,Europe,150,154,Macédoine du Nord,807,MK,MKD
+5400,Europe,150,162,Norvège,578,NO,NOR
+5400,Europe,150,167,Tchéquie,203,CZ,CZE
+5400,Europe,150,173,Pologne,616,PL,POL
+5400,Europe,150,174,Portugal,620,PT,PRT
+5400,Europe,150,183,Roumanie,642,RO,ROU
+5400,Europe,150,185,Fédération de Russie,643,RU,RUS
+5400,Europe,150,186,Serbie-et-Monténégro,891,CS,SCG
+5400,Europe,150,192,Saint-Marin,674,SM,SMR
+5400,Europe,150,198,Slovénie,705,SI,SVN
+5400,Europe,150,199,Slovaquie,703,SK,SVK
+5400,Europe,150,203,Espagne,724,ES,ESP
+5400,Europe,150,210,Suède,752,SE,SWE
+5400,Europe,150,211,Suisse,756,CH,CHE
+5400,Europe,150,228,URSS,810,F228,F228
+5400,Europe,150,229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,826,GB,GBR
+5400,Europe,150,230,Ukraine,804,UA,UKR
+5400,Europe,150,248,RFS de Yougoslavie,890,F248,F248
+5400,Europe,150,255,Belgique,056,BE,BEL
+5400,Europe,150,256,Luxembourg,442,LU,LUX
+5400,Europe,150,259,Îles Anglo-Normandes,830,F259,CHA
+5400,Europe,150,260,Îles Svalbard-et-Jan Mayen,744,SJ,SJM
+5400,Europe,150,264,Île de Man,833,IM,IMN
+5400,Europe,150,27,Bulgarie,100,BG,BGR
+5400,Europe,150,272,Serbie,688,RS,SRB
+5400,Europe,150,273,Monténégro,499,ME,MNE
+5400,Europe,150,274,Guernesey,831,F274,GGY
+5400,Europe,150,275,Kosovo,412,F275,F275
+5400,Europe,150,283,Jersey,832,F283,JEY
+5400,Europe,150,284,Îles d'Åland,248,F284,ALA
+5400,Europe,150,285,Sercq,680,F285,F285
+5400,Europe,150,3,Albanie,008,AL,ALB
+5400,Europe,150,51,Tchécoslovaq,200,F51,F51
+5400,Europe,150,54,Danemark,208,DK,DNK
+5400,Europe,150,57,Bélarus,112,BY,BLR
+5400,Europe,150,6,Andorre,020,AD,AND
+5400,Europe,150,611,"Europe, non spécifié",568,F611,F611
+5400,Europe,150,619,"Europe du Nord, non spécifié(population)",154.01,F619,F619
+5400,Europe,150,620,"Europe du Sud, non spécifié",715,F620,F620
+5400,Europe,150,621,"Europe de l'Ouest, non spécifié(population)",155.01,F621,F621
+5400,Europe,150,63,Estonie,233,EE,EST
+5400,Europe,150,64,Îles Féroé,234,FO,FRO
+5400,Europe,150,67,Finlande,246,FI,FIN
+5400,Europe,150,68,France,250,FR,FRA
+5400,Europe,150,77,Allemagne Nl,278,F77,F77
+5400,Europe,150,78,Allemagne Fr,280,F78,F78
+5400,Europe,150,79,Allemagne,276,DE,DEU
+5400,Europe,150,80,Bosnie-Herzégovine,070,BA,BIH
+5400,Europe,150,82,Gibraltar,292,GI,GIB
+5400,Europe,150,84,Grèce,300,GR,GRC
+5400,Europe,150,94,Saint-Siège,336,VA,VAT
+5400,Europe,150,97,Hongrie,348,HU,HUN
+5400,Europe,150,98,Croatie,191,HR,HRV
+5400,Europe,150,99,Islande,352,IS,ISL
+5403,Europe méridionale,039,106,Italie,380,IT,ITA
+5403,Europe méridionale,039,134,Malte,470,MT,MLT
+5403,Europe méridionale,039,154,Macédoine du Nord,807,MK,MKD
+5403,Europe méridionale,039,174,Portugal,620,PT,PRT
+5403,Europe méridionale,039,186,Serbie-et-Monténégro,891,CS,SCG
+5403,Europe méridionale,039,192,Saint-Marin,674,SM,SMR
+5403,Europe méridionale,039,198,Slovénie,705,SI,SVN
+5403,Europe méridionale,039,203,Espagne,724,ES,ESP
+5403,Europe méridionale,039,248,RFS de Yougoslavie,890,F248,F248
+5403,Europe méridionale,039,272,Serbie,688,RS,SRB
+5403,Europe méridionale,039,273,Monténégro,499,ME,MNE
+5403,Europe méridionale,039,275,Kosovo,412,F275,F275
+5403,Europe méridionale,039,3,Albanie,008,AL,ALB
+5403,Europe méridionale,039,6,Andorre,020,AD,AND
+5403,Europe méridionale,039,620,"Europe du Sud, non spécifié",715,F620,F620
+5403,Europe méridionale,039,80,Bosnie-Herzégovine,070,BA,BIH
+5403,Europe méridionale,039,82,Gibraltar,292,GI,GIB
+5403,Europe méridionale,039,84,Grèce,300,GR,GRC
+5403,Europe méridionale,039,94,Saint-Siège,336,VA,VAT
+5403,Europe méridionale,039,98,Croatie,191,HR,HRV
+5404,Europe occidentale,155,11,Autriche,040,AT,AUT
+5404,Europe occidentale,155,125,Liechtenstein,438,LI,LIE
+5404,Europe occidentale,155,140,Monaco,492,MC,MCO
+5404,Europe occidentale,155,15,Belgique-Luxembourg,058,F15,F15
+5404,Europe occidentale,155,150,Pays-Bas (Royaume des),528,NL,NLD
+5404,Europe occidentale,155,211,Suisse,756,CH,CHE
+5404,Europe occidentale,155,255,Belgique,056,BE,BEL
+5404,Europe occidentale,155,256,Luxembourg,442,LU,LUX
+5404,Europe occidentale,155,621,"Europe de l'Ouest, non spécifié(population)",155.01,F621,F621
+5404,Europe occidentale,155,68,France,250,FR,FRA
+5404,Europe occidentale,155,79,Allemagne,276,DE,DEU
+5401,Europe orientale,151,146,République de Moldova,498,MD,MDA
+5401,Europe orientale,151,167,Tchéquie,203,CZ,CZE
+5401,Europe orientale,151,173,Pologne,616,PL,POL
+5401,Europe orientale,151,183,Roumanie,642,RO,ROU
+5401,Europe orientale,151,185,Fédération de Russie,643,RU,RUS
+5401,Europe orientale,151,199,Slovaquie,703,SK,SVK
+5401,Europe orientale,151,228,URSS,810,F228,F228
+5401,Europe orientale,151,230,Ukraine,804,UA,UKR
+5401,Europe orientale,151,27,Bulgarie,100,BG,BGR
+5401,Europe orientale,151,51,Tchécoslovaq,200,F51,F51
+5401,Europe orientale,151,57,Bélarus,112,BY,BLR
+5401,Europe orientale,151,97,Hongrie,348,HU,HUN
+5402,Europe septentrionale,154,104,Irlande,372,IE,IRL
+5402,Europe septentrionale,154,119,Lettonie,428,LV,LVA
+5402,Europe septentrionale,154,126,Lituanie,440,LT,LTU
+5402,Europe septentrionale,154,162,Norvège,578,NO,NOR
+5402,Europe septentrionale,154,210,Suède,752,SE,SWE
+5402,Europe septentrionale,154,229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,826,GB,GBR
+5402,Europe septentrionale,154,259,Îles Anglo-Normandes,830,F259,CHA
+5402,Europe septentrionale,154,260,Îles Svalbard-et-Jan Mayen,744,SJ,SJM
+5402,Europe septentrionale,154,264,Île de Man,833,IM,IMN
+5402,Europe septentrionale,154,274,Guernesey,831,F274,GGY
+5402,Europe septentrionale,154,283,Jersey,832,F283,JEY
+5402,Europe septentrionale,154,284,Îles d'Åland,248,F284,ALA
+5402,Europe septentrionale,154,285,Sercq,680,F285,F285
+5402,Europe septentrionale,154,54,Danemark,208,DK,DNK
+5402,Europe septentrionale,154,619,"Europe du Nord, non spécifié(population)",154.01,F619,F619
+5402,Europe septentrionale,154,63,Estonie,233,EE,EST
+5402,Europe septentrionale,154,64,Îles Féroé,234,FO,FRO
+5402,Europe septentrionale,154,67,Finlande,246,FI,FIN
+5402,Europe septentrionale,154,99,Islande,352,IS,ISL
+5777,"Europe, Northern America, Australia and New Zealand",777,10,Australie,036,AU,AUS
+5777,"Europe, Northern America, Australia and New Zealand",777,104,Irlande,372,IE,IRL
+5777,"Europe, Northern America, Australia and New Zealand",777,106,Italie,380,IT,ITA
+5777,"Europe, Northern America, Australia and New Zealand",777,11,Autriche,040,AT,AUT
+5777,"Europe, Northern America, Australia and New Zealand",777,119,Lettonie,428,LV,LVA
+5777,"Europe, Northern America, Australia and New Zealand",777,125,Liechtenstein,438,LI,LIE
+5777,"Europe, Northern America, Australia and New Zealand",777,126,Lituanie,440,LT,LTU
+5777,"Europe, Northern America, Australia and New Zealand",777,134,Malte,470,MT,MLT
+5777,"Europe, Northern America, Australia and New Zealand",777,140,Monaco,492,MC,MCO
+5777,"Europe, Northern America, Australia and New Zealand",777,146,République de Moldova,498,MD,MDA
+5777,"Europe, Northern America, Australia and New Zealand",777,150,Pays-Bas (Royaume des),528,NL,NLD
+5777,"Europe, Northern America, Australia and New Zealand",777,154,Macédoine du Nord,807,MK,MKD
+5777,"Europe, Northern America, Australia and New Zealand",777,156,Nouvelle-Zélande,554,NZ,NZL
+5777,"Europe, Northern America, Australia and New Zealand",777,161,Île Norfolk,574,NF,NFK
+5777,"Europe, Northern America, Australia and New Zealand",777,162,Norvège,578,NO,NOR
+5777,"Europe, Northern America, Australia and New Zealand",777,167,Tchéquie,203,CZ,CZE
+5777,"Europe, Northern America, Australia and New Zealand",777,17,Bermudes,060,BM,BMU
+5777,"Europe, Northern America, Australia and New Zealand",777,173,Pologne,616,PL,POL
+5777,"Europe, Northern America, Australia and New Zealand",777,174,Portugal,620,PT,PRT
+5777,"Europe, Northern America, Australia and New Zealand",777,183,Roumanie,642,RO,ROU
+5777,"Europe, Northern America, Australia and New Zealand",777,185,Fédération de Russie,643,RU,RUS
+5777,"Europe, Northern America, Australia and New Zealand",777,190,Saint-Pierre-et-Miquelon,666,PM,SPM
+5777,"Europe, Northern America, Australia and New Zealand",777,192,Saint-Marin,674,SM,SMR
+5777,"Europe, Northern America, Australia and New Zealand",777,198,Slovénie,705,SI,SVN
+5777,"Europe, Northern America, Australia and New Zealand",777,199,Slovaquie,703,SK,SVK
+5777,"Europe, Northern America, Australia and New Zealand",777,203,Espagne,724,ES,ESP
+5777,"Europe, Northern America, Australia and New Zealand",777,210,Suède,752,SE,SWE
+5777,"Europe, Northern America, Australia and New Zealand",777,211,Suisse,756,CH,CHE
+5777,"Europe, Northern America, Australia and New Zealand",777,229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,826,GB,GBR
+5777,"Europe, Northern America, Australia and New Zealand",777,230,Ukraine,804,UA,UKR
+5777,"Europe, Northern America, Australia and New Zealand",777,231,États-Unis d'Amérique,840,US,USA
+5777,"Europe, Northern America, Australia and New Zealand",777,255,Belgique,056,BE,BEL
+5777,"Europe, Northern America, Australia and New Zealand",777,256,Luxembourg,442,LU,LUX
+5777,"Europe, Northern America, Australia and New Zealand",777,259,Îles Anglo-Normandes,830,F259,CHA
+5777,"Europe, Northern America, Australia and New Zealand",777,260,Îles Svalbard-et-Jan Mayen,744,SJ,SJM
+5777,"Europe, Northern America, Australia and New Zealand",777,264,Île de Man,833,IM,IMN
+5777,"Europe, Northern America, Australia and New Zealand",777,27,Bulgarie,100,BG,BGR
+5777,"Europe, Northern America, Australia and New Zealand",777,272,Serbie,688,RS,SRB
+5777,"Europe, Northern America, Australia and New Zealand",777,273,Monténégro,499,ME,MNE
+5777,"Europe, Northern America, Australia and New Zealand",777,274,Guernesey,831,F274,GGY
+5777,"Europe, Northern America, Australia and New Zealand",777,283,Jersey,832,F283,JEY
+5777,"Europe, Northern America, Australia and New Zealand",777,284,Îles d'Åland,248,F284,ALA
+5777,"Europe, Northern America, Australia and New Zealand",777,285,Sercq,680,F285,F285
+5777,"Europe, Northern America, Australia and New Zealand",777,3,Albanie,008,AL,ALB
+5777,"Europe, Northern America, Australia and New Zealand",777,33,Canada,124,CA,CAN
+5777,"Europe, Northern America, Australia and New Zealand",777,42,Île Christmas,162,CX,CXR
+5777,"Europe, Northern America, Australia and New Zealand",777,43,Îles des Cocos (Keeling),166,CC,CCK
+5777,"Europe, Northern America, Australia and New Zealand",777,54,Danemark,208,DK,DNK
+5777,"Europe, Northern America, Australia and New Zealand",777,57,Bélarus,112,BY,BLR
+5777,"Europe, Northern America, Australia and New Zealand",777,6,Andorre,020,AD,AND
+5777,"Europe, Northern America, Australia and New Zealand",777,63,Estonie,233,EE,EST
+5777,"Europe, Northern America, Australia and New Zealand",777,64,Îles Féroé,234,FO,FRO
+5777,"Europe, Northern America, Australia and New Zealand",777,67,Finlande,246,FI,FIN
+5777,"Europe, Northern America, Australia and New Zealand",777,68,France,250,FR,FRA
+5777,"Europe, Northern America, Australia and New Zealand",777,79,Allemagne,276,DE,DEU
+5777,"Europe, Northern America, Australia and New Zealand",777,80,Bosnie-Herzégovine,070,BA,BIH
+5777,"Europe, Northern America, Australia and New Zealand",777,82,Gibraltar,292,GI,GIB
+5777,"Europe, Northern America, Australia and New Zealand",777,84,Grèce,300,GR,GRC
+5777,"Europe, Northern America, Australia and New Zealand",777,85,Groenland,304,GL,GRL
+5777,"Europe, Northern America, Australia and New Zealand",777,92,Île Heard et Îles McDonald,334,HM,HMD
+5777,"Europe, Northern America, Australia and New Zealand",777,94,Saint-Siège,336,VA,VAT
+5777,"Europe, Northern America, Australia and New Zealand",777,97,Hongrie,348,HU,HUN
+5777,"Europe, Northern America, Australia and New Zealand",777,98,Croatie,191,HR,HRV
+5777,"Europe, Northern America, Australia and New Zealand",777,99,Islande,352,IS,ISL
+5817,Imp Nets Prod Alim Dvpm,902,107,Afghanistan,384,CI,CIV
+5817,Imp Nets Prod Alim Dvpm,902,109,Afghanistan,388,JM,JAM
+5817,Imp Nets Prod Alim Dvpm,902,112,Afghanistan,400,JO,JOR
+5817,Imp Nets Prod Alim Dvpm,902,114,Afghanistan,404,KE,KEN
+5817,Imp Nets Prod Alim Dvpm,902,115,Afghanistan,116,KH,KHM
+5817,Imp Nets Prod Alim Dvpm,902,120,Afghanistan,418,LA,LAO
+5817,Imp Nets Prod Alim Dvpm,902,122,Dominique,426,LS,LSO
+5817,Imp Nets Prod Alim Dvpm,902,123,Afghanistan,430,LR,LBR
+5817,Imp Nets Prod Alim Dvpm,902,129,Afghanistan,450,MG,MDG
+5817,Imp Nets Prod Alim Dvpm,902,130,Afghanistan,454,MW,MWI
+5817,Imp Nets Prod Alim Dvpm,902,132,Afghanistan,462,MV,MDV
+5817,Imp Nets Prod Alim Dvpm,902,133,Afghanistan,466,ML,MLI
+5817,Imp Nets Prod Alim Dvpm,902,136,Afghanistan,478,MR,MRT
+5817,Imp Nets Prod Alim Dvpm,902,137,Afghanistan,480,MU,MUS
+5817,Imp Nets Prod Alim Dvpm,902,14,Afghanistan,052,BB,BRB
+5817,Imp Nets Prod Alim Dvpm,902,141,Afghanistan,496,MN,MNG
+5817,Imp Nets Prod Alim Dvpm,902,143,Afghanistan,504,MA,MAR
+5817,Imp Nets Prod Alim Dvpm,902,144,République centrafricaine,508,MZ,MOZ
+5817,Imp Nets Prod Alim Dvpm,902,147,Afghanistan,516,,NAM
+5817,Imp Nets Prod Alim Dvpm,902,149,Afghanistan,524,NP,NPL
+5817,Imp Nets Prod Alim Dvpm,902,158,Afghanistan,562,NE,NER
+5817,Imp Nets Prod Alim Dvpm,902,16,Afghanistan,050,BD,BGD
+5817,Imp Nets Prod Alim Dvpm,902,165,Afghanistan,586,PK,PAK
+5817,Imp Nets Prod Alim Dvpm,902,170,Afghanistan,604,PE,PER
+5817,Imp Nets Prod Alim Dvpm,902,175,Afghanistan,624,GW,GNB
+5817,Imp Nets Prod Alim Dvpm,902,176,Afghanistan,626,TL,TLS
+5817,Imp Nets Prod Alim Dvpm,902,178,Afghanistan,232,ER,ERI
+5817,Imp Nets Prod Alim Dvpm,902,18,Afghanistan,064,BT,BTN
+5817,Imp Nets Prod Alim Dvpm,902,184,Afghanistan,646,RW,RWA
+5817,Imp Nets Prod Alim Dvpm,902,188,Sri Lanka,659,KN,KNA
+5817,Imp Nets Prod Alim Dvpm,902,189,Afghanistan,662,LC,LCA
+5817,Imp Nets Prod Alim Dvpm,902,191,Afghanistan,670,VC,VCT
+5817,Imp Nets Prod Alim Dvpm,902,193,Afghanistan,678,ST,STP
+5817,Imp Nets Prod Alim Dvpm,902,195,Afghanistan,686,SN,SEN
+5817,Imp Nets Prod Alim Dvpm,902,197,Afghanistan,694,SL,SLE
+5817,Imp Nets Prod Alim Dvpm,902,2,Afghanistan,004,AF,AFG
+5817,Imp Nets Prod Alim Dvpm,902,20,Afghanistan,072,BW,BWA
+5817,Imp Nets Prod Alim Dvpm,902,201,Afghanistan,706,SO,SOM
+5817,Imp Nets Prod Alim Dvpm,902,206,Afghanistan,736,F206,F206
+5817,Imp Nets Prod Alim Dvpm,902,209,Afghanistan,748,SZ,SWZ
+5817,Imp Nets Prod Alim Dvpm,902,215,Saint-Vincent-et-les Grenadines,834,TZ,TZA
+5817,Imp Nets Prod Alim Dvpm,902,217,Afghanistan,768,TG,TGO
+5817,Imp Nets Prod Alim Dvpm,902,219,Afghanistan,776,TO,TON
+5817,Imp Nets Prod Alim Dvpm,902,220,Afghanistan,780,TT,TTO
+5817,Imp Nets Prod Alim Dvpm,902,222,Afghanistan,788,TN,TUN
+5817,Imp Nets Prod Alim Dvpm,902,226,Afghanistan,800,UG,UGA
+5817,Imp Nets Prod Alim Dvpm,902,227,Afghanistan,798,TV,TUV
+5817,Imp Nets Prod Alim Dvpm,902,233,Afghanistan,854,BF,BFA
+5817,Imp Nets Prod Alim Dvpm,902,236,Afghanistan,862,VE,VEN
+5817,Imp Nets Prod Alim Dvpm,902,238,Afghanistan,231,ET,ETH
+5817,Imp Nets Prod Alim Dvpm,902,244,Afghanistan,882,WS,WSM
+5817,Imp Nets Prod Alim Dvpm,902,246,Libéria,886,F246,F246
+5817,Imp Nets Prod Alim Dvpm,902,247,Afghanistan,720,F247,F247
+5817,Imp Nets Prod Alim Dvpm,902,249,Afghanistan,887,YE,YEM
+5817,Imp Nets Prod Alim Dvpm,902,25,Afghanistan,090,SB,SLB
+5817,Imp Nets Prod Alim Dvpm,902,250,Afghanistan,180,CD,COD
+5817,Imp Nets Prod Alim Dvpm,902,251,Afghanistan,894,ZM,ZMB
+5817,Imp Nets Prod Alim Dvpm,902,276,Afghanistan,729,SD,SDN
+5817,Imp Nets Prod Alim Dvpm,902,277,Afghanistan,728,SS,SSD
+5817,Imp Nets Prod Alim Dvpm,902,28,Afghanistan,104,MM,MMR
+5817,Imp Nets Prod Alim Dvpm,902,29,Afghanistan,108,BI,BDI
+5817,Imp Nets Prod Alim Dvpm,902,37,Afghanistan,140,CF,CAF
+5817,Imp Nets Prod Alim Dvpm,902,38,El Salvador,144,LK,LKA
+5817,Imp Nets Prod Alim Dvpm,902,39,Afghanistan,148,TD,TCD
+5817,Imp Nets Prod Alim Dvpm,902,45,Afghanistan,174,KM,COM
+5817,Imp Nets Prod Alim Dvpm,902,49,Afghanistan,192,CU,CUB
+5817,Imp Nets Prod Alim Dvpm,902,53,Afghanistan,204,BJ,BEN
+5817,Imp Nets Prod Alim Dvpm,902,55,Afghanistan,212,DM,DMA
+5817,Imp Nets Prod Alim Dvpm,902,56,Afghanistan,214,DO,DOM
+5817,Imp Nets Prod Alim Dvpm,902,59,Afghanistan,818,EG,EGY
+5817,Imp Nets Prod Alim Dvpm,902,60,Afghanistan,222,SV,SLV
+5817,Imp Nets Prod Alim Dvpm,902,62,Afghanistan,230,F62,F62
+5817,Imp Nets Prod Alim Dvpm,902,7,Afghanistan,024,AO,AGO
+5817,Imp Nets Prod Alim Dvpm,902,72,Afghanistan,262,DJ,DJI
+5817,Imp Nets Prod Alim Dvpm,902,74,Afghanistan,266,GA,GAB
+5817,Imp Nets Prod Alim Dvpm,902,75,Afghanistan,270,GM,GMB
+5817,Imp Nets Prod Alim Dvpm,902,8,Afghanistan,028,AG,ATG
+5817,Imp Nets Prod Alim Dvpm,902,83,Afghanistan,296,KI,KIR
+5817,Imp Nets Prod Alim Dvpm,902,86,Afghanistan,308,GD,GRD
+5817,Imp Nets Prod Alim Dvpm,902,90,Afghanistan,324,GN,GIN
+5817,Imp Nets Prod Alim Dvpm,902,93,Afghanistan,332,HT,HTI
+5817,Imp Nets Prod Alim Dvpm,902,95,Afghanistan,340,HN,HND
+5502,Mélanésie,054,153,Nouvelle-Calédonie,540,NC,NCL
+5502,Mélanésie,054,155,Vanuatu,548,VU,VUT
+5502,Mélanésie,054,168,Papouasie-Nouvelle-Guinée,598,PG,PNG
+5502,Mélanésie,054,25,Îles Salomon,090,SB,SLB
+5502,Mélanésie,054,557,"Mélanésie, non spécifié",054.04,F557,F557
+5502,Mélanésie,054,66,Fidji,242,FJ,FJI
+5503,Micronésie,057,127,Îles Marshall,584,MH,MHL
+5503,Micronésie,057,145,Micronésie (États fédérés de),583,FM,FSM
+5503,Micronésie,057,148,Nauru,520,NR,NRU
+5503,Micronésie,057,163,Îles Mariannes du Nord,580,MP,MNP
+5503,Micronésie,057,164,Territoire des Îles du Pacifique,582,F164,F164
+5503,Micronésie,057,180,Palaos,585,PW,PLW
+5503,Micronésie,057,232,Îles mineures éloignées des États-Unis,581,UM,UMI
+5503,Micronésie,057,617,"Micronésie, non spécifié",057.01,F617,F617
+5503,Micronésie,057,83,Kiribati,296,KI,KIR
+5503,Micronésie,057,88,Guam,316,GU,GUM
+5000,Monde,001,1,Arménie,051,AM,ARM
+5000,Monde,001,10,Australie,036,AU,AUS
+5000,Monde,001,100,Inde,356,IN,IND
+5000,Monde,001,101,Indonésie,360,ID,IDN
+5000,Monde,001,102,Iran (République islamique d'),364,IR,IRN
+5000,Monde,001,103,Iraq,368,IQ,IRQ
+5000,Monde,001,104,Irlande,372,IE,IRL
+5000,Monde,001,105,Israël,376,IL,ISR
+5000,Monde,001,106,Italie,380,IT,ITA
+5000,Monde,001,107,Côte d'Ivoire,384,CI,CIV
+5000,Monde,001,108,Kazakhstan,398,KZ,KAZ
+5000,Monde,001,109,Jamaïque,388,JM,JAM
+5000,Monde,001,11,Autriche,040,AT,AUT
+5000,Monde,001,110,Japon,392,JP,JPN
+5000,Monde,001,111,Île Johnston,396,JT,JTN
+5000,Monde,001,112,Jordanie,400,JO,JOR
+5000,Monde,001,113,Kirghizistan,417,KG,KGZ
+5000,Monde,001,114,Kenya,404,KE,KEN
+5000,Monde,001,115,Cambodge,116,KH,KHM
+5000,Monde,001,116,République populaire démocratique de Corée,408,KP,PRK
+5000,Monde,001,117,République de Corée,410,KR,KOR
+5000,Monde,001,118,Koweït,414,KW,KWT
+5000,Monde,001,119,Lettonie,428,LV,LVA
+5000,Monde,001,12,Bahamas,044,BS,BHS
+5000,Monde,001,120,République démocratique populaire lao,418,LA,LAO
+5000,Monde,001,121,Liban,422,LB,LBN
+5000,Monde,001,122,Lesotho,426,LS,LSO
+5000,Monde,001,123,Libéria,430,LR,LBR
+5000,Monde,001,124,Libye,434,LY,LBY
+5000,Monde,001,125,Liechtenstein,438,LI,LIE
+5000,Monde,001,126,Lituanie,440,LT,LTU
+5000,Monde,001,127,Îles Marshall,584,MH,MHL
+5000,Monde,001,128,Chine - RAS de Macao,446,MO,MAC
+5000,Monde,001,129,Madagascar,450,MG,MDG
+5000,Monde,001,13,Bahreïn,048,BH,BHR
+5000,Monde,001,130,Malawi,454,MW,MWI
+5000,Monde,001,131,Malaisie,458,MY,MYS
+5000,Monde,001,132,Maldives,462,MV,MDV
+5000,Monde,001,133,Mali,466,ML,MLI
+5000,Monde,001,134,Malte,470,MT,MLT
+5000,Monde,001,135,Martinique,474,MQ,MTQ
+5000,Monde,001,136,Mauritanie,478,MR,MRT
+5000,Monde,001,137,Maurice,480,MU,MUS
+5000,Monde,001,138,Mexique,484,MX,MEX
+5000,Monde,001,139,Île Midway,488,MI,MID
+5000,Monde,001,14,Barbade,052,BB,BRB
+5000,Monde,001,140,Monaco,492,MC,MCO
+5000,Monde,001,141,Mongolie,496,MN,MNG
+5000,Monde,001,142,Montserrat,500,MS,MSR
+5000,Monde,001,143,Maroc,504,MA,MAR
+5000,Monde,001,144,Mozambique,508,MZ,MOZ
+5000,Monde,001,145,Micronésie (États fédérés de),583,FM,FSM
+5000,Monde,001,146,République de Moldova,498,MD,MDA
+5000,Monde,001,147,Namibie,516,,NAM
+5000,Monde,001,148,Nauru,520,NR,NRU
+5000,Monde,001,149,Népal,524,NP,NPL
+5000,Monde,001,15,Belgique-Luxembourg,058,F15,F15
+5000,Monde,001,150,Pays-Bas (Royaume des),528,NL,NLD
+5000,Monde,001,151,Antilles néerlandaises (ex),530,AN,ANT
+5000,Monde,001,153,Nouvelle-Calédonie,540,NC,NCL
+5000,Monde,001,154,Macédoine du Nord,807,MK,MKD
+5000,Monde,001,155,Vanuatu,548,VU,VUT
+5000,Monde,001,156,Nouvelle-Zélande,554,NZ,NZL
+5000,Monde,001,157,Nicaragua,558,NI,NIC
+5000,Monde,001,158,Niger,562,NE,NER
+5000,Monde,001,159,Nigéria,566,NG,NGA
+5000,Monde,001,16,Bangladesh,050,BD,BGD
+5000,Monde,001,160,Nioué,570,NU,NIU
+5000,Monde,001,161,Île Norfolk,574,NF,NFK
+5000,Monde,001,162,Norvège,578,NO,NOR
+5000,Monde,001,163,Îles Mariannes du Nord,580,MP,MNP
+5000,Monde,001,164,Territoire des Îles du Pacifique,582,F164,F164
+5000,Monde,001,165,Pakistan,586,PK,PAK
+5000,Monde,001,166,Panama,591,PA,PAN
+5000,Monde,001,167,Tchéquie,203,CZ,CZE
+5000,Monde,001,168,Papouasie-Nouvelle-Guinée,598,PG,PNG
+5000,Monde,001,169,Paraguay,600,PY,PRY
+5000,Monde,001,17,Bermudes,060,BM,BMU
+5000,Monde,001,170,Pérou,604,PE,PER
+5000,Monde,001,171,Philippines,608,PH,PHL
+5000,Monde,001,172,Pitcairn,612,PN,PCN
+5000,Monde,001,173,Pologne,616,PL,POL
+5000,Monde,001,174,Portugal,620,PT,PRT
+5000,Monde,001,175,Guinée-Bissau,624,GW,GNB
+5000,Monde,001,176,Timor-Leste,626,TL,TLS
+5000,Monde,001,177,Porto Rico,630,PR,PRI
+5000,Monde,001,178,Érythrée,232,ER,ERI
+5000,Monde,001,179,Qatar,634,QA,QAT
+5000,Monde,001,18,Bhoutan,064,BT,BTN
+5000,Monde,001,180,Palaos,585,PW,PLW
+5000,Monde,001,181,Zimbabwe,716,ZW,ZWE
+5000,Monde,001,182,Réunion,638,RE,REU
+5000,Monde,001,183,Roumanie,642,RO,ROU
+5000,Monde,001,184,Rwanda,646,RW,RWA
+5000,Monde,001,185,Fédération de Russie,643,RU,RUS
+5000,Monde,001,186,Serbie-et-Monténégro,891,CS,SCG
+5000,Monde,001,187,"Ascension, Sainte-Hélène et Tristan da Cunha",654,SH,SHN
+5000,Monde,001,188,Saint-Kitts-et-Nevis,659,KN,KNA
+5000,Monde,001,189,Sainte-Lucie,662,LC,LCA
+5000,Monde,001,19,Bolivie (État plurinational de),068,BO,BOL
+5000,Monde,001,190,Saint-Pierre-et-Miquelon,666,PM,SPM
+5000,Monde,001,191,Saint-Vincent-et-les Grenadines,670,VC,VCT
+5000,Monde,001,192,Saint-Marin,674,SM,SMR
+5000,Monde,001,193,Sao Tomé-et-Principe,678,ST,STP
+5000,Monde,001,194,Arabie saoudite,682,SA,SAU
+5000,Monde,001,195,Sénégal,686,SN,SEN
+5000,Monde,001,196,Seychelles,690,SC,SYC
+5000,Monde,001,197,Sierra Leone,694,SL,SLE
+5000,Monde,001,198,Slovénie,705,SI,SVN
+5000,Monde,001,199,Slovaquie,703,SK,SVK
+5000,Monde,001,2,Afghanistan,004,AF,AFG
+5000,Monde,001,20,Botswana,072,BW,BWA
+5000,Monde,001,200,Singapour,702,SG,SGP
+5000,Monde,001,201,Somalie,706,SO,SOM
+5000,Monde,001,202,Afrique du Sud,710,ZA,ZAF
+5000,Monde,001,203,Espagne,724,ES,ESP
+5000,Monde,001,205,Sahara occidental,732,EH,ESH
+5000,Monde,001,206,Soudan (ex),736,F206,F206
+5000,Monde,001,207,Suriname,740,SR,SUR
+5000,Monde,001,208,Tadjikistan,762,TJ,TJK
+5000,Monde,001,209,Eswatini,748,SZ,SWZ
+5000,Monde,001,21,Brésil,076,BR,BRA
+5000,Monde,001,210,Suède,752,SE,SWE
+5000,Monde,001,211,Suisse,756,CH,CHE
+5000,Monde,001,212,République arabe syrienne,760,SY,SYR
+5000,Monde,001,213,Turkménistan,795,TM,TKM
+5000,Monde,001,214,"Chine, Taiwan Province de",158,TW,TWN
+5000,Monde,001,215,République-Unie de Tanzanie,834,TZ,TZA
+5000,Monde,001,216,Thaïlande,764,TH,THA
+5000,Monde,001,217,Togo,768,TG,TGO
+5000,Monde,001,218,Tokélaou,772,TK,TKL
+5000,Monde,001,219,Tonga,776,TO,TON
+5000,Monde,001,22,Aruba,533,AW,ABW
+5000,Monde,001,220,Trinité-et-Tobago,780,TT,TTO
+5000,Monde,001,221,Oman,512,OM,OMN
+5000,Monde,001,222,Tunisie,788,TN,TUN
+5000,Monde,001,223,Türkiye,792,TR,TUR
+5000,Monde,001,224,Îles Turques-et-Caïques,796,TC,TCA
+5000,Monde,001,225,Émirats arabes unis,784,AE,ARE
+5000,Monde,001,226,Ouganda,800,UG,UGA
+5000,Monde,001,227,Tuvalu,798,TV,TUV
+5000,Monde,001,228,URSS,810,F228,F228
+5000,Monde,001,229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,826,GB,GBR
+5000,Monde,001,23,Belize,084,BZ,BLZ
+5000,Monde,001,230,Ukraine,804,UA,UKR
+5000,Monde,001,231,États-Unis d'Amérique,840,US,USA
+5000,Monde,001,232,Îles mineures éloignées des États-Unis,581,UM,UMI
+5000,Monde,001,233,Burkina Faso,854,BF,BFA
+5000,Monde,001,234,Uruguay,858,UY,URY
+5000,Monde,001,235,Ouzbékistan,860,UZ,UZB
+5000,Monde,001,236,Venezuela (République bolivarienne du),862,VE,VEN
+5000,Monde,001,237,Viet Nam,704,VN,VNM
+5000,Monde,001,238,Éthiopie,231,ET,ETH
+5000,Monde,001,239,Îles Vierges britanniques,092,VG,VGB
+5000,Monde,001,24,Archipel des Chagos,086,IO,IOT
+5000,Monde,001,240,Îles Vierges américaines,850,VI,VIR
+5000,Monde,001,242,Îles Wake,872,WK,WAK
+5000,Monde,001,243,Îles Wallis-et-Futuna,876,WF,WLF
+5000,Monde,001,244,Samoa,882,WS,WSM
+5000,Monde,001,246,Yémen Rép A,886,F246,F246
+5000,Monde,001,247,Yemen Dém,720,F247,F247
+5000,Monde,001,248,RFS de Yougoslavie,890,F248,F248
+5000,Monde,001,249,Yémen,887,YE,YEM
+5000,Monde,001,25,Îles Salomon,090,SB,SLB
+5000,Monde,001,250,République démocratique du Congo,180,CD,COD
+5000,Monde,001,251,Zambie,894,ZM,ZMB
+5000,Monde,001,252,Pays Indéfini,896,F252,F252
+5000,Monde,001,254,Autres (ajustement),899.20,F254,F254
+5000,Monde,001,255,Belgique,056,BE,BEL
+5000,Monde,001,256,Luxembourg,442,LU,LUX
+5000,Monde,001,258,Anguilla,660,AI,AIA
+5000,Monde,001,259,Îles Anglo-Normandes,830,F259,CHA
+5000,Monde,001,26,Brunéi Darussalam,096,BN,BRN
+5000,Monde,001,260,Îles Svalbard-et-Jan Mayen,744,SJ,SJM
+5000,Monde,001,264,Île de Man,833,IM,IMN
+5000,Monde,001,27,Bulgarie,100,BG,BGR
+5000,Monde,001,270,Mayotte,175,YT,MYT
+5000,Monde,001,271,Géorgie du Sud-et-Îles Sandwich du Sud,239,GS,SGS
+5000,Monde,001,272,Serbie,688,RS,SRB
+5000,Monde,001,273,Monténégro,499,ME,MNE
+5000,Monde,001,274,Guernesey,831,F274,GGY
+5000,Monde,001,275,Kosovo,412,F275,F275
+5000,Monde,001,276,Soudan,729,SD,SDN
+5000,Monde,001,277,Soudan du Sud,728,SS,SSD
+5000,Monde,001,278,"Bonaire, Saint-Eustache et Saba",535,F278,BES
+5000,Monde,001,279,Curaçao,531,F279,CUW
+5000,Monde,001,28,Myanmar,104,MM,MMR
+5000,Monde,001,280,Sint Maarten (partie néerlandaise),534,F280,SXM
+5000,Monde,001,281,Saint-Martin (partie française),663,F281,MAF
+5000,Monde,001,282,Saint-Barthélemy,652,F282,BLM
+5000,Monde,001,283,Jersey,832,F283,JEY
+5000,Monde,001,284,Îles d'Åland,248,F284,ALA
+5000,Monde,001,285,Sercq,680,F285,F285
+5000,Monde,001,29,Burundi,108,BI,BDI
+5000,Monde,001,299,Palestine,275,F299,PSE
+5000,Monde,001,3,Albanie,008,AL,ALB
+5000,Monde,001,30,Antarctique,010,AQ,ATA
+5000,Monde,001,31,Île Bouvet,074,BV,BVT
+5000,Monde,001,32,Cameroun,120,CM,CMR
+5000,Monde,001,33,Canada,124,CA,CAN
+5000,Monde,001,35,Cabo Verde,132,CV,CPV
+5000,Monde,001,351,Chine,159,F351,F351
+5000,Monde,001,357,Chine (exc. Hong-Kong et Macao),157,F357,F357
+5000,Monde,001,36,Îles Caïmanes,136,KY,CYM
+5000,Monde,001,37,République centrafricaine,140,CF,CAF
+5000,Monde,001,38,Sri Lanka,144,LK,LKA
+5000,Monde,001,39,Tchad,148,TD,TCD
+5000,Monde,001,4,Algérie,012,DZ,DZA
+5000,Monde,001,40,Chili,152,CL,CHL
+5000,Monde,001,41,"Chine, continentale",156,CN,CHN
+5000,Monde,001,42,Île Christmas,162,CX,CXR
+5000,Monde,001,43,Îles des Cocos (Keeling),166,CC,CCK
+5000,Monde,001,44,Colombie,170,CO,COL
+5000,Monde,001,45,Comores,174,KM,COM
+5000,Monde,001,46,Congo,178,CG,COG
+5000,Monde,001,47,Îles Cook,184,CK,COK
+5000,Monde,001,48,Costa Rica,188,CR,CRI
+5000,Monde,001,49,Cuba,192,CU,CUB
+5000,Monde,001,5,Samoa américaines,016,AS,ASM
+5000,Monde,001,50,Chypre,196,CY,CYP
+5000,Monde,001,51,Tchécoslovaq,200,F51,F51
+5000,Monde,001,52,Azerbaïdjan,031,AZ,AZE
+5000,Monde,001,528,"Afrique du Sud, non spécifié",713,F528,F528
+5000,Monde,001,53,Bénin,204,BJ,BEN
+5000,Monde,001,530,"Amérique Centrale , non spécifié",141,F530,F530
+5000,Monde,001,531,"Caraïbes, non spécifié",130,F531,F531
+5000,Monde,001,54,Danemark,208,DK,DNK
+5000,Monde,001,544,"Pays en voie de développement, non spécifié",529,F544,F544
+5000,Monde,001,55,Dominique,212,DM,DMA
+5000,Monde,001,557,"Mélanésie, non spécifié",054.04,F557,F557
+5000,Monde,001,56,République dominicaine,214,DO,DOM
+5000,Monde,001,57,Bélarus,112,BY,BLR
+5000,Monde,001,58,Équateur,218,EC,ECU
+5000,Monde,001,59,Égypte,818,EG,EGY
+5000,Monde,001,6,Andorre,020,AD,AND
+5000,Monde,001,60,El Salvador,222,SV,SLV
+5000,Monde,001,601,"Afrique, non spécifié",577,F601,F601
+5000,Monde,001,602,"Asie, non spécifié",490,F602,F602
+5000,Monde,001,605,"Afrique de l'Est, non spécifié",219,F605,F605
+5000,Monde,001,606,"Asie de l'Est, non spécifié",220,F606,F606
+5000,Monde,001,607,"Asie du Sud, non spécifié",714,F607,F607
+5000,Monde,001,608,"Asie de l'Ouest, non spécifié",879,F608,F608
+5000,Monde,001,609,"Caraïbes, non spécifié(population)",029.01,F609,F609
+5000,Monde,001,61,Guinée équatoriale,226,GQ,GNQ
+5000,Monde,001,610,"Asie Centrale, non spécifié",291,F610,F610
+5000,Monde,001,611,"Europe, non spécifié",568,F611,F611
+5000,Monde,001,612,"Afrique Centrale, non spécifié",017.04,F612,F612
+5000,Monde,001,613,"Océanie, non spécifié",527,F613,F613
+5000,Monde,001,614,"Amérique du Sud, non spécifié",283,F614,F614
+5000,Monde,001,615,"Afrique du Nord, non spécifié",290,F615,F615
+5000,Monde,001,616,"Afrique de l'Ouest, non spécifié",875,F616,F616
+5000,Monde,001,617,"Micronésie, non spécifié",057.01,F617,F617
+5000,Monde,001,618,"Polynésie, non spécifié",286,F618,F618
+5000,Monde,001,619,"Europe du Nord, non spécifié(population)",154.01,F619,F619
+5000,Monde,001,62,Éthiopie RDP,230,F62,F62
+5000,Monde,001,620,"Europe du Sud, non spécifié",715,F620,F620
+5000,Monde,001,621,"Europe de l'Ouest, non spécifié(population)",155.01,F621,F621
+5000,Monde,001,622,"Amérique Nordique, non spécifié(population)",021.01,F622,F622
+5000,Monde,001,63,Estonie,233,EE,EST
+5000,Monde,001,64,Îles Féroé,234,FO,FRO
+5000,Monde,001,65,Îles Falkland (Malvinas),238,FK,FLK
+5000,Monde,001,66,Fidji,242,FJ,FJI
+5000,Monde,001,67,Finlande,246,FI,FIN
+5000,Monde,001,68,France,250,FR,FRA
+5000,Monde,001,680,"Amériques, non spécifié",293,F680,F680
+5000,Monde,001,69,Guyane française,254,GF,GUF
+5000,Monde,001,7,Angola,024,AO,AGO
+5000,Monde,001,70,Polynésie française,258,PF,PYF
+5000,Monde,001,71,Terres australes françaises,260,TF,ATF
+5000,Monde,001,72,Djibouti,262,DJ,DJI
+5000,Monde,001,73,Géorgie,268,GE,GEO
+5000,Monde,001,74,Gabon,266,GA,GAB
+5000,Monde,001,75,Gambie,270,GM,GMB
+5000,Monde,001,76,Palestine,274,F76,76
+5000,Monde,001,77,Allemagne Nl,278,F77,F77
+5000,Monde,001,78,Allemagne Fr,280,F78,F78
+5000,Monde,001,79,Allemagne,276,DE,DEU
+5000,Monde,001,8,Antigua-et-Barbuda,028,AG,ATG
+5000,Monde,001,80,Bosnie-Herzégovine,070,BA,BIH
+5000,Monde,001,81,Ghana,288,GH,GHA
+5000,Monde,001,82,Gibraltar,292,GI,GIB
+5000,Monde,001,83,Kiribati,296,KI,KIR
+5000,Monde,001,84,Grèce,300,GR,GRC
+5000,Monde,001,85,Groenland,304,GL,GRL
+5000,Monde,001,86,Grenade,308,GD,GRD
+5000,Monde,001,87,Guadeloupe,312,GP,GLP
+5000,Monde,001,88,Guam,316,GU,GUM
+5000,Monde,001,89,Guatemala,320,GT,GTM
+5000,Monde,001,9,Argentine,032,AR,ARG
+5000,Monde,001,90,Guinée,324,GN,GIN
+5000,Monde,001,91,Guyana,328,GY,GUY
+5000,Monde,001,92,Île Heard et Îles McDonald,334,HM,HMD
+5000,Monde,001,93,Haïti,332,HT,HTI
+5000,Monde,001,94,Saint-Siège,336,VA,VAT
+5000,Monde,001,95,Honduras,340,HN,HND
+5000,Monde,001,96,Chine - RAS de Hong-Kong,344,HK,HKG
+5000,Monde,001,97,Hongrie,348,HU,HUN
+5000,Monde,001,98,Croatie,191,HR,HRV
+5000,Monde,001,99,Islande,352,IS,ISL
+5500,Océanie,009,10,Australie,036,AU,AUS
+5500,Océanie,009,111,Île Johnston,396,JT,JTN
+5500,Océanie,009,127,Îles Marshall,584,MH,MHL
+5500,Océanie,009,139,Île Midway,488,MI,MID
+5500,Océanie,009,145,Micronésie (États fédérés de),583,FM,FSM
+5500,Océanie,009,148,Nauru,520,NR,NRU
+5500,Océanie,009,153,Nouvelle-Calédonie,540,NC,NCL
+5500,Océanie,009,155,Vanuatu,548,VU,VUT
+5500,Océanie,009,156,Nouvelle-Zélande,554,NZ,NZL
+5500,Océanie,009,160,Nioué,570,NU,NIU
+5500,Océanie,009,161,Île Norfolk,574,NF,NFK
+5500,Océanie,009,163,Îles Mariannes du Nord,580,MP,MNP
+5500,Océanie,009,164,Territoire des Îles du Pacifique,582,F164,F164
+5500,Océanie,009,168,Papouasie-Nouvelle-Guinée,598,PG,PNG
+5500,Océanie,009,172,Pitcairn,612,PN,PCN
+5500,Océanie,009,180,Palaos,585,PW,PLW
+5500,Océanie,009,218,Tokélaou,772,TK,TKL
+5500,Océanie,009,219,Tonga,776,TO,TON
+5500,Océanie,009,227,Tuvalu,798,TV,TUV
+5500,Océanie,009,232,Îles mineures éloignées des États-Unis,581,UM,UMI
+5500,Océanie,009,242,Îles Wake,872,WK,WAK
+5500,Océanie,009,243,Îles Wallis-et-Futuna,876,WF,WLF
+5500,Océanie,009,244,Samoa,882,WS,WSM
+5500,Océanie,009,25,Îles Salomon,090,SB,SLB
+5500,Océanie,009,42,Île Christmas,162,CX,CXR
+5500,Océanie,009,43,Îles des Cocos (Keeling),166,CC,CCK
+5500,Océanie,009,47,Îles Cook,184,CK,COK
+5500,Océanie,009,5,Samoa américaines,016,AS,ASM
+5500,Océanie,009,557,"Mélanésie, non spécifié",054.04,F557,F557
+5500,Océanie,009,613,"Océanie, non spécifié",527,F613,F613
+5500,Océanie,009,617,"Micronésie, non spécifié",057.01,F617,F617
+5500,Océanie,009,618,"Polynésie, non spécifié",286,F618,F618
+5500,Océanie,009,66,Fidji,242,FJ,FJI
+5500,Océanie,009,70,Polynésie française,258,PF,PYF
+5500,Océanie,009,83,Kiribati,296,KI,KIR
+5500,Océanie,009,88,Guam,316,GU,GUM
+5500,Océanie,009,92,Île Heard et Îles McDonald,334,HM,HMD
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,127,Îles Marshall,584,MH,MHL
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,145,Micronésie (États fédérés de),583,FM,FSM
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,148,Nauru,520,NR,NRU
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,153,Nouvelle-Calédonie,540,NC,NCL
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,155,Vanuatu,548,VU,VUT
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,160,Nioué,570,NU,NIU
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,163,Îles Mariannes du Nord,580,MP,MNP
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,168,Papouasie-Nouvelle-Guinée,598,PG,PNG
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,172,Pitcairn,612,PN,PCN
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,180,Palaos,585,PW,PLW
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,218,Tokélaou,772,TK,TKL
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,219,Tonga,776,TO,TON
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,227,Tuvalu,798,TV,TUV
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,232,Îles mineures éloignées des États-Unis,581,UM,UMI
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,243,Îles Wallis-et-Futuna,876,WF,WLF
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,244,Samoa,882,WS,WSM
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,25,Îles Salomon,090,SB,SLB
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,47,Îles Cook,184,CK,COK
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,5,Samoa américaines,016,AS,ASM
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,66,Fidji,242,FJ,FJI
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,70,Polynésie française,258,PF,PYF
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,83,Kiribati,296,KI,KIR
+5807,"Océanie, hors Australie et Nouvelle-Zélande",543,88,Guam,316,GU,GUM
+5873,OECD,198,10,Australie,036,AU,AUS
+5873,OECD,198,104,Irlande,372,IE,IRL
+5873,OECD,198,105,Israël,376,IL,ISR
+5873,OECD,198,106,Italie,380,IT,ITA
+5873,OECD,198,11,Autriche,040,AT,AUT
+5873,OECD,198,110,Japon,392,JP,JPN
+5873,OECD,198,117,République de Corée,410,KR,KOR
+5873,OECD,198,119,Lettonie,428,LV,LVA
+5873,OECD,198,138,Mexique,484,MX,MEX
+5873,OECD,198,15,Belgique-Luxembourg,058,F15,F15
+5873,OECD,198,150,Pays-Bas (Royaume des),528,NL,NLD
+5873,OECD,198,156,Nouvelle-Zélande,554,NZ,NZL
+5873,OECD,198,162,Norvège,578,NO,NOR
+5873,OECD,198,167,Tchéquie,203,CZ,CZE
+5873,OECD,198,173,Pologne,616,PL,POL
+5873,OECD,198,174,Portugal,620,PT,PRT
+5873,OECD,198,198,Slovénie,705,SI,SVN
+5873,OECD,198,199,Slovaquie,703,SK,SVK
+5873,OECD,198,203,Espagne,724,ES,ESP
+5873,OECD,198,210,Suède,752,SE,SWE
+5873,OECD,198,211,Suisse,756,CH,CHE
+5873,OECD,198,223,Türkiye,792,TR,TUR
+5873,OECD,198,229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,826,GB,GBR
+5873,OECD,198,231,États-Unis d'Amérique,840,US,USA
+5873,OECD,198,255,Belgique,056,BE,BEL
+5873,OECD,198,256,Luxembourg,442,LU,LUX
+5873,OECD,198,33,Canada,124,CA,CAN
+5873,OECD,198,40,Chili,152,CL,CHL
+5873,OECD,198,54,Danemark,208,DK,DNK
+5873,OECD,198,63,Estonie,233,EE,EST
+5873,OECD,198,67,Finlande,246,FI,FIN
+5873,OECD,198,68,France,250,FR,FRA
+5873,OECD,198,79,Allemagne,276,DE,DEU
+5873,OECD,198,84,Grèce,300,GR,GRC
+5873,OECD,198,97,Hongrie,348,HU,HUN
+5873,OECD,198,99,Islande,352,IS,ISL
+5815,Pays à faible revenu et à déficit vivrier,901,113,Afghanistan,417,KG,KGZ
+5815,Pays à faible revenu et à déficit vivrier,901,114,Afghanistan,404,KE,KEN
+5815,Pays à faible revenu et à déficit vivrier,901,116,Afghanistan,408,KP,PRK
+5815,Pays à faible revenu et à déficit vivrier,901,122,Afghanistan,426,LS,LSO
+5815,Pays à faible revenu et à déficit vivrier,901,123,Afghanistan,430,LR,LBR
+5815,Pays à faible revenu et à déficit vivrier,901,129,Afghanistan,450,MG,MDG
+5815,Pays à faible revenu et à déficit vivrier,901,130,Afghanistan,454,MW,MWI
+5815,Pays à faible revenu et à déficit vivrier,901,133,Afghanistan,466,ML,MLI
+5815,Pays à faible revenu et à déficit vivrier,901,136,Afghanistan,478,MR,MRT
+5815,Pays à faible revenu et à déficit vivrier,901,144,Afghanistan,508,MZ,MOZ
+5815,Pays à faible revenu et à déficit vivrier,901,149,Afghanistan,524,NP,NPL
+5815,Pays à faible revenu et à déficit vivrier,901,157,Afghanistan,558,NI,NIC
+5815,Pays à faible revenu et à déficit vivrier,901,158,Afghanistan,562,NE,NER
+5815,Pays à faible revenu et à déficit vivrier,901,175,Afghanistan,624,GW,GNB
+5815,Pays à faible revenu et à déficit vivrier,901,178,Afghanistan,232,ER,ERI
+5815,Pays à faible revenu et à déficit vivrier,901,181,Afghanistan,716,ZW,ZWE
+5815,Pays à faible revenu et à déficit vivrier,901,184,Afghanistan,646,RW,RWA
+5815,Pays à faible revenu et à déficit vivrier,901,193,Afghanistan,678,ST,STP
+5815,Pays à faible revenu et à déficit vivrier,901,195,Afghanistan,686,SN,SEN
+5815,Pays à faible revenu et à déficit vivrier,901,197,Afghanistan,694,SL,SLE
+5815,Pays à faible revenu et à déficit vivrier,901,2,Afghanistan,004,AF,AFG
+5815,Pays à faible revenu et à déficit vivrier,901,201,Afghanistan,706,SO,SOM
+5815,Pays à faible revenu et à déficit vivrier,901,206,Afghanistan,736,F206,F206
+5815,Pays à faible revenu et à déficit vivrier,901,208,Afghanistan,762,TJ,TJK
+5815,Pays à faible revenu et à déficit vivrier,901,212,République centrafricaine,760,SY,SYR
+5815,Pays à faible revenu et à déficit vivrier,901,215,Afghanistan,834,TZ,TZA
+5815,Pays à faible revenu et à déficit vivrier,901,217,Afghanistan,768,TG,TGO
+5815,Pays à faible revenu et à déficit vivrier,901,226,Afghanistan,800,UG,UGA
+5815,Pays à faible revenu et à déficit vivrier,901,233,Afghanistan,854,BF,BFA
+5815,Pays à faible revenu et à déficit vivrier,901,235,Afghanistan,860,UZ,UZB
+5815,Pays à faible revenu et à déficit vivrier,901,238,Afghanistan,231,ET,ETH
+5815,Pays à faible revenu et à déficit vivrier,901,246,Afghanistan,886,F246,F246
+5815,Pays à faible revenu et à déficit vivrier,901,247,Afghanistan,720,F247,F247
+5815,Pays à faible revenu et à déficit vivrier,901,249,Afghanistan,887,YE,YEM
+5815,Pays à faible revenu et à déficit vivrier,901,250,Afghanistan,180,CD,COD
+5815,Pays à faible revenu et à déficit vivrier,901,276,Afghanistan,729,SD,SDN
+5815,Pays à faible revenu et à déficit vivrier,901,277,Afghanistan,728,SS,SSD
+5815,Pays à faible revenu et à déficit vivrier,901,29,Afghanistan,108,BI,BDI
+5815,Pays à faible revenu et à déficit vivrier,901,32,Afghanistan,120,CM,CMR
+5815,Pays à faible revenu et à déficit vivrier,901,37,Afghanistan,140,CF,CAF
+5815,Pays à faible revenu et à déficit vivrier,901,39,Afghanistan,148,TD,TCD
+5815,Pays à faible revenu et à déficit vivrier,901,45,Afghanistan,174,KM,COM
+5815,Pays à faible revenu et à déficit vivrier,901,46,Afghanistan,178,CG,COG
+5815,Pays à faible revenu et à déficit vivrier,901,53,Afghanistan,204,BJ,BEN
+5815,Pays à faible revenu et à déficit vivrier,901,62,Afghanistan,230,F62,F62
+5815,Pays à faible revenu et à déficit vivrier,901,75,Afghanistan,270,GM,GMB
+5815,Pays à faible revenu et à déficit vivrier,901,90,Afghanistan,324,GN,GIN
+5815,Pays à faible revenu et à déficit vivrier,901,93,Afghanistan,332,HT,HTI
+5848,Pays Annexe I,907,10,Australie,036,AU,AUS
+5848,Pays Annexe I,907,104,Irlande,372,IE,IRL
+5848,Pays Annexe I,907,106,Italie,380,IT,ITA
+5848,Pays Annexe I,907,11,Autriche,040,AT,AUT
+5848,Pays Annexe I,907,110,Japon,392,JP,JPN
+5848,Pays Annexe I,907,119,Lettonie,428,LV,LVA
+5848,Pays Annexe I,907,125,Liechtenstein,438,LI,LIE
+5848,Pays Annexe I,907,126,Lituanie,440,LT,LTU
+5848,Pays Annexe I,907,134,Malte,470,MT,MLT
+5848,Pays Annexe I,907,135,Martinique,474,MQ,MTQ
+5848,Pays Annexe I,907,140,Monaco,492,MC,MCO
+5848,Pays Annexe I,907,142,Montserrat,500,MS,MSR
+5848,Pays Annexe I,907,15,Belgique-Luxembourg,058,F15,F15
+5848,Pays Annexe I,907,150,Pays-Bas (Royaume des),528,NL,NLD
+5848,Pays Annexe I,907,151,Antilles néerlandaises (ex),530,AN,ANT
+5848,Pays Annexe I,907,153,Nouvelle-Calédonie,540,NC,NCL
+5848,Pays Annexe I,907,156,Nouvelle-Zélande,554,NZ,NZL
+5848,Pays Annexe I,907,161,Île Norfolk,574,NF,NFK
+5848,Pays Annexe I,907,162,Norvège,578,NO,NOR
+5848,Pays Annexe I,907,163,Îles Mariannes du Nord,580,MP,MNP
+5848,Pays Annexe I,907,167,Tchéquie,203,CZ,CZE
+5848,Pays Annexe I,907,17,Bermudes,060,BM,BMU
+5848,Pays Annexe I,907,172,Pitcairn,612,PN,PCN
+5848,Pays Annexe I,907,173,Pologne,616,PL,POL
+5848,Pays Annexe I,907,174,Portugal,620,PT,PRT
+5848,Pays Annexe I,907,177,Porto Rico,630,PR,PRI
+5848,Pays Annexe I,907,182,Réunion,638,RE,REU
+5848,Pays Annexe I,907,183,Roumanie,642,RO,ROU
+5848,Pays Annexe I,907,185,Fédération de Russie,643,RU,RUS
+5848,Pays Annexe I,907,187,"Ascension, Sainte-Hélène et Tristan da Cunha",654,SH,SHN
+5848,Pays Annexe I,907,190,Saint-Pierre-et-Miquelon,666,PM,SPM
+5848,Pays Annexe I,907,198,Slovénie,705,SI,SVN
+5848,Pays Annexe I,907,199,Slovaquie,703,SK,SVK
+5848,Pays Annexe I,907,203,Espagne,724,ES,ESP
+5848,Pays Annexe I,907,210,Suède,752,SE,SWE
+5848,Pays Annexe I,907,211,Suisse,756,CH,CHE
+5848,Pays Annexe I,907,218,Tokélaou,772,TK,TKL
+5848,Pays Annexe I,907,22,Aruba,533,AW,ABW
+5848,Pays Annexe I,907,223,Türkiye,792,TR,TUR
+5848,Pays Annexe I,907,224,Îles Turques-et-Caïques,796,TC,TCA
+5848,Pays Annexe I,907,228,URSS,810,F228,F228
+5848,Pays Annexe I,907,229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,826,GB,GBR
+5848,Pays Annexe I,907,230,Ukraine,804,UA,UKR
+5848,Pays Annexe I,907,231,États-Unis d'Amérique,840,US,USA
+5848,Pays Annexe I,907,239,Îles Vierges britanniques,092,VG,VGB
+5848,Pays Annexe I,907,240,Îles Vierges américaines,850,VI,VIR
+5848,Pays Annexe I,907,243,Îles Wallis-et-Futuna,876,WF,WLF
+5848,Pays Annexe I,907,255,Belgique,056,BE,BEL
+5848,Pays Annexe I,907,256,Luxembourg,442,LU,LUX
+5848,Pays Annexe I,907,258,Anguilla,660,AI,AIA
+5848,Pays Annexe I,907,259,Îles Anglo-Normandes,830,F259,CHA
+5848,Pays Annexe I,907,260,Îles Svalbard-et-Jan Mayen,744,SJ,SJM
+5848,Pays Annexe I,907,264,Île de Man,833,IM,IMN
+5848,Pays Annexe I,907,27,Bulgarie,100,BG,BGR
+5848,Pays Annexe I,907,270,Mayotte,175,YT,MYT
+5848,Pays Annexe I,907,33,Canada,124,CA,CAN
+5848,Pays Annexe I,907,36,Îles Caïmanes,136,KY,CYM
+5848,Pays Annexe I,907,5,Samoa américaines,016,AS,ASM
+5848,Pays Annexe I,907,50,Chypre,196,CY,CYP
+5848,Pays Annexe I,907,51,Tchécoslovaq,200,F51,F51
+5848,Pays Annexe I,907,54,Danemark,208,DK,DNK
+5848,Pays Annexe I,907,57,Bélarus,112,BY,BLR
+5848,Pays Annexe I,907,63,Estonie,233,EE,EST
+5848,Pays Annexe I,907,64,Îles Féroé,234,FO,FRO
+5848,Pays Annexe I,907,65,Îles Falkland (Malvinas),238,FK,FLK
+5848,Pays Annexe I,907,67,Finlande,246,FI,FIN
+5848,Pays Annexe I,907,68,France,250,FR,FRA
+5848,Pays Annexe I,907,69,Guyane française,254,GF,GUF
+5848,Pays Annexe I,907,70,Polynésie française,258,PF,PYF
+5848,Pays Annexe I,907,79,Allemagne,276,DE,DEU
+5848,Pays Annexe I,907,82,Gibraltar,292,GI,GIB
+5848,Pays Annexe I,907,84,Grèce,300,GR,GRC
+5848,Pays Annexe I,907,85,Groenland,304,GL,GRL
+5848,Pays Annexe I,907,87,Guadeloupe,312,GP,GLP
+5848,Pays Annexe I,907,88,Guam,316,GU,GUM
+5848,Pays Annexe I,907,97,Hongrie,348,HU,HUN
+5848,Pays Annexe I,907,98,Croatie,191,HR,HRV
+5848,Pays Annexe I,907,99,Islande,352,IS,ISL
+5801,Pays les moins développés,199,115,Afghanistan,116,KH,KHM
+5801,Pays les moins développés,199,120,Afghanistan,418,LA,LAO
+5801,Pays les moins développés,199,122,Afghanistan,426,LS,LSO
+5801,Pays les moins développés,199,123,Afghanistan,430,LR,LBR
+5801,Pays les moins développés,199,129,Afghanistan,450,MG,MDG
+5801,Pays les moins développés,199,130,Afghanistan,454,MW,MWI
+5801,Pays les moins développés,199,133,Afghanistan,466,ML,MLI
+5801,Pays les moins développés,199,136,Afghanistan,478,MR,MRT
+5801,Pays les moins développés,199,144,Afghanistan,508,MZ,MOZ
+5801,Pays les moins développés,199,149,Afghanistan,524,NP,NPL
+5801,Pays les moins développés,199,158,Afghanistan,562,NE,NER
+5801,Pays les moins développés,199,16,Afghanistan,050,BD,BGD
+5801,Pays les moins développés,199,175,Afghanistan,624,GW,GNB
+5801,Pays les moins développés,199,176,Afghanistan,626,TL,TLS
+5801,Pays les moins développés,199,178,Afghanistan,232,ER,ERI
+5801,Pays les moins développés,199,184,Afghanistan,646,RW,RWA
+5801,Pays les moins développés,199,193,Afghanistan,678,ST,STP
+5801,Pays les moins développés,199,195,Afghanistan,686,SN,SEN
+5801,Pays les moins développés,199,197,Afghanistan,694,SL,SLE
+5801,Pays les moins développés,199,2,Afghanistan,004,AF,AFG
+5801,Pays les moins développés,199,201,Afghanistan,706,SO,SOM
+5801,Pays les moins développés,199,206,Afghanistan,736,F206,F206
+5801,Pays les moins développés,199,215,Afghanistan,834,TZ,TZA
+5801,Pays les moins développés,199,217,Soudan,768,TG,TGO
+5801,Pays les moins développés,199,226,Afghanistan,800,UG,UGA
+5801,Pays les moins développés,199,227,Afghanistan,798,TV,TUV
+5801,Pays les moins développés,199,233,Afghanistan,854,BF,BFA
+5801,Pays les moins développés,199,238,Afghanistan,231,ET,ETH
+5801,Pays les moins développés,199,246,Afghanistan,886,F246,F246
+5801,Pays les moins développés,199,247,Afghanistan,720,F247,F247
+5801,Pays les moins développés,199,249,Afghanistan,887,YE,YEM
+5801,Pays les moins développés,199,25,Afghanistan,090,SB,SLB
+5801,Pays les moins développés,199,250,Afghanistan,180,CD,COD
+5801,Pays les moins développés,199,251,Afghanistan,894,ZM,ZMB
+5801,Pays les moins développés,199,276,Afghanistan,729,SD,SDN
+5801,Pays les moins développés,199,277,Afghanistan,728,SS,SSD
+5801,Pays les moins développés,199,28,Afghanistan,104,MM,MMR
+5801,Pays les moins développés,199,29,Afghanistan,108,BI,BDI
+5801,Pays les moins développés,199,37,Afghanistan,140,CF,CAF
+5801,Pays les moins développés,199,39,Afghanistan,148,TD,TCD
+5801,Pays les moins développés,199,45,Afghanistan,174,KM,COM
+5801,Pays les moins développés,199,53,Afghanistan,204,BJ,BEN
+5801,Pays les moins développés,199,62,Afghanistan,230,F62,F62
+5801,Pays les moins développés,199,7,Afghanistan,024,AO,AGO
+5801,Pays les moins développés,199,72,Afghanistan,262,DJ,DJI
+5801,Pays les moins développés,199,75,Afghanistan,270,GM,GMB
+5801,Pays les moins développés,199,83,Mozambique,296,KI,KIR
+5801,Pays les moins développés,199,90,Afghanistan,324,GN,GIN
+5801,Pays les moins développés,199,93,Afghanistan,332,HT,HTI
+5849,Pays Non-Annexe I,908,1,Arménie,051,AM,ARM
+5849,Pays Non-Annexe I,908,100,Inde,356,IN,IND
+5849,Pays Non-Annexe I,908,101,Indonésie,360,ID,IDN
+5849,Pays Non-Annexe I,908,102,Iran (République islamique d'),364,IR,IRN
+5849,Pays Non-Annexe I,908,103,Iraq,368,IQ,IRQ
+5849,Pays Non-Annexe I,908,105,Israël,376,IL,ISR
+5849,Pays Non-Annexe I,908,107,Côte d'Ivoire,384,CI,CIV
+5849,Pays Non-Annexe I,908,108,Kazakhstan,398,KZ,KAZ
+5849,Pays Non-Annexe I,908,109,Jamaïque,388,JM,JAM
+5849,Pays Non-Annexe I,908,112,Jordanie,400,JO,JOR
+5849,Pays Non-Annexe I,908,113,Kirghizistan,417,KG,KGZ
+5849,Pays Non-Annexe I,908,114,Kenya,404,KE,KEN
+5849,Pays Non-Annexe I,908,115,Cambodge,116,KH,KHM
+5849,Pays Non-Annexe I,908,116,République populaire démocratique de Corée,408,KP,PRK
+5849,Pays Non-Annexe I,908,117,République de Corée,410,KR,KOR
+5849,Pays Non-Annexe I,908,118,Koweït,414,KW,KWT
+5849,Pays Non-Annexe I,908,12,Bahamas,044,BS,BHS
+5849,Pays Non-Annexe I,908,120,République démocratique populaire lao,418,LA,LAO
+5849,Pays Non-Annexe I,908,121,Liban,422,LB,LBN
+5849,Pays Non-Annexe I,908,122,Lesotho,426,LS,LSO
+5849,Pays Non-Annexe I,908,123,Libéria,430,LR,LBR
+5849,Pays Non-Annexe I,908,124,Libye,434,LY,LBY
+5849,Pays Non-Annexe I,908,127,Îles Marshall,584,MH,MHL
+5849,Pays Non-Annexe I,908,128,Chine - RAS de Macao,446,MO,MAC
+5849,Pays Non-Annexe I,908,129,Madagascar,450,MG,MDG
+5849,Pays Non-Annexe I,908,13,Bahreïn,048,BH,BHR
+5849,Pays Non-Annexe I,908,130,Malawi,454,MW,MWI
+5849,Pays Non-Annexe I,908,131,Malaisie,458,MY,MYS
+5849,Pays Non-Annexe I,908,132,Maldives,462,MV,MDV
+5849,Pays Non-Annexe I,908,133,Mali,466,ML,MLI
+5849,Pays Non-Annexe I,908,136,Mauritanie,478,MR,MRT
+5849,Pays Non-Annexe I,908,137,Maurice,480,MU,MUS
+5849,Pays Non-Annexe I,908,138,Mexique,484,MX,MEX
+5849,Pays Non-Annexe I,908,14,Barbade,052,BB,BRB
+5849,Pays Non-Annexe I,908,141,Mongolie,496,MN,MNG
+5849,Pays Non-Annexe I,908,143,Maroc,504,MA,MAR
+5849,Pays Non-Annexe I,908,144,Mozambique,508,MZ,MOZ
+5849,Pays Non-Annexe I,908,145,Micronésie (États fédérés de),583,FM,FSM
+5849,Pays Non-Annexe I,908,146,République de Moldova,498,MD,MDA
+5849,Pays Non-Annexe I,908,147,Namibie,516,,NAM
+5849,Pays Non-Annexe I,908,148,Nauru,520,NR,NRU
+5849,Pays Non-Annexe I,908,149,Népal,524,NP,NPL
+5849,Pays Non-Annexe I,908,154,Macédoine du Nord,807,MK,MKD
+5849,Pays Non-Annexe I,908,155,Vanuatu,548,VU,VUT
+5849,Pays Non-Annexe I,908,157,Nicaragua,558,NI,NIC
+5849,Pays Non-Annexe I,908,158,Niger,562,NE,NER
+5849,Pays Non-Annexe I,908,159,Nigéria,566,NG,NGA
+5849,Pays Non-Annexe I,908,16,Bangladesh,050,BD,BGD
+5849,Pays Non-Annexe I,908,160,Nioué,570,NU,NIU
+5849,Pays Non-Annexe I,908,165,Pakistan,586,PK,PAK
+5849,Pays Non-Annexe I,908,166,Panama,591,PA,PAN
+5849,Pays Non-Annexe I,908,168,Papouasie-Nouvelle-Guinée,598,PG,PNG
+5849,Pays Non-Annexe I,908,169,Paraguay,600,PY,PRY
+5849,Pays Non-Annexe I,908,170,Pérou,604,PE,PER
+5849,Pays Non-Annexe I,908,171,Philippines,608,PH,PHL
+5849,Pays Non-Annexe I,908,175,Guinée-Bissau,624,GW,GNB
+5849,Pays Non-Annexe I,908,176,Timor-Leste,626,TL,TLS
+5849,Pays Non-Annexe I,908,178,Érythrée,232,ER,ERI
+5849,Pays Non-Annexe I,908,179,Qatar,634,QA,QAT
+5849,Pays Non-Annexe I,908,18,Bhoutan,064,BT,BTN
+5849,Pays Non-Annexe I,908,180,Palaos,585,PW,PLW
+5849,Pays Non-Annexe I,908,181,Zimbabwe,716,ZW,ZWE
+5849,Pays Non-Annexe I,908,184,Rwanda,646,RW,RWA
+5849,Pays Non-Annexe I,908,186,Serbie-et-Monténégro,891,CS,SCG
+5849,Pays Non-Annexe I,908,188,Saint-Kitts-et-Nevis,659,KN,KNA
+5849,Pays Non-Annexe I,908,189,Sainte-Lucie,662,LC,LCA
+5849,Pays Non-Annexe I,908,19,Bolivie (État plurinational de),068,BO,BOL
+5849,Pays Non-Annexe I,908,191,Saint-Vincent-et-les Grenadines,670,VC,VCT
+5849,Pays Non-Annexe I,908,192,Saint-Marin,674,SM,SMR
+5849,Pays Non-Annexe I,908,193,Sao Tomé-et-Principe,678,ST,STP
+5849,Pays Non-Annexe I,908,194,Arabie saoudite,682,SA,SAU
+5849,Pays Non-Annexe I,908,195,Sénégal,686,SN,SEN
+5849,Pays Non-Annexe I,908,196,Seychelles,690,SC,SYC
+5849,Pays Non-Annexe I,908,197,Sierra Leone,694,SL,SLE
+5849,Pays Non-Annexe I,908,2,Afghanistan,004,AF,AFG
+5849,Pays Non-Annexe I,908,20,Botswana,072,BW,BWA
+5849,Pays Non-Annexe I,908,200,Singapour,702,SG,SGP
+5849,Pays Non-Annexe I,908,201,Somalie,706,SO,SOM
+5849,Pays Non-Annexe I,908,202,Afrique du Sud,710,ZA,ZAF
+5849,Pays Non-Annexe I,908,206,Soudan (ex),736,F206,F206
+5849,Pays Non-Annexe I,908,207,Suriname,740,SR,SUR
+5849,Pays Non-Annexe I,908,208,Tadjikistan,762,TJ,TJK
+5849,Pays Non-Annexe I,908,209,Eswatini,748,SZ,SWZ
+5849,Pays Non-Annexe I,908,21,Brésil,076,BR,BRA
+5849,Pays Non-Annexe I,908,212,République arabe syrienne,760,SY,SYR
+5849,Pays Non-Annexe I,908,213,Turkménistan,795,TM,TKM
+5849,Pays Non-Annexe I,908,214,"Chine, Taiwan Province de",158,TW,TWN
+5849,Pays Non-Annexe I,908,215,République-Unie de Tanzanie,834,TZ,TZA
+5849,Pays Non-Annexe I,908,216,Thaïlande,764,TH,THA
+5849,Pays Non-Annexe I,908,217,Togo,768,TG,TGO
+5849,Pays Non-Annexe I,908,219,Tonga,776,TO,TON
+5849,Pays Non-Annexe I,908,220,Trinité-et-Tobago,780,TT,TTO
+5849,Pays Non-Annexe I,908,221,Oman,512,OM,OMN
+5849,Pays Non-Annexe I,908,222,Tunisie,788,TN,TUN
+5849,Pays Non-Annexe I,908,225,Émirats arabes unis,784,AE,ARE
+5849,Pays Non-Annexe I,908,226,Ouganda,800,UG,UGA
+5849,Pays Non-Annexe I,908,227,Tuvalu,798,TV,TUV
+5849,Pays Non-Annexe I,908,23,Belize,084,BZ,BLZ
+5849,Pays Non-Annexe I,908,233,Burkina Faso,854,BF,BFA
+5849,Pays Non-Annexe I,908,234,Uruguay,858,UY,URY
+5849,Pays Non-Annexe I,908,235,Ouzbékistan,860,UZ,UZB
+5849,Pays Non-Annexe I,908,236,Venezuela (République bolivarienne du),862,VE,VEN
+5849,Pays Non-Annexe I,908,237,Viet Nam,704,VN,VNM
+5849,Pays Non-Annexe I,908,238,Éthiopie,231,ET,ETH
+5849,Pays Non-Annexe I,908,244,Samoa,882,WS,WSM
+5849,Pays Non-Annexe I,908,248,RFS de Yougoslavie,890,F248,F248
+5849,Pays Non-Annexe I,908,249,Yémen,887,YE,YEM
+5849,Pays Non-Annexe I,908,25,Îles Salomon,090,SB,SLB
+5849,Pays Non-Annexe I,908,250,République démocratique du Congo,180,CD,COD
+5849,Pays Non-Annexe I,908,251,Zambie,894,ZM,ZMB
+5849,Pays Non-Annexe I,908,26,Brunéi Darussalam,096,BN,BRN
+5849,Pays Non-Annexe I,908,272,Serbie,688,RS,SRB
+5849,Pays Non-Annexe I,908,273,Monténégro,499,ME,MNE
+5849,Pays Non-Annexe I,908,276,Soudan,729,SD,SDN
+5849,Pays Non-Annexe I,908,277,Soudan du Sud,728,SS,SSD
+5849,Pays Non-Annexe I,908,28,Myanmar,104,MM,MMR
+5849,Pays Non-Annexe I,908,29,Burundi,108,BI,BDI
+5849,Pays Non-Annexe I,908,3,Albanie,008,AL,ALB
+5849,Pays Non-Annexe I,908,32,Cameroun,120,CM,CMR
+5849,Pays Non-Annexe I,908,35,Cabo Verde,132,CV,CPV
+5849,Pays Non-Annexe I,908,351,Chine,159,F351,F351
+5849,Pays Non-Annexe I,908,37,République centrafricaine,140,CF,CAF
+5849,Pays Non-Annexe I,908,38,Sri Lanka,144,LK,LKA
+5849,Pays Non-Annexe I,908,39,Tchad,148,TD,TCD
+5849,Pays Non-Annexe I,908,4,Algérie,012,DZ,DZA
+5849,Pays Non-Annexe I,908,40,Chili,152,CL,CHL
+5849,Pays Non-Annexe I,908,41,"Chine, continentale",156,CN,CHN
+5849,Pays Non-Annexe I,908,44,Colombie,170,CO,COL
+5849,Pays Non-Annexe I,908,45,Comores,174,KM,COM
+5849,Pays Non-Annexe I,908,46,Congo,178,CG,COG
+5849,Pays Non-Annexe I,908,47,Îles Cook,184,CK,COK
+5849,Pays Non-Annexe I,908,48,Costa Rica,188,CR,CRI
+5849,Pays Non-Annexe I,908,49,Cuba,192,CU,CUB
+5849,Pays Non-Annexe I,908,52,Azerbaïdjan,031,AZ,AZE
+5849,Pays Non-Annexe I,908,53,Bénin,204,BJ,BEN
+5849,Pays Non-Annexe I,908,55,Dominique,212,DM,DMA
+5849,Pays Non-Annexe I,908,56,République dominicaine,214,DO,DOM
+5849,Pays Non-Annexe I,908,58,Équateur,218,EC,ECU
+5849,Pays Non-Annexe I,908,59,Égypte,818,EG,EGY
+5849,Pays Non-Annexe I,908,6,Andorre,020,AD,AND
+5849,Pays Non-Annexe I,908,60,El Salvador,222,SV,SLV
+5849,Pays Non-Annexe I,908,61,Guinée équatoriale,226,GQ,GNQ
+5849,Pays Non-Annexe I,908,62,Éthiopie RDP,230,F62,F62
+5849,Pays Non-Annexe I,908,66,Fidji,242,FJ,FJI
+5849,Pays Non-Annexe I,908,7,Angola,024,AO,AGO
+5849,Pays Non-Annexe I,908,72,Djibouti,262,DJ,DJI
+5849,Pays Non-Annexe I,908,73,Géorgie,268,GE,GEO
+5849,Pays Non-Annexe I,908,74,Gabon,266,GA,GAB
+5849,Pays Non-Annexe I,908,75,Gambie,270,GM,GMB
+5849,Pays Non-Annexe I,908,8,Antigua-et-Barbuda,028,AG,ATG
+5849,Pays Non-Annexe I,908,80,Bosnie-Herzégovine,070,BA,BIH
+5849,Pays Non-Annexe I,908,81,Ghana,288,GH,GHA
+5849,Pays Non-Annexe I,908,83,Kiribati,296,KI,KIR
+5849,Pays Non-Annexe I,908,86,Grenade,308,GD,GRD
+5849,Pays Non-Annexe I,908,89,Guatemala,320,GT,GTM
+5849,Pays Non-Annexe I,908,9,Argentine,032,AR,ARG
+5849,Pays Non-Annexe I,908,90,Guinée,324,GN,GIN
+5849,Pays Non-Annexe I,908,91,Guyana,328,GY,GUY
+5849,Pays Non-Annexe I,908,93,Haïti,332,HT,HTI
+5849,Pays Non-Annexe I,908,95,Honduras,340,HN,HND
+5849,Pays Non-Annexe I,908,96,Chine - RAS de Hong-Kong,344,HK,HKG
+5802,Pays sans littoral en voie de développement,432,1,Afghanistan,051,AM,ARM
+5802,Pays sans littoral en voie de développement,432,108,Afghanistan,398,KZ,KAZ
+5802,Pays sans littoral en voie de développement,432,113,Afghanistan,417,KG,KGZ
+5802,Pays sans littoral en voie de développement,432,120,Afghanistan,418,LA,LAO
+5802,Pays sans littoral en voie de développement,432,122,Afghanistan,426,LS,LSO
+5802,Pays sans littoral en voie de développement,432,130,Afghanistan,454,MW,MWI
+5802,Pays sans littoral en voie de développement,432,133,Afghanistan,466,ML,MLI
+5802,Pays sans littoral en voie de développement,432,141,Afghanistan,496,MN,MNG
+5802,Pays sans littoral en voie de développement,432,146,Afghanistan,498,MD,MDA
+5802,Pays sans littoral en voie de développement,432,149,Afghanistan,524,NP,NPL
+5802,Pays sans littoral en voie de développement,432,154,Afghanistan,807,MK,MKD
+5802,Pays sans littoral en voie de développement,432,158,Afghanistan,562,NE,NER
+5802,Pays sans littoral en voie de développement,432,169,Afghanistan,600,PY,PRY
+5802,Pays sans littoral en voie de développement,432,18,Afghanistan,064,BT,BTN
+5802,Pays sans littoral en voie de développement,432,181,Afghanistan,716,ZW,ZWE
+5802,Pays sans littoral en voie de développement,432,184,Afghanistan,646,RW,RWA
+5802,Pays sans littoral en voie de développement,432,19,Afghanistan,068,BO,BOL
+5802,Pays sans littoral en voie de développement,432,2,Afghanistan,004,AF,AFG
+5802,Pays sans littoral en voie de développement,432,20,Afghanistan,072,BW,BWA
+5802,Pays sans littoral en voie de développement,432,208,Afghanistan,762,TJ,TJK
+5802,Pays sans littoral en voie de développement,432,209,Afghanistan,748,SZ,SWZ
+5802,Pays sans littoral en voie de développement,432,213,Afghanistan,795,TM,TKM
+5802,Pays sans littoral en voie de développement,432,226,Afghanistan,800,UG,UGA
+5802,Pays sans littoral en voie de développement,432,233,Afghanistan,854,BF,BFA
+5802,Pays sans littoral en voie de développement,432,235,Afghanistan,860,UZ,UZB
+5802,Pays sans littoral en voie de développement,432,238,Niger,231,ET,ETH
+5802,Pays sans littoral en voie de développement,432,251,Afghanistan,894,ZM,ZMB
+5802,Pays sans littoral en voie de développement,432,277,Afghanistan,728,SS,SSD
+5802,Pays sans littoral en voie de développement,432,29,Afghanistan,108,BI,BDI
+5802,Pays sans littoral en voie de développement,432,37,Afghanistan,140,CF,CAF
+5802,Pays sans littoral en voie de développement,432,39,Afghanistan,148,TD,TCD
+5802,Pays sans littoral en voie de développement,432,52,Afghanistan,031,AZ,AZE
+5803,Petites îles en voie de Développement,722,109,Samoa américaines,388,JM,JAM
+5803,Petites îles en voie de Développement,722,12,Samoa américaines,044,BS,BHS
+5803,Petites îles en voie de Développement,722,127,Samoa américaines,584,MH,MHL
+5803,Petites îles en voie de Développement,722,132,Samoa américaines,462,MV,MDV
+5803,Petites îles en voie de Développement,722,135,Samoa américaines,474,MQ,MTQ
+5803,Petites îles en voie de Développement,722,137,Samoa américaines,480,MU,MUS
+5803,Petites îles en voie de Développement,722,14,Samoa américaines,052,BB,BRB
+5803,Petites îles en voie de Développement,722,142,Samoa américaines,500,MS,MSR
+5803,Petites îles en voie de Développement,722,145,Samoa américaines,583,FM,FSM
+5803,Petites îles en voie de Développement,722,148,Samoa américaines,520,NR,NRU
+5803,Petites îles en voie de Développement,722,153,Samoa américaines,540,NC,NCL
+5803,Petites îles en voie de Développement,722,155,Samoa américaines,548,VU,VUT
+5803,Petites îles en voie de Développement,722,160,Samoa américaines,570,NU,NIU
+5803,Petites îles en voie de Développement,722,163,Barbade,580,MP,MNP
+5803,Petites îles en voie de Développement,722,168,Samoa américaines,598,PG,PNG
+5803,Petites îles en voie de Développement,722,17,Samoa américaines,060,BM,BMU
+5803,Petites îles en voie de Développement,722,175,Samoa américaines,624,GW,GNB
+5803,Petites îles en voie de Développement,722,176,Samoa américaines,626,TL,TLS
+5803,Petites îles en voie de Développement,722,177,Samoa américaines,630,PR,PRI
+5803,Petites îles en voie de Développement,722,180,Samoa américaines,585,PW,PLW
+5803,Petites îles en voie de Développement,722,188,Samoa américaines,659,KN,KNA
+5803,Petites îles en voie de Développement,722,189,Samoa américaines,662,LC,LCA
+5803,Petites îles en voie de Développement,722,191,Samoa américaines,670,VC,VCT
+5803,Petites îles en voie de Développement,722,193,Samoa américaines,678,ST,STP
+5803,Petites îles en voie de Développement,722,196,Samoa américaines,690,SC,SYC
+5803,Petites îles en voie de Développement,722,200,Samoa américaines,702,SG,SGP
+5803,Petites îles en voie de Développement,722,207,Samoa américaines,740,SR,SUR
+5803,Petites îles en voie de Développement,722,219,Samoa américaines,776,TO,TON
+5803,Petites îles en voie de Développement,722,22,Samoa américaines,533,AW,ABW
+5803,Petites îles en voie de Développement,722,220,Samoa américaines,780,TT,TTO
+5803,Petites îles en voie de Développement,722,224,Aruba,796,TC,TCA
+5803,Petites îles en voie de Développement,722,227,Samoa américaines,798,TV,TUV
+5803,Petites îles en voie de Développement,722,23,Samoa américaines,084,BZ,BLZ
+5803,Petites îles en voie de Développement,722,239,Samoa américaines,092,VG,VGB
+5803,Petites îles en voie de Développement,722,240,Samoa américaines,850,VI,VIR
+5803,Petites îles en voie de Développement,722,244,Samoa américaines,882,WS,WSM
+5803,Petites îles en voie de Développement,722,25,Samoa américaines,090,SB,SLB
+5803,Petites îles en voie de Développement,722,258,Samoa américaines,660,AI,AIA
+5803,Petites îles en voie de Développement,722,279,Samoa américaines,531,F279,CUW
+5803,Petites îles en voie de Développement,722,280,Samoa américaines,534,F280,SXM
+5803,Petites îles en voie de Développement,722,35,Samoa américaines,132,CV,CPV
+5803,Petites îles en voie de Développement,722,36,Samoa américaines,136,KY,CYM
+5803,Petites îles en voie de Développement,722,45,Samoa américaines,174,KM,COM
+5803,Petites îles en voie de Développement,722,47,Samoa américaines,184,CK,COK
+5803,Petites îles en voie de Développement,722,49,Samoa américaines,192,CU,CUB
+5803,Petites îles en voie de Développement,722,5,Samoa américaines,016,AS,ASM
+5803,Petites îles en voie de Développement,722,55,Samoa américaines,212,DM,DMA
+5803,Petites îles en voie de Développement,722,56,Samoa américaines,214,DO,DOM
+5803,Petites îles en voie de Développement,722,66,Samoa américaines,242,FJ,FJI
+5803,Petites îles en voie de Développement,722,70,Samoa américaines,258,PF,PYF
+5803,Petites îles en voie de Développement,722,8,Samoa américaines,028,AG,ATG
+5803,Petites îles en voie de Développement,722,83,Samoa américaines,296,KI,KIR
+5803,Petites îles en voie de Développement,722,86,Samoa américaines,308,GD,GRD
+5803,Petites îles en voie de Développement,722,87,Samoa américaines,312,GP,GLP
+5803,Petites îles en voie de Développement,722,88,Samoa américaines,316,GU,GUM
+5803,Petites îles en voie de Développement,722,91,Samoa américaines,328,GY,GUY
+5803,Petites îles en voie de Développement,722,93,Samoa américaines,332,HT,HTI
+5504,Polynésie,061,160,Nioué,570,NU,NIU
+5504,Polynésie,061,172,Pitcairn,612,PN,PCN
+5504,Polynésie,061,218,Tokélaou,772,TK,TKL
+5504,Polynésie,061,219,Tonga,776,TO,TON
+5504,Polynésie,061,227,Tuvalu,798,TV,TUV
+5504,Polynésie,061,242,Îles Wake,872,WK,WAK
+5504,Polynésie,061,243,Îles Wallis-et-Futuna,876,WF,WLF
+5504,Polynésie,061,244,Samoa,882,WS,WSM
+5504,Polynésie,061,47,Îles Cook,184,CK,COK
+5504,Polynésie,061,5,Samoa américaines,016,AS,ASM
+5504,Polynésie,061,618,"Polynésie, non spécifié",286,F618,F618
+5504,Polynésie,061,70,Polynésie française,258,PF,PYF
+5600,Región Antarctique,912,30,Antarctique,010,AQ,ATA
+702,"Tous Donateurs, total",,10,Australie,036,AU,AUS
+702,"Tous Donateurs, total",,1001,Adaptation Fund,1012,F1001,F1001
+702,"Tous Donateurs, total",,1003,Banque arabe pour le développement économique en Afrique (BADEA),953,F1003,F1003
+702,"Tous Donateurs, total",,1006,Le Fonds africain de développement (FAD),914,F1006,F1006
+702,"Tous Donateurs, total",,1012,Banque africaine de développement (BAfD),913,F1012,F1012
+702,"Tous Donateurs, total",,1015,Fonds arabe pour le développement économique et social (FADES),921,F1015,F1015
+702,"Tous Donateurs, total",,1017,Bloomberg Family Foundation,1640,F1017,F1017
+702,"Tous Donateurs, total",,1019,Arcadia Fund,1637,F1019,F1019
+702,"Tous Donateurs, total",,1020,Arcus Foundation,1625,F1020,F1020
+702,"Tous Donateurs, total",,1021,Banque asiatique de développement (BAsD),915,F1021,F1021
+702,"Tous Donateurs, total",,1023,Asian Infrastructure Investment Bank,1024,F1023,F1023
+702,"Tous Donateurs, total",,1025,Fondation Bill et Melinda Gates,1601,F1025,F1025
+702,"Tous Donateurs, total",,1026,Bernard van Leer Foundation,1609,F1026,F1026
+702,"Tous Donateurs, total",,1027,Central American Bank for Economic Integration (CABEI),,,
+702,"Tous Donateurs, total",,1028,C&A Foundation,,,
+702,"Tous Donateurs, total",,1029,Carnegie Corporation of New York,1620,F1029,F1029
+702,"Tous Donateurs, total",,1030,Caribbean Development Bank (CDB),,F1030,F1030
+702,"Tous Donateurs, total",,1031,Council of Europe Development Bank (CEB),1013,F1031,F1031
+702,"Tous Donateurs, total",,1032,Central Emergency Response Fund,1020,F1032,F1032
+702,"Tous Donateurs, total",,1034,Climate Investment Funds (CIF),1011,F1034,F1034
+702,"Tous Donateurs, total",,1035,Charity Projects Ltd (Comic Relief),1614,F1035,F1035
+702,"Tous Donateurs, total",,1037,Children's Investment Fund Foundation,1615,F1037,F1037
+702,"Tous Donateurs, total",,1038,BBVA Microfinance Foundation,1635,F1038,F1038
+702,"Tous Donateurs, total",,104,Irlande,372,IE,IRL
+702,"Tous Donateurs, total",,1040,Conrad N. Hilton Foundation,1617,F1040,F1040
+702,"Tous Donateurs, total",,1046,David & Lucile Packard Foundation,1618,F1046,F1046
+702,"Tous Donateurs, total",,1047,Dutch Postcode Lottery,1602,F1047,F1047
+702,"Tous Donateurs, total",,1048,Banque européenne pour la reconstruction et le développement (BERD),990,F1048,F1048
+702,"Tous Donateurs, total",,1049,Development Bank of Latin America,1015,F1049,F1049
+702,"Tous Donateurs, total",,105,Israël,376,IL,ISR
+702,"Tous Donateurs, total",,1051,Institutions de l'Union européenne (UE),918,F1051,F1051
+702,"Tous Donateurs, total",,1053,Ford Foundation,1627,F1053,F1053
+702,"Tous Donateurs, total",,1054,Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO),932,F1054,F1054
+702,"Tous Donateurs, total",,1055,Alliance mondiale pour les vaccins et la vaccination (GAVI),1311,F1055,F1055
+702,"Tous Donateurs, total",,1056,Fonds pour l’environnement mondial (FEM),811,F1056,F1056
+702,"Tous Donateurs, total",,1058,Fonds mondial,1312,F1058,F1058
+702,"Tous Donateurs, total",,1059,Institut Mondial de la Croissance Verte (GGGI),1313,F1059,F1059
+702,"Tous Donateurs, total",,106,Italie,380,IT,ITA
+702,"Tous Donateurs, total",,1060,Banque internationale pour la reconstruction et le développement (BIRD),,F1060,F1060
+702,"Tous Donateurs, total",,1061,Green Climate Fund,1016,F1061,F1061
+702,"Tous Donateurs, total",,1062,Gatsby Charitable Foundation,1616,F1062,F1062
+702,"Tous Donateurs, total",,1064,Gordon and Betty Moore Foundation,1626,F1064,F1064
+702,"Tous Donateurs, total",,1065,H&M Foundation,1612,F1065,F1065
+702,"Tous Donateurs, total",,1067,Grameen Crédit Agricole Foundation,1607,F1067,F1067
+702,"Tous Donateurs, total",,1068,Howard G. Buffett Foundation,1642,F1068,F1068
+702,"Tous Donateurs, total",,1075,Association internationale de développement (AID),,F1075,F1075
+702,"Tous Donateurs, total",,1078,Banque interaméricaine de développement (BID),909,F1078,F1078
+702,"Tous Donateurs, total",,1079,BID Invest,1019,F1079,F1079
+702,"Tous Donateurs, total",,108,Kazakhstan,398,KZ,KAZ
+702,"Tous Donateurs, total",,1080,John D. & Catherine T. MacArthur Foundation,1619,F1080,F1080
+702,"Tous Donateurs, total",,1084,Fonds international de développement agricole (FIDA),988,F1084,F1084
+702,"Tous Donateurs, total",,11,Autriche,040,AT,AUT
+702,"Tous Donateurs, total",,110,Japon,392,JP,JPN
+702,"Tous Donateurs, total",,1100,Organisation internationale du Travail (OIT),940,F1100,F1100
+702,"Tous Donateurs, total",,1101,IKEA Foundation,1608,F1101,F1101
+702,"Tous Donateurs, total",,1110,Société financière internationale (IFC),,F1110,F1110
+702,"Tous Donateurs, total",,1120,Banque islamique de développement (BID),976,F1120,F1120
+702,"Tous Donateurs, total",,1121,Laudes Foundation,1613,F1121,F1121
+702,"Tous Donateurs, total",,1122,La Caixa Banking Foundation,1639,F1122,F1122
+702,"Tous Donateurs, total",,1124,MasterCard Foundation,1606,F1124,F1124
+702,"Tous Donateurs, total",,1125,Margaret A. Cargill Foundation,1638,F1125,F1125
+702,"Tous Donateurs, total",,1127,MAVA Foundation,1610,F1127,F1127
+702,"Tous Donateurs, total",,1128,Michael & Susan Dell Foundation,1621,F1128,F1128
+702,"Tous Donateurs, total",,1130,MetLife Foundation,1605,F1130,F1130
+702,"Tous Donateurs, total",,1132,Multilateral Investment Fund (IDB) (MIF),,,
+702,"Tous Donateurs, total",,1133,Fonds Nordique de Développement (FND),,,
+702,"Tous Donateurs, total",,1134,People's Postcode Lottery,1604,F1134,F1134
+702,"Tous Donateurs, total",,1135,Fonds de l'OPEP pour le développement international (OFID),951,F1135,F1135
+702,"Tous Donateurs, total",,1136,Organisation pour la sécurité et la coopération en Europe (OSCE),978,F1136,F1136
+702,"Tous Donateurs, total",,1137,Programme commun des Nations Unies sur le VIH/sida (ONUSIDA),971,F1137,F1137
+702,"Tous Donateurs, total",,1139,Fonds des Nations Unies pour la population (FNUAP),974,F1139,F1139
+702,"Tous Donateurs, total",,1140,Haut-Commissariat des Nations Unies pour les réfugiés (HCR),967,F1140,F1140
+702,"Tous Donateurs, total",,1141,Programme des Nations Unies pour le développement (PNUD),959,F1141,F1141
+702,"Tous Donateurs, total",,1142,Fonds des Nations Unies pour l'enfance (UNICEF),963,F1142,F1142
+702,"Tous Donateurs, total",,1143,Fonds des Nations Unies pour la consolidation de la paix,923,F1143,F1143
+702,"Tous Donateurs, total",,1145,Office de secours et de travaux des Nations Unies pour les réfugiés de Palestine dans le Proche-Orient (UNRWA),964,F1145,F1145
+702,"Tous Donateurs, total",,1146,Programme Alimentaire Mondial (PAM),966,F1146,F1146
+702,"Tous Donateurs, total",,1148,Organisation mondiale de la santé (OMS),928,F1148,F1148
+702,"Tous Donateurs, total",,1149,Programme des Nations Unies pour l'environnement (PNUE),,,
+702,"Tous Donateurs, total",,1151,Swedish Postcode Lottery,1603,F1151,F1151
+702,"Tous Donateurs, total",,1152,Oak Foundation,1611,F1152,F1152
+702,"Tous Donateurs, total",,1153,"Omidyar Network Fund, Inc.",1622,F1153,F1153
+702,"Tous Donateurs, total",,1154,Wellcome Trust,1628,F1154,F1154
+702,"Tous Donateurs, total",,1155,William & Flora Hewlett Foundation,1624,F1155,F1155
+702,"Tous Donateurs, total",,1156,World Diabetes Foundation,1630,F1156,F1156
+702,"Tous Donateurs, total",,1157,World Tourism Organisation,1023,F1157,F1157
+702,"Tous Donateurs, total",,1158,Rockefeller Foundation,1623,F1158,F1158
+702,"Tous Donateurs, total",,1159,McKnight Foundation,1631,F1159,F1159
+702,"Tous Donateurs, total",,1160,Citi Foundation,1632,F1160,F1160
+702,"Tous Donateurs, total",,1161,Norwegian Postcode Lottery,1634,F1161,F1161
+702,"Tous Donateurs, total",,1162,Multilateral Investment Guarantee Agency,,,
+702,"Tous Donateurs, total",,1163,Fonds monétaire international (FMI),,,
+702,"Tous Donateurs, total",,1164,Council of Europe,,,
+702,"Tous Donateurs, total",,1165,International Atomic Energy Agency,,,
+702,"Tous Donateurs, total",,1166,Special Arab Aid Fund for Africa,,,
+702,"Tous Donateurs, total",,1167,IMF Trust Fund,,,
+702,"Tous Donateurs, total",,1168,United Nations Transitional Authority (UNTA),,,
+702,"Tous Donateurs, total",,1169,Islamic Monetary Fund,,,
+702,"Tous Donateurs, total",,117,République de Corée,410,KR,KOR
+702,"Tous Donateurs, total",,1170,Arab Fund for Technical Assistance to African and Arab Countries,,,
+702,"Tous Donateurs, total",,1171,Black Sea Trade & Development Bank,,,
+702,"Tous Donateurs, total",,1172,GODE,,,
+702,"Tous Donateurs, total",,1173,Other Arab Agencies,,,
+702,"Tous Donateurs, total",,1174,UN AGENCIES,,,
+702,"Tous Donateurs, total",,1175,Global Partnership for Education,,,
+702,"Tous Donateurs, total",,1176,Private Infrastructure Development Group,,,
+702,"Tous Donateurs, total",,1177,Credit Guarantee and Investment Facility,,,
+702,"Tous Donateurs, total",,1178,Global Energy Efficiency and Renewable Energy Fund,,,
+702,"Tous Donateurs, total",,1179,Center of Excellence in Finance,,,
+702,"Tous Donateurs, total",,118,Koweït,414,KW,KWT
+702,"Tous Donateurs, total",,1180,International Investment Bank,,,
+702,"Tous Donateurs, total",,1181,United Nations Institute for Disarmament Research,,,
+702,"Tous Donateurs, total",,1182,UBS Optimus Foundation,,,
+702,"Tous Donateurs, total",,1183,LEGO Foundation,,,
+702,"Tous Donateurs, total",,1184,Jacobs Foundation,,,
+702,"Tous Donateurs, total",,1185,Susan T. Buffett Foundation,,,
+702,"Tous Donateurs, total",,1186,Open Society Foundations,,,
+702,"Tous Donateurs, total",,1187,Botnar Foundation,,,
+702,"Tous Donateurs, total",,1188,Bezos Earth Fund,,,
+702,"Tous Donateurs, total",,1189,Eurasian Fund for  Stabilization and Development,,,
+702,"Tous Donateurs, total",,119,Lettonie,428,LV,LVA
+702,"Tous Donateurs, total",,1190,WTO - International  Trade Centre,,,
+702,"Tous Donateurs, total",,1191,United Nations Industrial Development Organization,,,
+702,"Tous Donateurs, total",,1192,United Nations Conference on Trade and Development,,,
+702,"Tous Donateurs, total",,1193,United Nations Capital Development Fund,,,
+702,"Tous Donateurs, total",,1194,New Development Bank,,,
+702,"Tous Donateurs, total",,1195,North American Development Bank,,,
+702,"Tous Donateurs, total",,1196,UN Women,,,
+702,"Tous Donateurs, total",,1197,COVID-19 Response and Recovery Multi-Partner Trust Fund,,,
+702,"Tous Donateurs, total",,1198,Joint Sustainable Development Goals Fund,,,
+702,"Tous Donateurs, total",,1199,International Commission on Missing Persons,,,
+702,"Tous Donateurs, total",,1200,WHO-Strategic Preparedness and Response Plan,,,
+702,"Tous Donateurs, total",,1201,World Trade Organisation,,,
+702,"Tous Donateurs, total",,1202,German Postcode Lottery,,,
+702,"Tous Donateurs, total",,125,Liechtenstein,438,LI,LIE
+702,"Tous Donateurs, total",,126,Lituanie,440,LT,LTU
+702,"Tous Donateurs, total",,134,Malte,470,MT,MLT
+702,"Tous Donateurs, total",,140,Monaco,492,MC,MCO
+702,"Tous Donateurs, total",,150,Pays-Bas (Royaume des),528,NL,NLD
+702,"Tous Donateurs, total",,156,Nouvelle-Zélande,554,NZ,NZL
+702,"Tous Donateurs, total",,162,Norvège,578,NO,NOR
+702,"Tous Donateurs, total",,167,Tchéquie,203,CZ,CZE
+702,"Tous Donateurs, total",,173,Pologne,616,PL,POL
+702,"Tous Donateurs, total",,174,Portugal,620,PT,PRT
+702,"Tous Donateurs, total",,176,Timor-Leste,626,TL,TLS
+702,"Tous Donateurs, total",,179,Qatar,634,QA,QAT
+702,"Tous Donateurs, total",,183,Roumanie,642,RO,ROU
+702,"Tous Donateurs, total",,185,Fédération de Russie,643,RU,RUS
+702,"Tous Donateurs, total",,194,Arabie saoudite,682,SA,SAU
+702,"Tous Donateurs, total",,198,Slovénie,705,SI,SVN
+702,"Tous Donateurs, total",,199,Slovaquie,703,SK,SVK
+702,"Tous Donateurs, total",,203,Espagne,724,ES,ESP
+702,"Tous Donateurs, total",,210,Suède,752,SE,SWE
+702,"Tous Donateurs, total",,211,Suisse,756,CH,CHE
+702,"Tous Donateurs, total",,214,"Chine, Taiwan Province de",158,TW,TWN
+702,"Tous Donateurs, total",,216,Thaïlande,764,TH,THA
+702,"Tous Donateurs, total",,223,Türkiye,792,TR,TUR
+702,"Tous Donateurs, total",,225,Émirats arabes unis,784,AE,ARE
+702,"Tous Donateurs, total",,229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,826,GB,GBR
+702,"Tous Donateurs, total",,231,États-Unis d'Amérique,840,US,USA
+702,"Tous Donateurs, total",,255,Belgique,056,BE,BEL
+702,"Tous Donateurs, total",,256,Luxembourg,442,LU,LUX
+702,"Tous Donateurs, total",,27,Bulgarie,100,BG,BGR
+702,"Tous Donateurs, total",,33,Canada,124,CA,CAN
+702,"Tous Donateurs, total",,441,Commission économique des Nations Unies pour l'Europe (CEE),734,F441,F441
+702,"Tous Donateurs, total",,50,Chypre,196,CY,CYP
+702,"Tous Donateurs, total",,52,Azerbaïdjan,031,AZ,AZE
+702,"Tous Donateurs, total",,54,Danemark,208,DK,DNK
+702,"Tous Donateurs, total",,63,Estonie,233,EE,EST
+702,"Tous Donateurs, total",,67,Finlande,246,FI,FIN
+702,"Tous Donateurs, total",,68,France,250,FR,FRA
+702,"Tous Donateurs, total",,79,Allemagne,276,DE,DEU
+702,"Tous Donateurs, total",,84,Grèce,300,GR,GRC
+702,"Tous Donateurs, total",,97,Hongrie,348,HU,HUN
+702,"Tous Donateurs, total",,98,Croatie,191,HR,HRV
+702,"Tous Donateurs, total",,99,Islande,352,IS,ISL
+5707,Union Européenne (27),097,104,Irlande,372,IE,IRL
+5707,Union Européenne (27),097,106,Italie,380,IT,ITA
+5707,Union Européenne (27),097,11,Autriche,040,AT,AUT
+5707,Union Européenne (27),097,119,Lettonie,428,LV,LVA
+5707,Union Européenne (27),097,126,Lituanie,440,LT,LTU
+5707,Union Européenne (27),097,134,Malte,470,MT,MLT
+5707,Union Européenne (27),097,15,Belgique-Luxembourg,058,F15,F15
+5707,Union Européenne (27),097,150,Pays-Bas (Royaume des),528,NL,NLD
+5707,Union Européenne (27),097,167,Tchéquie,203,CZ,CZE
+5707,Union Européenne (27),097,173,Pologne,616,PL,POL
+5707,Union Européenne (27),097,174,Portugal,620,PT,PRT
+5707,Union Européenne (27),097,183,Roumanie,642,RO,ROU
+5707,Union Européenne (27),097,198,Slovénie,705,SI,SVN
+5707,Union Européenne (27),097,199,Slovaquie,703,SK,SVK
+5707,Union Européenne (27),097,203,Espagne,724,ES,ESP
+5707,Union Européenne (27),097,210,Suède,752,SE,SWE
+5707,Union Européenne (27),097,255,Belgique,056,BE,BEL
+5707,Union Européenne (27),097,256,Luxembourg,442,LU,LUX
+5707,Union Européenne (27),097,27,Bulgarie,100,BG,BGR
+5707,Union Européenne (27),097,50,Chypre,196,CY,CYP
+5707,Union Européenne (27),097,54,Danemark,208,DK,DNK
+5707,Union Européenne (27),097,63,Estonie,233,EE,EST
+5707,Union Européenne (27),097,67,Finlande,246,FI,FIN
+5707,Union Européenne (27),097,68,France,250,FR,FRA
+5707,Union Européenne (27),097,77,Allemagne Nl,278,F77,F77
+5707,Union Européenne (27),097,78,Allemagne Fr,280,F78,F78
+5707,Union Européenne (27),097,79,Allemagne,276,DE,DEU
+5707,Union Européenne (27),097,84,Grèce,300,GR,GRC
+5707,Union Européenne (27),097,97,Hongrie,348,HU,HUN
+5707,Union Européenne (27),097,98,Croatie,191,HR,HRV
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,103,Iraq,368,IQ,IRQ
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,112,Jordanie,400,JO,JOR
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,118,Koweït,414,KW,KWT
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,121,Liban,422,LB,LBN
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,13,Bahreïn,048,BH,BHR
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,179,Qatar,634,QA,QAT
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,194,Arabie saoudite,682,SA,SAU
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,212,République arabe syrienne,760,SY,SYR
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,221,Oman,512,OM,OMN
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,223,Türkiye,792,TR,TUR
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,225,Émirats arabes unis,784,AE,ARE
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,246,Yémen Rép A,886,F246,F246
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,247,Yemen Dém,720,F247,F247
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,249,Yémen,887,YE,YEM
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,299,Palestine,275,F299,PSE
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,608,"Asie de l'Ouest, non spécifié",879,F608,F608
+5828,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",485,76,Palestine,274,F76,76
