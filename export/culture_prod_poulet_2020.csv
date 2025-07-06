@@ -1,0 +1,195 @@
+country_code,zone,reserves
+1,Arménie,4396.0
+10,Australie,100894.0
+100,Inde,824722.0
+101,Indonésie,3570142.0
+102,Iran (République islamique d'),1010445.0
+103,Iraq,78534.0
+104,Irlande,15236.0
+105,Israël,51140.0
+106,Italie,142503.0
+107,Côte d'Ivoire,89511.0
+108,Kazakhstan,41668.0
+109,Jamaïque,14127.0
+11,Autriche,16857.0
+110,Japon,319620.0
+112,Jordanie,36000.0
+113,Kirghizistan,4674.0
+114,Kenya,57178.0
+115,Cambodge,13016.0
+116,République populaire démocratique de Corée,16683.0
+117,République de Corée,178528.0
+118,Koweït,55460.0
+119,Lettonie,5643.0
+12,Bahamas,3263.0
+120,République démocratique populaire lao,46624.0
+121,Liban,68050.0
+122,Lesotho,471.0
+123,Libéria,8031.0
+124,Libye,36550.0
+126,Lituanie,9852.0
+128,Chine - RAS de Macao,780.0
+129,Madagascar,41230.0
+13,Bahreïn,1500.0
+130,Malawi,19458.0
+131,Malaisie,293496.0
+133,Mali,52098.0
+134,Malte,884.0
+136,Mauritanie,4705.0
+137,Maurice,16211.0
+138,Mexique,591596.0
+14,Barbade,4843.0
+141,Mongolie,985.0
+143,Maroc,212319.0
+144,Mozambique,20769.0
+145,Micronésie (États fédérés de),192.0
+146,République de Moldova,44077.0
+147,Namibie,4453.0
+148,Nauru,5.0
+149,Népal,82599.0
+150,Pays-Bas (Royaume des),101863.0
+153,Nouvelle-Calédonie,577.0
+154,Macédoine du Nord,1643.0
+155,Vanuatu,496.0
+156,Nouvelle-Zélande,24849.0
+157,Nicaragua,26541.0
+158,Niger,20696.0
+159,Nigéria,223704.0
+16,Bangladesh,296602.0
+160,Nioué,18.0
+162,Norvège,14218.0
+165,Pakistan,1443000.0
+166,Panama,25586.0
+167,Tchéquie,21018.0
+168,Papouasie-Nouvelle-Guinée,4700.0
+169,Paraguay,24754.0
+170,Pérou,171059.0
+171,Philippines,178265.0
+173,Pologne,195825.0
+174,Portugal,49307.0
+175,Guinée-Bissau,2048.0
+176,Timor-Leste,968.0
+177,Porto Rico,7199.0
+178,Érythrée,1269.0
+179,Qatar,30000.0
+18,Bhoutan,1384.0
+181,Zimbabwe,16200.0
+183,Roumanie,73901.0
+184,Rwanda,4361.0
+185,Fédération de Russie,496964.0
+188,Saint-Kitts-et-Nevis,10.0
+189,Sainte-Lucie,484.0
+19,Bolivie (État plurinational de),216946.0
+191,Saint-Vincent-et-les Grenadines,248.0
+193,Sao Tomé-et-Principe,301.0
+194,Arabie saoudite,205752.0
+195,Sénégal,85193.0
+196,Seychelles,160.0
+197,Sierra Leone,25213.0
+198,Slovénie,5770.0
+199,Slovaquie,13153.0
+2,Afghanistan,12848.0
+20,Botswana,864.0
+200,Singapour,3334.0
+201,Somalie,3884.0
+202,Afrique du Sud,168993.0
+203,Espagne,193476.0
+207,Suriname,5773.0
+208,Tadjikistan,9783.0
+209,Eswatini,2061.0
+21,Brésil,1478424.0
+211,Suisse,12429.0
+212,République arabe syrienne,18741.0
+213,Turkménistan,20606.0
+214,"Chine, Taiwan Province de",102328.0
+215,République-Unie de Tanzanie,39408.0
+216,Thaïlande,276745.0
+217,Togo,28401.0
+218,Tokélaou,5.0
+219,Tonga,339.0
+220,Trinité-et-Tobago,39560.0
+221,Oman,4830.0
+222,Tunisie,99392.0
+223,Türkiye,379349.0
+225,Émirats arabes unis,24630.0
+226,Ouganda,44199.0
+227,Tuvalu,55.0
+229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,172000.0
+23,Belize,1677.0
+230,Ukraine,202511.0
+231,États-Unis d'Amérique,1537000.0
+233,Burkina Faso,45051.0
+234,Uruguay,44287.0
+235,Ouzbékistan,76536.0
+236,Venezuela (République bolivarienne du),131047.0
+237,Viet Nam,409500.0
+238,Éthiopie,56993.0
+244,Samoa,386.0
+249,Yémen,69039.0
+25,Îles Salomon,245.0
+250,République démocratique du Congo,18675.0
+251,Zambie,41077.0
+255,Belgique,53362.0
+256,Luxembourg,136.0
+26,Brunéi Darussalam,19437.0
+27,Bulgarie,17177.0
+272,Serbie,14927.0
+273,Monténégro,602.0
+276,Soudan,50747.0
+277,Soudan du Sud,35000.0
+28,Myanmar,98089.0
+29,Burundi,4765.0
+299,Palestine,7420.0
+3,Albanie,6774.0
+32,Cameroun,20000.0
+33,Canada,170555.0
+35,Cabo Verde,650.0
+351,Chine,5293971.0
+37,République centrafricaine,7016.0
+38,Sri Lanka,24278.0
+39,Tchad,6161.0
+4,Algérie,192589.0
+40,Chili,55429.0
+41,"Chine, continentale",5186472.0
+44,Colombie,210541.0
+45,Comores,538.0
+46,Congo,2923.0
+47,Îles Cook,34.0
+48,Costa Rica,26021.0
+49,Cuba,30245.0
+50,Chypre,4655.0
+52,Azerbaïdjan,30176.0
+53,Bénin,14005.0
+54,Danemark,21250.0
+55,Dominique,203.0
+56,République dominicaine,178900.0
+57,Bélarus,103729.0
+58,Équateur,172328.0
+59,Égypte,250000.0
+60,El Salvador,18547.0
+61,Guinée équatoriale,379.0
+63,Estonie,2055.0
+66,Fidji,5529.0
+67,Finlande,12715.0
+68,France,242015.0
+7,Angola,38847.0
+70,Polynésie française,325.0
+73,Géorgie,9298.0
+74,Gabon,3332.0
+75,Gambie,982.0
+79,Allemagne,159118.0
+8,Antigua-et-Barbuda,157.0
+80,Bosnie-Herzégovine,16658.0
+81,Ghana,81769.0
+83,Kiribati,656.0
+86,Grenade,380.0
+89,Guatemala,47000.0
+9,Argentine,118463.0
+90,Guinée,33431.0
+91,Guyana,30102.0
+93,Haïti,5912.0
+95,Honduras,47038.0
+96,Chine - RAS de Hong-Kong,4392.0
+97,Hongrie,30874.0
+98,Croatie,11360.0
+99,Islande,222.0
