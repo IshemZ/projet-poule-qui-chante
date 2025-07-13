@@ -1,0 +1,169 @@
+country_code,zone,production_brute_2014-2016_(millier_int$)
+1,Arménie,22694.0
+10,Australie,2441665.0
+100,Inde,8593866.0
+101,Indonésie,6988395.0
+102,Iran (République islamique d'),4669888.0
+103,Iraq,290811.0
+105,Israël,1108270.0
+107,Côte d'Ivoire,142705.0
+108,Kazakhstan,438023.0
+109,Jamaïque,235908.0
+110,Japon,4478201.0
+112,Jordanie,417800.0
+113,Kirghizistan,18240.0
+114,Kenya,132879.0
+115,Cambodge,32749.0
+116,République populaire démocratique de Corée,61009.0
+117,République de Corée,1847119.0
+118,Koweït,119798.0
+12,Bahamas,12169.0
+120,République démocratique populaire lao,63420.0
+121,Liban,239152.0
+122,Lesotho,2.0
+123,Libéria,26665.0
+124,Libye,249303.0
+128,Chine - RAS de Macao,1290.0
+129,Madagascar,98037.0
+13,Bahreïn,14009.0
+130,Malawi,226403.0
+131,Malaisie,3129224.0
+133,Mali,101779.0
+136,Mauritanie,9279.0
+137,Maurice,91119.0
+138,Mexique,6872872.0
+14,Barbade,22990.0
+141,Mongolie,1036.0
+143,Maroc,1019530.0
+144,Mozambique,226396.0
+145,Micronésie (États fédérés de),308.0
+146,République de Moldova,72025.0
+147,Namibie,16364.0
+148,Nauru,8.0
+149,Népal,488853.0
+153,Nouvelle-Calédonie,1788.0
+154,Macédoine du Nord,2502.0
+155,Vanuatu,1113.0
+156,Nouvelle-Zélande,417320.0
+157,Nicaragua,224487.0
+158,Niger,38494.0
+159,Nigéria,611952.0
+16,Bangladesh,400241.0
+160,Nioué,46.0
+162,Norvège,188592.0
+165,Pakistan,3183774.0
+166,Panama,348844.0
+168,Papouasie-Nouvelle-Guinée,12511.0
+169,Paraguay,113658.0
+170,Pérou,3311437.0
+171,Philippines,2677537.0
+175,Guinée-Bissau,5884.0
+176,Timor-Leste,2.0
+177,Porto Rico,52086.0
+178,Érythrée,2299.0
+179,Qatar,65037.0
+18,Bhoutan,3329.0
+181,Zimbabwe,214228.0
+184,Rwanda,33286.0
+185,Fédération de Russie,8784433.0
+188,Saint-Kitts-et-Nevis,1.0
+189,Sainte-Lucie,2513.0
+19,Bolivie (État plurinational de),925535.0
+191,Saint-Vincent-et-les Grenadines,844.0
+193,Sao Tomé-et-Principe,1074.0
+194,Arabie saoudite,1729268.0
+195,Sénégal,233713.0
+196,Seychelles,1765.0
+197,Sierra Leone,37622.0
+2,Afghanistan,2.0
+20,Botswana,914.0
+200,Singapour,3.0
+201,Somalie,7639.0
+202,Afrique du Sud,3625698.0
+207,Suriname,20649.0
+208,Tadjikistan,16394.0
+209,Eswatini,5646.0
+21,Brésil,26491385.0
+211,Suisse,198841.0
+212,République arabe syrienne,183372.0
+213,Turkménistan,43171.0
+214,"Chine, Taiwan Province de",1260814.0
+215,République-Unie de Tanzanie,154867.0
+216,Thaïlande,3347723.0
+217,Togo,43205.0
+218,Tokélaou,9.0
+219,Tonga,411.0
+220,Trinité-et-Tobago,90391.0
+221,Oman,12461.0
+222,Tunisie,276500.0
+223,Türkiye,4108838.0
+225,Émirats arabes unis,101526.0
+226,Ouganda,157515.0
+227,Tuvalu,119.0
+229,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,3447007.0
+23,Belize,34783.0
+230,Ukraine,2256103.0
+231,États-Unis d'Amérique,36149892.0
+233,Burkina Faso,279362.0
+234,Uruguay,134274.0
+235,Ouzbékistan,194831.0
+237,Viet Nam,2180312.0
+238,Éthiopie,129797.0
+244,Samoa,625.0
+249,Yémen,370781.0
+25,Îles Salomon,549.0
+250,République démocratique du Congo,20070.0
+251,Zambie,95445.0
+26,Brunéi Darussalam,45591.0
+272,Serbie,218998.0
+273,Monténégro,2429.0
+276,Soudan,153010.0
+277,Soudan du Sud,66966.0
+28,Myanmar,1175446.0
+29,Burundi,27026.0
+299,Palestine,92052.0
+3,Albanie,22103.0
+32,Cameroun,84473.0
+33,Canada,2397031.0
+35,Cabo Verde,753.0
+351,Chine,29342358.0
+37,République centrafricaine,12016.0
+38,Sri Lanka,414758.0
+39,Tchad,12339.0
+4,Algérie,927230.0
+40,Chili,1334439.0
+41,"Chine, continentale",28045956.0
+44,Colombie,3112267.0
+45,Comores,1108.0
+46,Congo,13380.0
+47,Îles Cook,80.0
+48,Costa Rica,264194.0
+49,Cuba,46114.0
+52,Azerbaïdjan,220844.0
+53,Bénin,18648.0
+55,Dominique,666.0
+56,République dominicaine,557550.0
+57,Bélarus,1016795.0
+58,Équateur,858768.0
+59,Égypte,3901930.0
+60,El Salvador,252746.0
+61,Guinée équatoriale,493.0
+66,Fidji,46971.0
+7,Angola,97280.0
+70,Polynésie française,1100.0
+73,Géorgie,44734.0
+74,Gabon,7863.0
+75,Gambie,2113.0
+8,Antigua-et-Barbuda,21.0
+80,Bosnie-Herzégovine,46363.0
+81,Ghana,109125.0
+83,Kiribati,1875.0
+86,Grenade,951.0
+89,Guatemala,794859.0
+9,Argentine,4263916.0
+90,Guinée,21101.0
+91,Guyana,81916.0
+93,Haïti,14813.0
+95,Honduras,359543.0
+96,Chine - RAS de Hong-Kong,34299.0
+99,Islande,17427.0
